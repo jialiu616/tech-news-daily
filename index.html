@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tech News Daily - Latest Technology Updates</title>
+    <link rel="stylesheet" href="css/styles.css">
+    <link rel="icon" href="assets/favicon.ico" type="image/x-icon">
+</head>
+<body>
+    <header>
+        <div class="container">
+            <h1>📰 Tech News Daily</h1>
+            <p class="subtitle">Stay updated with the latest technology news from around the web</p>
+            <div class="last-updated">
+                Last updated: <span id="lastUpdated">Loading...</span>
+            </div>
+        </div>
+    </header>
+
+    <main class="container">
+        <section class="news-grid" id="newsContainer">
+            <!-- News articles will be dynamically inserted here -->
+            <div class="loading">Loading latest tech news...</div>
+        </section>
+        
+        <div class="refresh-section">
+            <button id="refreshBtn" class="refresh-btn">🔄 Refresh News</button>
+        </div>
+    </main>
+
+    <footer>
+        <div class="container">
+            <p>Powered by web scraping • Updated daily • <a href="https://github.com" target="_blank">View on GitHub</a></p>
+        </div>
+    </footer>
+
+    <script src="js/script.js"></script>
+</body>
+</html>
