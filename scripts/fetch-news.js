@@ -927,6 +927,99 @@ function deduplicateItems(items) {
   });
 }
 
+// ─── Summary Generation ───────────────────────────────────────
+
+function generateDailySummary(items, tagKeywords) {
+  // Count tag frequencies
+  const tagCounts = {};
+  const tagLabels = {
+    ai: 'AI & Machine Learning',
+    crypto: 'Crypto & Blockchain',
+    apple: 'Apple',
+    google: 'Google',
+    microsoft: 'Microsoft',
+    startup: 'Startups & Funding',
+    security: 'Security',
+    space: 'Space Tech',
+    programming: 'Programming',
+    ev: 'EV & Autonomous'
+  };
+
+  for (const item of items) {
+    for (const tag of item.tags || []) {
+      tagCounts[tag] = (tagCounts[tag] || 0) + 1;
+    }
+  }
+
+  // Get top topics sorted by frequency
+  const topTopics = Object.entries(tagCounts)
+    .sort((a, b) => b[1] - a[1])
+    .slice(0, 5)
+    .map(([tag, count]) => ({
+      tag,
+      label: tagLabels[tag] || tag,
+      count
+    }));
+
+  // Get source distribution
+  const sourceCounts = {};
+  for (const item of items) {
+    sourceCounts[item.sourceLabel || item.source] = (sourceCounts[item.sourceLabel || item.source] || 0) + 1;
+  }
+  const topSources = Object.entries(sourceCounts)
+    .sort((a, b) => b[1] - a[1])
+    .slice(0, 5)
+    .map(([source, count]) => ({ source, count }));
+
+  // Get mentioned tech figures
+  const figures = [];
+  for (const item of items) {
+    if (item.mentionedFigures && item.mentionedFigures.length > 0) {
+      figures.push(...item.mentionedFigures);
+    }
+  }
+  const figureCounts = {};
+  for (const f of figures) {
+    figureCounts[f] = (figureCounts[f] || 0) + 1;
+  }
+  const topFigures = Object.entries(figureCounts)
+    .sort((a, b) => b[1] - a[1])
+    .slice(0, 5)
+    .map(([name, count]) => ({ name, count }));
+
+  // Get top 5 headlines (highest scoring items)
+  const headlines = items.slice(0, 5).map(item => ({
+    title: item.title,
+    source: item.sourceLabel || item.source,
+    url: item.url
+  }));
+
+  // Generate text summary
+  let textSummary = '';
+  
+  if (topTopics.length > 0) {
+    const topicNames = topTopics.slice(0, 3).map(t => t.label).join(', ');
+    textSummary += `Today's tech news is dominated by ${topicNames}. `;
+  }
+
+  if (topFigures.length > 0) {
+    const figureNames = topFigures.slice(0, 3).map(f => f.name).join(', ');
+    textSummary += `Key figures in the news include ${figureNames}. `;
+  }
+
+  if (headlines.length > 0) {
+    textSummary += `Top story: "${headlines[0].title}" from ${headlines[0].source}.`;
+  }
+
+  return {
+    text: textSummary,
+    topTopics,
+    topSources,
+    topFigures,
+    headlines
+  };
+}
+
 // ─── Main ─────────────────────────────────────────────────────
 
 async function main() {
@@ -1021,11 +1114,15 @@ async function main() {
     }
   }
 
+  // Generate daily summary
+  const summary = generateDailySummary(top100, tagKeywords);
+
   // Write output
   const output = {
     date: today,
     generatedAt: new Date().toISOString(),
     itemCount: top100.length,
+    summary,
     items: top100
   };
 

@@ -69,6 +69,20 @@
   <!-- Main Content -->
   <main class="main-content">
     <div class="container">
+      <!-- Daily Summary -->
+      <section class="daily-summary" id="dailySummary">
+        <div class="summary-header">
+          <span class="summary-icon">&#x1F4CA;</span>
+          <h2 class="summary-title" data-i18n="summaryTitle">Today's Tech Highlights</h2>
+        </div>
+        <div class="summary-content" id="summaryContent">
+          <div class="summary-loading">
+            <div class="spinner"></div>
+            <span data-i18n="summaryLoading">Generating summary...</span>
+          </div>
+        </div>
+      </section>
+
       <section class="news-grid" id="newsGrid">
         <!-- Cards rendered by JS -->
       </section>

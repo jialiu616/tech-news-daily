@@ -6,9 +6,43 @@ import { initSourceFilters, resetFilters } from './source-filter.js';
 
 let currentItems = [];
 
+function renderSummary(summary) {
+  const container = document.getElementById('summaryContent');
+  if (!container) return;
+
+  if (!summary || !summary.text) {
+    container.innerHTML = '<p style="color: var(--text-muted);">No summary available.</p>';
+    return;
+  }
+
+  let html = `<p>${summary.text}</p>`;
+
+  // Add top topics as tags
+  if (summary.topTopics && summary.topTopics.length > 0) {
+    html += '<div class="summary-topics">';
+    for (const topic of summary.topTopics) {
+      html += `<span class="topic-tag">${topic.label} (${topic.count})</span>`;
+    }
+    html += '</div>';
+  }
+
+  container.innerHTML = html;
+}
+
 async function loadDateData(date) {
   renderLoading();
   resetFilters();
+
+  // Show summary loading state
+  const summaryContent = document.getElementById('summaryContent');
+  if (summaryContent) {
+    summaryContent.innerHTML = `
+      <div class="summary-loading">
+        <div class="spinner"></div>
+        <span>Generating summary...</span>
+      </div>
+    `;
+  }
 
   try {
     const res = await fetch(`data/${date}.json`);
@@ -19,6 +53,7 @@ async function loadDateData(date) {
     renderNews(currentItems);
     initSourceFilters(currentItems);
     updateStats(data);
+    renderSummary(data.summary);
 
     // Update last-updated display
     const lastEl = document.getElementById('lastUpdated');
@@ -31,6 +66,7 @@ async function loadDateData(date) {
     currentItems = [];
     renderError();
     updateStats(null);
+    renderSummary(null);
   }
 }
 

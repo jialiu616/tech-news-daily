@@ -1,7 +1,87 @@
 {
   "date": "2026-03-04",
-  "generatedAt": "2026-03-04T06:25:28.279Z",
+  "generatedAt": "2026-03-04T06:57:27.193Z",
   "itemCount": 100,
+  "summary": {
+    "text": "Today's tech news is dominated by AI & Machine Learning, EV & Autonomous, Startups & Funding. Top story: \"Motorola announces a partnership with GrapheneOS\" from Hacker News.",
+    "topTopics": [
+      {
+        "tag": "ai",
+        "label": "AI & Machine Learning",
+        "count": 41
+      },
+      {
+        "tag": "ev",
+        "label": "EV & Autonomous",
+        "count": 17
+      },
+      {
+        "tag": "startup",
+        "label": "Startups & Funding",
+        "count": 12
+      },
+      {
+        "tag": "google",
+        "label": "Google",
+        "count": 12
+      },
+      {
+        "tag": "apple",
+        "label": "Apple",
+        "count": 10
+      }
+    ],
+    "topSources": [
+      {
+        "source": "IT Home IT之家",
+        "count": 20
+      },
+      {
+        "source": "36Kr 36氪",
+        "count": 18
+      },
+      {
+        "source": "TechCrunch",
+        "count": 18
+      },
+      {
+        "source": "Ars Technica",
+        "count": 11
+      },
+      {
+        "source": "The Verge",
+        "count": 10
+      }
+    ],
+    "topFigures": [],
+    "headlines": [
+      {
+        "title": "Motorola announces a partnership with GrapheneOS",
+        "source": "Hacker News",
+        "url": "https://motorolanews.com/motorola-three-new-b2b-solutions-at-mwc-2026/"
+      },
+      {
+        "title": "Some folks at #FOSDEM tried to buy the makeshift hats one of our team members brought, so I arranged for this prototype ",
+        "source": "Mastodon @Gargron",
+        "url": "https://mastodon.social/@Gargron/116139012647047394"
+      },
+      {
+        "title": "v1.117 is live! \n\nWe rolled out support for Bandcamp embeds. Now you can play songs right inside posts!\n\nWe're big fans ",
+        "source": "Bluesky @jay",
+        "url": "https://bsky.app/profile/jay.bsky.team/post/3mfkhetnvdk2p"
+      },
+      {
+        "title": "I Created An Enterprise MCP Gateway",
+        "source": "dev.to",
+        "url": "https://dev.to/anthonymax/i-created-an-enterprise-mcp-gateway-bg"
+      },
+      {
+        "title": "Meta’s AI smart glasses and data privacy concerns",
+        "source": "Hacker News",
+        "url": "https://www.svd.se/a/K8nrV4/metas-ai-smart-glasses-and-data-privacy-concerns-workers-say-we-see-everything"
+      }
+    ]
+  },
   "items": [
     {
       "id": "hn-47214645",
@@ -14,8 +94,8 @@
       "author": "km",
       "publishedAt": "2026-03-02T06:48:07.000Z",
       "engagement": {
-        "upvotes": 2309,
-        "comments": 859
+        "upvotes": 2310,
+        "comments": 860
       },
       "image": null,
       "score": 100,
@@ -54,7 +134,7 @@
       "author": "Bluesky",
       "publishedAt": "2026-02-23T20:08:29.214Z",
       "engagement": {
-        "upvotes": 7297,
+        "upvotes": 7296,
         "comments": 251
       },
       "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:z72i7hdynmk6r22z27h6tvur/bafkreie5elqwg5uzrbujqup3hhoukpzxlcls2ms7gv6yswo5dhk6avzqhm@jpeg",
@@ -77,37 +157,15 @@
       "publishedAt": "2026-03-03T21:52:23Z",
       "engagement": {
         "upvotes": 49,
-        "comments": 4
+        "comments": 5
       },
       "image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F9m7qo3il2puoxlo0g1w9.png",
-      "score": 72.6,
+      "score": 74.3,
       "mentionedFigures": [],
       "rank": 4,
       "tags": [
         "ai",
         "ev"
-      ]
-    },
-    {
-      "id": "reddit-1rj9vjo",
-      "title": "ChatGPT uninstalls surged by 295% after DoD deal",
-      "url": "https://techcrunch.com/2026/03/02/chatgpt-uninstalls-surged-by-295-after-dod-deal/",
-      "description": "ChatGPT uninstalls surged by 295% after DoD deal",
-      "source": "reddit",
-      "sourceLabel": "r/technology",
-      "sourceUrl": "https://reddit.com/r/technology/comments/1rj9vjo/chatgpt_uninstalls_surged_by_295_after_dod_deal/",
-      "author": "MarvelsGrantMan136",
-      "publishedAt": "2026-03-03T00:05:57.000Z",
-      "engagement": {
-        "upvotes": 40759,
-        "comments": 1274
-      },
-      "image": "https://external-preview.redd.it/XvVMuxlgekAZzO3seZ9Kmbr3C_imtmKXASrcz4kDAP0.jpeg?width=140&amp;height=93&amp;auto=webp&amp;s=6d1504c1ca20b1dc00333fc7ee701d62c74e1655",
-      "score": 72.4,
-      "mentionedFigures": [],
-      "rank": 5,
-      "tags": [
-        "ai"
       ]
     },
     {
@@ -122,34 +180,34 @@
       "publishedAt": "2026-03-02T22:32:35.000Z",
       "engagement": {
         "upvotes": 1377,
-        "comments": 777
+        "comments": 778
       },
       "image": null,
       "score": 72,
       "mentionedFigures": [],
-      "rank": 6,
+      "rank": 5,
       "tags": [
         "ai"
       ]
     },
     {
-      "id": "reddit-1rjxe9f",
-      "title": "1.5 Million Users Leave ChatGPT",
-      "url": "https://www.forbes.com/sites/barrycollins/2026/03/02/leaving-chatgpt-make-sure-to-do-this-before-you-cancel/",
-      "description": "1.5 Million Users Leave ChatGPT",
+      "id": "reddit-1rj9vjo",
+      "title": "ChatGPT uninstalls surged by 295% after DoD deal",
+      "url": "https://techcrunch.com/2026/03/02/chatgpt-uninstalls-surged-by-295-after-dod-deal/",
+      "description": "ChatGPT uninstalls surged by 295% after DoD deal",
       "source": "reddit",
       "sourceLabel": "r/technology",
-      "sourceUrl": "https://reddit.com/r/technology/comments/1rjxe9f/15_million_users_leave_chatgpt/",
+      "sourceUrl": "https://reddit.com/r/technology/comments/1rj9vjo/chatgpt_uninstalls_surged_by_295_after_dod_deal/",
       "author": "MarvelsGrantMan136",
-      "publishedAt": "2026-03-03T18:35:06.000Z",
+      "publishedAt": "2026-03-03T00:05:57.000Z",
       "engagement": {
-        "upvotes": 31309,
-        "comments": 1359
+        "upvotes": 40792,
+        "comments": 1274
       },
-      "image": "https://external-preview.redd.it/O7YBJwRhs1MpUMeg5XNoSJKQO7LmJThAdovqv13XP50.jpeg?width=140&amp;height=98&amp;auto=webp&amp;s=20cefb596b860470ef4fdfc057fb02a71fdf7419",
-      "score": 69.3,
+      "image": "https://external-preview.redd.it/XvVMuxlgekAZzO3seZ9Kmbr3C_imtmKXASrcz4kDAP0.jpeg?width=140&amp;height=93&amp;auto=webp&amp;s=6d1504c1ca20b1dc00333fc7ee701d62c74e1655",
+      "score": 71.9,
       "mentionedFigures": [],
-      "rank": 7,
+      "rank": 6,
       "tags": [
         "ai"
       ]
@@ -171,36 +229,13 @@
       "image": null,
       "score": 67.9,
       "mentionedFigures": [],
-      "rank": 8,
+      "rank": 7,
       "tags": [
         "ev"
       ]
     },
     {
-      "id": "techcrunch-0-1772605523521",
-      "title": "Why AI startups are selling the same equity at two different prices",
-      "url": "https://techcrunch.com/2026/03/03/why-ai-startups-are-selling-the-same-equity-at-two-different-prices/",
-      "description": "Some AI founders are using a novel valuation mechanism to manufacture unicorn status.",
-      "source": "techcrunch",
-      "sourceLabel": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/03/03/why-ai-startups-are-selling-the-same-equity-at-two-different-prices/",
-      "author": "Marina Temkin",
-      "publishedAt": "2026-03-04T00:31:25.000Z",
-      "engagement": {
-        "upvotes": 0,
-        "comments": 0
-      },
-      "image": null,
-      "score": 66,
-      "mentionedFigures": [],
-      "rank": 9,
-      "tags": [
-        "ai",
-        "startup"
-      ]
-    },
-    {
-      "id": "36kr-0-1772605526237",
+      "id": "36kr-0-1772607445822",
       "title": "何小鹏：未来1-3年完全自动驾驶将真正到来｜最前线",
       "url": "https://36kr.com/p/3707327485505672?f=rss",
       "description": "小鹏汽车董事长 何小鹏\n文｜肖漫\n编辑｜李勤\n“通过我们内部比较测评，我认为比行业一流选手领先接近5倍。”在第二代VLA发布会后的交流中，小鹏汽车董事长兼CEO何小鹏说道。\n智驾的演进，正从“软件定义汽车”变为“AI 定义超级智能体”。新浪潮下，小鹏汽车给出了他们面向未来的激进解法：跳过在硬件、软件与法规层面皆面临妥协的 L3 阶段，直接以 L2 和 L4 作为智驾演进的核心锚点。\n在何小鹏看来，第二代VLA已经让小鹏具备从L2直接进入L4的可能性。\n小鹏和特斯拉一样，不再是在原有的智驾框架里修修补补，而是彻底把自动驾驶当成通用人工智能（AGI）在物理世界的落地来解题。战略变化前，小鹏已将智能",
@@ -216,14 +251,14 @@
       "image": "https://img.36krcdn.com/hsossms/20260303/v2_21b461911b784a1ab20be7267784d8db@6310690_oswg3251215oswg3634oswg2267_img_jpg?x-oss-process=image/quality,q_80/format,jpg/interlace,1",
       "score": 66,
       "mentionedFigures": [],
-      "rank": 10,
+      "rank": 8,
       "tags": [
         "ai",
         "ev"
       ]
     },
     {
-      "id": "36kr-1-1772605526237",
+      "id": "36kr-1-1772607445822",
       "title": "阳台储能公司获数千万融资，用消费硬件逻辑重新定义户用储能｜硬氪首发",
       "url": "https://36kr.com/p/3706785150546307?f=rss",
       "description": "作者｜黄楠\n编辑｜袁斯来\n硬氪获悉，临阁能源科技（苏州）有限公司（以下简称“临阁能源”）近日完成数千万元天使轮融资，本轮投资方为天空工场创投，融资资金将重点投入核心技术研发、持续丰富产品矩阵，推进产品的规模化化生产交付，并加快全球渠道布局。\n作为MOVA的生态链企业，临阁能源是一家聚焦家庭阳台储能场景的智能硬件与能源方案服务商，专注阳台储能产品的研发与生产，集成磷酸铁锂电池、智能逆变器与AI能源算法，致力构建一体化的家庭能源生态，推动家庭用电智能化与低碳化。\n公司总裁沈洪锦曾担任头部割草机器人企业的全球市场推广与销售负责人，其产品在欧美市场销量实现数倍增长、行业出货量第一。创始团队拥有多款储能",
@@ -239,14 +274,14 @@
       "image": "https://img.36krcdn.com/hsossms/20260303/v2_8bc81385763844a094b9bb72706e58cd@6022551_oswg192316oswg1308oswg731_img_png?x-oss-process=image/quality,q_100/format,jpg/interlace,1",
       "score": 66,
       "mentionedFigures": [],
-      "rank": 11,
+      "rank": 9,
       "tags": [
         "ai",
         "startup"
       ]
     },
     {
-      "id": "36kr-2-1772605526237",
+      "id": "36kr-2-1772607445822",
       "title": "前大疆工程师创业，宇树天使投资人出手，仿生柔性机器人公司完成新融资｜硬氪首发",
       "url": "https://36kr.com/p/3701222224817801?f=rss",
       "description": "作者｜黄楠\n编辑｜袁斯来\n硬氪获悉，深圳擎羽科技有限公司（以下简称“擎羽科技”）近日完成数千万元天使轮融资。本轮领投方为德迅投资，作为宇树科技的天使投资人，这也是其继极壳科技、首形科技、若创科技后，在硬件领域出手布局的又一项目。老股东奇绩创坛本轮持续加注。融资资金将用于技术研发投入、产品迭代及多场景商业化探索。\n擎羽科技成立于2025年3月，专注仿生柔性机器人研发，其采用自适应柔驱技术，可以实现接近人类手臂的灵活性与安全性，解决传统机器人刚性限制问题。创始人兼CEO彭锐为香港大学机器人学博士，获25-26届港府青年科学家奖项，曾任大疆嵌入式工程师，具备近十年机器人工程研发和学术经验。\n2026",
@@ -262,14 +297,74 @@
       "image": "https://img.36krcdn.com/hsossms/20260303/v2_ac33c4f2bbaf4dd4a6d517b9ebec37e9@6022551_oswg91478oswg1935oswg1080_img_jpg?x-oss-process=image/quality,q_100/format,jpg/interlace,1",
       "score": 66,
       "mentionedFigures": [],
-      "rank": 12,
+      "rank": 10,
       "tags": [
         "startup",
         "security"
       ]
     },
     {
-      "id": "36kr-10-1772605526238",
+      "id": "36kr-10-1772607445822",
+      "title": "数字支付应用程序PhonePe寻求在印度IPO中实现高达105亿美元的估值",
+      "url": "https://36kr.com/newsflashes/3708264684187777?f=rss",
+      "description": "沃尔玛支持的数字支付应用程序PhonePe寻求在印度IPO中实现高达105亿美元的估值，目标在2026年4月前完成公开上市。（财联社）",
+      "source": "36kr",
+      "sourceLabel": "36Kr 36氪",
+      "sourceUrl": "https://36kr.com/newsflashes/3708264684187777?f=rss",
+      "author": null,
+      "publishedAt": "2026-03-04T06:41:54.000Z",
+      "engagement": {
+        "upvotes": 0,
+        "comments": 0
+      },
+      "image": null,
+      "score": 66,
+      "mentionedFigures": [],
+      "rank": 11,
+      "tags": []
+    },
+    {
+      "id": "36kr-11-1772607445822",
+      "title": "英国2026年经济增长预期下调至1.1%",
+      "url": "https://36kr.com/newsflashes/3708264122642563?f=rss",
+      "description": "英国预算责任办公室3日发表声明，将2026年英国经济增长预期从上次预估的1.4%下调至1.1%。（新华社）",
+      "source": "36kr",
+      "sourceLabel": "36Kr 36氪",
+      "sourceUrl": "https://36kr.com/newsflashes/3708264122642563?f=rss",
+      "author": null,
+      "publishedAt": "2026-03-04T06:41:20.000Z",
+      "engagement": {
+        "upvotes": 0,
+        "comments": 0
+      },
+      "image": null,
+      "score": 66,
+      "mentionedFigures": [],
+      "rank": 12,
+      "tags": []
+    },
+    {
+      "id": "36kr-12-1772607445822",
+      "title": "韩国政府：如有需要，将积极启动100万亿韩元的市场稳定计划",
+      "url": "https://36kr.com/newsflashes/3708256493416838?f=rss",
+      "description": "韩国政府表示，正密切关注股市，如有需要，韩国将积极启动100万亿韩元的市场稳定计划。（财联社）",
+      "source": "36kr",
+      "sourceLabel": "36Kr 36氪",
+      "sourceUrl": "https://36kr.com/newsflashes/3708256493416838?f=rss",
+      "author": null,
+      "publishedAt": "2026-03-04T06:33:34.000Z",
+      "engagement": {
+        "upvotes": 0,
+        "comments": 0
+      },
+      "image": null,
+      "score": 66,
+      "mentionedFigures": [],
+      "rank": 13,
+      "tags": []
+    },
+    {
+      "id": "36kr-13-1772607445822",
       "title": "世界铂金投资协会：今年铂金市场供应缺口将达24万盎司",
       "url": "https://36kr.com/newsflashes/3708239631822983?f=rss",
       "description": "世界铂金投资协会（WPIC）周三表示，全球铂金市场料将连续第四年出现供应短缺，预计2026年的缺口将达24万盎司。该协会三个月前曾预计市场将大致平衡。现货铂金价格在2025年大涨127%后，今年迄今已上涨2%，并于1月26日触及每盎司2,918.80美元的纪录高位。（财联社）",
@@ -285,13 +380,13 @@
       "image": null,
       "score": 66,
       "mentionedFigures": [],
-      "rank": 13,
+      "rank": 14,
       "tags": [
         "startup"
       ]
     },
     {
-      "id": "36kr-11-1772605526238",
+      "id": "36kr-14-1772607445822",
       "title": "沪深两市成交额突破2万亿元",
       "url": "https://36kr.com/newsflashes/3708231937257856?f=rss",
       "description": "36氪获悉，沪深两市成交额突破2万亿元。",
@@ -307,11 +402,11 @@
       "image": null,
       "score": 66,
       "mentionedFigures": [],
-      "rank": 14,
+      "rank": 15,
       "tags": []
     },
     {
-      "id": "36kr-12-1772605526238",
+      "id": "36kr-15-1772607445822",
       "title": "沪深京三市成交额突破2万亿",
       "url": "https://36kr.com/newsflashes/3708225007186051?f=rss",
       "description": "36氪获悉，沪深京三市成交额突破2万亿，较上日此时缩量超5300亿。",
@@ -327,11 +422,11 @@
       "image": null,
       "score": 66,
       "mentionedFigures": [],
-      "rank": 15,
+      "rank": 16,
       "tags": []
     },
     {
-      "id": "36kr-13-1772605526238",
+      "id": "36kr-16-1772607445822",
       "title": "大会发言人：中国必将是外商理想、安全、有为的投资目的地",
       "url": "https://36kr.com/newsflashes/3708220795990401?f=rss",
       "description": "十四届全国人大四次会议今天（3月4日）在人民大会堂举行新闻发布会，大会发言人娄勤俭就大会议程和人大工作相关问题回答中外记者提问。娄勤俭介绍，只有开放的中国才会成为现代化的中国。中国过去是、现在是、将来也必将是外商理想、安全、有为的投资目的地。（央视新闻）",
@@ -347,14 +442,14 @@
       "image": null,
       "score": 66,
       "mentionedFigures": [],
-      "rank": 16,
+      "rank": 17,
       "tags": [
         "startup",
         "security"
       ]
     },
     {
-      "id": "36kr-14-1772605526238",
+      "id": "36kr-17-1772607445822",
       "title": "机构：功耗降至铜缆5%，Micro LED CPO开启数据中心互连新局",
       "url": "https://36kr.com/newsflashes/3708216761921927?f=rss",
       "description": "36氪获悉，根据TrendForce集邦咨询最新调查，随着生成式AI兴起，数据中心对高速传输的需求持续提升，原先应用在机柜内（Intra-Rack）短距传输的铜缆方案，将在传输密度与节能上面临严峻挑战。相比之下，Micro LED CPO方案的单位传输能耗较低，可大幅降低整体能耗至铜缆方案的5%，有望凭节能优势成为光互连替代方案。",
@@ -370,13 +465,13 @@
       "image": null,
       "score": 66,
       "mentionedFigures": [],
-      "rank": 17,
+      "rank": 18,
       "tags": [
         "ai"
       ]
     },
     {
-      "id": "36kr-15-1772605526238",
+      "id": "36kr-18-1772607445822",
       "title": "智元灵渠OS开源上线",
       "url": "https://36kr.com/newsflashes/3708210559545735?f=rss",
       "description": "36氪获悉，据智元机器人消息，灵渠OS Alpha版本，现已正式开源发布。据介绍，本次发布的灵渠OS Alpha版本，是基于量产实践的全尺寸智元远征A2本体，开源跨平台具身软件框架、基于强化学习的双足运控框架与双足运控仿真训练部署一站式工具链。",
@@ -392,13 +487,13 @@
       "image": null,
       "score": 66,
       "mentionedFigures": [],
-      "rank": 18,
+      "rank": 19,
       "tags": [
         "programming"
       ]
     },
     {
-      "id": "36kr-16-1772605526238",
+      "id": "36kr-19-1772607445822",
       "title": "泰国期货交易所宣布暂停股指期货、股指期权及个股期货交易",
       "url": "https://36kr.com/newsflashes/3708201523736708?f=rss",
       "description": "据报道，泰国期货交易所3月4日宣布暂停股指期货、股指期权及个股期货的交易。（界面）",
@@ -414,69 +509,7 @@
       "image": null,
       "score": 66,
       "mentionedFigures": [],
-      "rank": 19,
-      "tags": []
-    },
-    {
-      "id": "36kr-17-1772605526238",
-      "title": "韩国金融监管机构称加强对海外私人信贷基金的风险控制",
-      "url": "https://36kr.com/newsflashes/3708198843429250?f=rss",
-      "description": "韩国金融监管机构在一份声明中表示，随着国内投资者的基金销售余额增加，要求加强对海外私人信贷基金的风险管理。金融监管局的官员与当地主要的证券公司举行了会议，讨论了这些基金可能带来的潜在风险。监管当局要求当地证券公司在所有与海外私人信贷基金相关的事务中将保护投资者权益置于首位。（财联社）",
-      "source": "36kr",
-      "sourceLabel": "36Kr 36氪",
-      "sourceUrl": "https://36kr.com/newsflashes/3708198843429250?f=rss",
-      "author": null,
-      "publishedAt": "2026-03-04T05:34:55.000Z",
-      "engagement": {
-        "upvotes": 0,
-        "comments": 0
-      },
-      "image": null,
-      "score": 66,
-      "mentionedFigures": [],
       "rank": 20,
-      "tags": [
-        "startup"
-      ]
-    },
-    {
-      "id": "36kr-18-1772605526238",
-      "title": "小熊电器：暂无开发电子萌宠类产品",
-      "url": "https://36kr.com/newsflashes/3708192740520328?f=rss",
-      "description": "36氪获悉，小熊电器在互动平台表示，公司目前有猫咪饮水机等宠物类小家电在售，暂无开发电子萌宠类产品。",
-      "source": "36kr",
-      "sourceLabel": "36Kr 36氪",
-      "sourceUrl": "https://36kr.com/newsflashes/3708192740520328?f=rss",
-      "author": null,
-      "publishedAt": "2026-03-04T05:28:43.000Z",
-      "engagement": {
-        "upvotes": 0,
-        "comments": 0
-      },
-      "image": null,
-      "score": 66,
-      "mentionedFigures": [],
-      "rank": 21,
-      "tags": []
-    },
-    {
-      "id": "36kr-19-1772605526238",
-      "title": "中科环保：暂时未在SAF领域有相关技术研究成果",
-      "url": "https://36kr.com/newsflashes/3708190009717125?f=rss",
-      "description": "36氪获悉，中科环保在互动平台表示，公司暂时未在SAF领域有相关技术研究成果。",
-      "source": "36kr",
-      "sourceLabel": "36Kr 36氪",
-      "sourceUrl": "https://36kr.com/newsflashes/3708190009717125?f=rss",
-      "author": null,
-      "publishedAt": "2026-03-04T05:25:56.000Z",
-      "engagement": {
-        "upvotes": 0,
-        "comments": 0
-      },
-      "image": null,
-      "score": 66,
-      "mentionedFigures": [],
-      "rank": 22,
       "tags": []
     },
     {
@@ -490,16 +523,38 @@
       "author": "PaiDuck",
       "publishedAt": "2026-03-03T22:55:19.000Z",
       "engagement": {
-        "upvotes": 9554,
-        "comments": 4118
+        "upvotes": 10062,
+        "comments": 4290
       },
       "image": "https://external-preview.redd.it/R0kLj7ZXsnPEudh7BhHKg4c5224ymfNIIZmHHpHR978.jpeg?width=140&amp;height=71&amp;auto=webp&amp;s=69deee645517b03d3a5b752cb138e8b0d9bcfe30",
-      "score": 64.1,
+      "score": 64.8,
       "mentionedFigures": [],
-      "rank": 23,
+      "rank": 21,
       "tags": [
         "ai",
         "microsoft"
+      ]
+    },
+    {
+      "id": "reddit-1rjxe9f",
+      "title": "1.5 Million Users Leave ChatGPT",
+      "url": "https://www.forbes.com/sites/barrycollins/2026/03/02/leaving-chatgpt-make-sure-to-do-this-before-you-cancel/",
+      "description": "1.5 Million Users Leave ChatGPT",
+      "source": "reddit",
+      "sourceLabel": "r/technology",
+      "sourceUrl": "https://reddit.com/r/technology/comments/1rjxe9f/15_million_users_leave_chatgpt/",
+      "author": "MarvelsGrantMan136",
+      "publishedAt": "2026-03-03T18:35:06.000Z",
+      "engagement": {
+        "upvotes": 31662,
+        "comments": 1367
+      },
+      "image": "https://external-preview.redd.it/O7YBJwRhs1MpUMeg5XNoSJKQO7LmJThAdovqv13XP50.jpeg?width=140&amp;height=98&amp;auto=webp&amp;s=20cefb596b860470ef4fdfc057fb02a71fdf7419",
+      "score": 64.3,
+      "mentionedFigures": [],
+      "rank": 22,
+      "tags": [
+        "ai"
       ]
     },
     {
@@ -514,75 +569,15 @@
       "publishedAt": "2026-03-03T18:07:58Z",
       "engagement": {
         "upvotes": 18,
-        "comments": 15
+        "comments": 16
       },
       "image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fbuzmb56tjslaxhscaus0.png",
       "score": 60.3,
       "mentionedFigures": [],
-      "rank": 24,
+      "rank": 23,
       "tags": [
         "ai"
       ]
-    },
-    {
-      "id": "reddit-1rk73z9",
-      "title": "First Principles While Designing C++ Applications - Prabhu Missier - CppCon 2025",
-      "url": "https://www.youtube.com/watch?v=8mLo5gXwn4k",
-      "description": "First Principles While Designing C++ Applications - Prabhu Missier - CppCon 2025",
-      "source": "reddit",
-      "sourceLabel": "r/programming",
-      "sourceUrl": "https://reddit.com/r/programming/comments/1rk73z9/first_principles_while_designing_c_applications/",
-      "author": "BlueGoliath",
-      "publishedAt": "2026-03-04T00:49:11.000Z",
-      "engagement": {
-        "upvotes": 0,
-        "comments": 0
-      },
-      "image": null,
-      "score": 60,
-      "mentionedFigures": [],
-      "rank": 25,
-      "tags": []
-    },
-    {
-      "id": "reddit-1rk72k1",
-      "title": "Threads vs Coroutines — Why C++ Has Two Concurrency Models - Conor Spilsbury - CppCon 2025",
-      "url": "https://www.youtube.com/watch?v=txffplpsSzg",
-      "description": "Threads vs Coroutines — Why C++ Has Two Concurrency Models - Conor Spilsbury - CppCon 2025",
-      "source": "reddit",
-      "sourceLabel": "r/programming",
-      "sourceUrl": "https://reddit.com/r/programming/comments/1rk72k1/threads_vs_coroutines_why_c_has_two_concurrency/",
-      "author": "BlueGoliath",
-      "publishedAt": "2026-03-04T00:47:30.000Z",
-      "engagement": {
-        "upvotes": 0,
-        "comments": 0
-      },
-      "image": null,
-      "score": 60,
-      "mentionedFigures": [],
-      "rank": 26,
-      "tags": []
-    },
-    {
-      "id": "reddit-1rk729t",
-      "title": "Interesting Upcoming Low-Latency, Concurrency, and Parallelism Features - CppCon 2025",
-      "url": "https://www.youtube.com/watch?v=M1pqI1B9Zjs",
-      "description": "Interesting Upcoming Low-Latency, Concurrency, and Parallelism Features - CppCon 2025",
-      "source": "reddit",
-      "sourceLabel": "r/programming",
-      "sourceUrl": "https://reddit.com/r/programming/comments/1rk729t/interesting_upcoming_lowlatency_concurrency_and/",
-      "author": "BlueGoliath",
-      "publishedAt": "2026-03-04T00:47:10.000Z",
-      "engagement": {
-        "upvotes": 0,
-        "comments": 0
-      },
-      "image": null,
-      "score": 60,
-      "mentionedFigures": [],
-      "rank": 27,
-      "tags": []
     },
     {
       "id": "v2ex-1195613",
@@ -596,16 +591,340 @@
       "publishedAt": "2026-03-04T01:03:34.000Z",
       "engagement": {
         "upvotes": 0,
-        "comments": 158
+        "comments": 163
       },
       "image": "https://cdn.v2ex.com/gravatar/7ca0bf971ebafaa3e8f268a01f680d2f?s=73&d=retro",
       "score": 60,
       "mentionedFigures": [],
-      "rank": 28,
+      "rank": 24,
       "tags": []
     },
     {
-      "id": "ithome-0-1772605528270",
+      "id": "ithome-0-1772607447181",
+      "title": "华为乾崑发布全球量产最高的 896 线激光雷达：超高清、超精准、超远距",
+      "url": "https://www.ithome.com/0/925/812.htm",
+      "description": "IT之家 3 月 4 日消息，在今日的鸿蒙智行技术焕新发布会上，华为常务董事、产品投资评审委员会主任、终端 BG 董事长余承东宣布发布新一代双光路图像级 896 线激光雷达。\n这也是目前全球量产最高规格的激光雷达产品，感知能力从“点云级”正式迈入“图像级”。\n\n据介绍，全新激光雷达采用华为乾崑首创的双光路专利技术，内部集成两个不同焦段的激光接受单元，可在 120 米外超远距识别 14cm 目标。同时，视窗硬度提升 25%，耐久能力提升 2 倍。\n鸿蒙智行技术焕新发布会仍在进行中，IT之家将持续为大家带来相关报道。",
+      "source": "ithome",
+      "sourceLabel": "IT Home IT之家",
+      "sourceUrl": "https://www.ithome.com/0/925/812.htm",
+      "author": null,
+      "publishedAt": "2026-03-04T06:54:50.000Z",
+      "engagement": {
+        "upvotes": 0,
+        "comments": 0
+      },
+      "image": "https://img.ithome.com/newsuploadfiles/2026/3/604fccbc-4575-45c4-b2cd-fa788c72ccad.jpg?x-bce-process=image/format,f_auto",
+      "score": 60,
+      "mentionedFigures": [],
+      "rank": 25,
+      "tags": [
+        "startup"
+      ]
+    },
+    {
+      "id": "ithome-1-1772607447181",
+      "title": "九州风神推出 LT360 VISION 一体式水冷散热器：冷头屏幕支持多角度调节，699 元",
+      "url": "https://www.ithome.com/0/925/811.htm",
+      "description": "IT之家 3 月 4 日消息，九州风神现已在京东上架 LT360 VISION 一体式水冷散热器，该散热器配备一块 4.5 英寸全视角显示面板，定价为 699 元。\n\n官方强调该水冷散热器冷头屏幕安装在阻尼铰链上，支持多角度调节，可倾斜度达 90 度，实现全视野无死角展示动态内容，面板具体规格为 854x480 分辨率 60Hz，支持播放 MP4 视频等个性化内容。\n\n\n该水冷散热器采用自研第 6 代 PWM 水泵方案 / 全铝冷排；标配聚风环 ARGB 风扇，其转速设定为风扇转速设定在 500~2500 RPM ± 10%，最大风量 / 风压分别可达 75.33 CFM 和 2.41 mmA",
+      "source": "ithome",
+      "sourceLabel": "IT Home IT之家",
+      "sourceUrl": "https://www.ithome.com/0/925/811.htm",
+      "author": null,
+      "publishedAt": "2026-03-04T06:53:33.000Z",
+      "engagement": {
+        "upvotes": 0,
+        "comments": 0
+      },
+      "image": "https://img.ithome.com/newsuploadfiles/2026/3/f1060db2-620a-451f-9f02-fdecf2881bd4.jpg?x-bce-process=image/format,f_auto",
+      "score": 60,
+      "mentionedFigures": [],
+      "rank": 26,
+      "tags": []
+    },
+    {
+      "id": "ithome-2-1772607447181",
+      "title": "Nics 推出 Hesper64 (77) 矮轴三模机械键盘，单键位支持双重输入",
+      "url": "https://www.ithome.com/0/925/810.htm",
+      "description": "IT之家 3 月 4 日消息，Nics 团队最近推出了 Hesper64 (77) 矮轴三模机械键盘。IT之家注意到，其与全球首款“双动作”矮轴键盘 Hesper64 (100) 共享技术基础，但减少了特殊按键开关的搭载数量。\n\nHesper64 (77) 的特色在于可以 64 个键位执行 77 种不同输入，而这得益于 Nics 首创的“双动作”技术：其将一个按键拆分为上下两个均可独立触发单独指令的子键，按压这些开关的上端和下端便可实现不同字符输入。\n\n这款键盘拥有铝合金上盖和 PC 底盖并装饰以黄铜功能按钮，键帽材质为 PBT 与 PC，内置多层吸声填充，配备底部“悬浮灯环”、双区可调背光。",
+      "source": "ithome",
+      "sourceLabel": "IT Home IT之家",
+      "sourceUrl": "https://www.ithome.com/0/925/810.htm",
+      "author": null,
+      "publishedAt": "2026-03-04T06:53:08.000Z",
+      "engagement": {
+        "upvotes": 0,
+        "comments": 0
+      },
+      "image": "https://img.ithome.com/newsuploadfiles/2026/3/6ccad923-4e61-44ca-aa09-31d391698691.png?x-bce-process=image/format,f_auto",
+      "score": 60,
+      "mentionedFigures": [],
+      "rank": 27,
+      "tags": []
+    },
+    {
+      "id": "ithome-3-1772607447181",
+      "title": "消息称 AI 编程助手 Cursor 年化收入突破 20 亿美元，企业客户贡献六成",
+      "url": "https://www.ithome.com/0/925/809.htm",
+      "description": "IT之家 3 月 4 日消息，据彭博社消息人士透露，AI 编程助手 Cursor 的年化收入已突破 20 亿美元（IT之家注：现汇率约合 138.3 亿元人民币）。该人士称，这家成立仅四年的初创公司，其收入运行率（Revenue Run Rate，RRR）在过去三个月内实现翻倍。\n\n上周，多条推文在网络上发酵，质疑 Cursor 的增长势头是否已停滞，理由是不少知名独立开发者转投竞品工具，尤其是 Anthropic 的 Claude Code。\nCursor 成立于 2022 年，最初主要面向个人开发者销售产品。但据彭博社报道，过去一年，公司将重心转向大型企业客户，目前企业客户已贡献约 60%",
+      "source": "ithome",
+      "sourceLabel": "IT Home IT之家",
+      "sourceUrl": "https://www.ithome.com/0/925/809.htm",
+      "author": null,
+      "publishedAt": "2026-03-04T06:51:01.000Z",
+      "engagement": {
+        "upvotes": 0,
+        "comments": 0
+      },
+      "image": "https://img.ithome.com/newsuploadfiles/2026/3/c0095002-a715-43ba-90cd-d1ae3f047b38.png?x-bce-process=image/format,f_auto",
+      "score": 60,
+      "mentionedFigures": [],
+      "rank": 28,
+      "tags": [
+        "ai",
+        "programming",
+        "ev"
+      ]
+    },
+    {
+      "id": "ithome-4-1772607447181",
+      "title": "华为余承东：尊界 S800 累计交付量超 1.5 万辆，上险量以一打三保时捷、奔驰 S、迈巴赫",
+      "url": "https://www.ithome.com/0/925/808.htm",
+      "description": "IT之家 3 月 4 日消息，在今天的鸿蒙智行技术焕新发布会上，华为常务董事、产品投资评审委员会主任、终端 BG 董事长余承东宣布，尊界 S800 引领中国汽车产业向超高端突破，连续 5 个月稳居百万豪车销量冠军。\n\n据余承东介绍，尊界 S800 上市 9 个月累计交付量 15,000 辆。另外，尊界 S800 的上险量“以一打三”：2025 年 9 月至 2026 年 1 月累计上险量 13,092 辆，超越保时捷 Panamera、奔驰迈巴赫、奔驰 S 级。\n\n余承东还宣布，尊界 S800 领衔鸿蒙生态产品，获第十届中国设计智造大奖，是全场的最大奖。\n\n目前，鸿蒙智行已全系升级华为乾崑智驾",
+      "source": "ithome",
+      "sourceLabel": "IT Home IT之家",
+      "sourceUrl": "https://www.ithome.com/0/925/808.htm",
+      "author": null,
+      "publishedAt": "2026-03-04T06:45:15.000Z",
+      "engagement": {
+        "upvotes": 0,
+        "comments": 0
+      },
+      "image": "https://img.ithome.com/newsuploadfiles/2026/3/6d02eb17-0cac-4211-8608-c52e38eacc08.jpg?x-bce-process=image/format,f_auto",
+      "score": 60,
+      "mentionedFigures": [],
+      "rank": 29,
+      "tags": [
+        "startup"
+      ]
+    },
+    {
+      "id": "ithome-5-1772607447181",
+      "title": "马斯克的 X 平台整治虚假战争视频：未标注 AI 生成的创作者暂停收益分成 90 天",
+      "url": "https://www.ithome.com/0/925/806.htm",
+      "description": "IT之家 3 月 4 日消息，马斯克的 X 平台今日宣布，将对发布未标注 AI 生成的武装冲突相关视频的创作者采取处罚措施。当地时间周二，X 平台产品负责人尼基塔 · 比尔宣布，利用 AI 技术以此类方式误导他人的用户，将被取消创作者收益分成计划资格，为期三个月（90 天）。若处罚期满后仍继续发布误导性 AI 内容，将被永久取消该计划资格。\n\n“战争期间，人们获取真实的战地信息至关重要。而在当下 AI 技术的加持下，制作误导性内容轻而易举。”比尔在 X 平台发文称，“即日起，用户发布 AI 生成的武装冲突视频，若未标注该内容由 AI 制作，将被暂停创作者收益分成资格 90 天。”\nX 平台表示",
+      "source": "ithome",
+      "sourceLabel": "IT Home IT之家",
+      "sourceUrl": "https://www.ithome.com/0/925/806.htm",
+      "author": null,
+      "publishedAt": "2026-03-04T06:44:19.000Z",
+      "engagement": {
+        "upvotes": 0,
+        "comments": 0
+      },
+      "image": "https://img.ithome.com/newsuploadfiles/2026/3/b00215e2-9e13-4968-bfd8-ac8b79368021.png?x-bce-process=image/format,f_auto",
+      "score": 60,
+      "mentionedFigures": [],
+      "rank": 30,
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "id": "ithome-6-1772607447181",
+      "title": "三星展示概念手机：屏幕能从 5.1 英寸“拉长”至 6.7 英寸",
+      "url": "https://www.ithome.com/0/925/805.htm",
+      "description": "IT之家 3 月 4 日消息，科技媒体 Android Authority 昨日（3 月 3 日）发布博文，报道称在巴塞罗那召开的 MWC 2026 展会期间，三星公开展示 Mobile Slidable 概念手机，通过滑轨，将屏幕尺寸为 5.1 英寸扩展到 6.7 英寸。\n\n在设计方面，Mobile Slidable 概念手机采用滑出式设计，用户操作后，屏幕会从机身顶部向上滑出，从而增加显示面积。IT之家附上相关图片如下：\n\n\n\n\n根据三星展示的规格表，这块 OLED 面板在未展开时为 5.1 英寸（16:9 比例），完全展开后增至 6.7 英寸（22:9 比例），屏幕分辨率维持在 1080",
+      "source": "ithome",
+      "sourceLabel": "IT Home IT之家",
+      "sourceUrl": "https://www.ithome.com/0/925/805.htm",
+      "author": null,
+      "publishedAt": "2026-03-04T06:40:53.000Z",
+      "engagement": {
+        "upvotes": 0,
+        "comments": 0
+      },
+      "image": "https://img.ithome.com/newsuploadfiles/2026/3/80ba1689-118d-429d-b856-819f35f732a0.jpg?x-bce-process=image/format,f_auto",
+      "score": 60,
+      "mentionedFigures": [],
+      "rank": 31,
+      "tags": [
+        "google"
+      ]
+    },
+    {
+      "id": "ithome-7-1772607447181",
+      "title": "威锋 VIA Labs 公布工业级 USB 5Gbps / 10Gbps 集线器控制器芯片",
+      "url": "https://www.ithome.com/0/925/804.htm",
+      "description": "IT之家 3 月 4 日消息，威锋电子 (VIA Labs) 昨日宣布其即将在本月 10~12 日举行的 Embedded World 2026 德国纽伦堡嵌入式展上发布工业级的 USB 5Gbps / 10Gbps 集线器 (Hub) 控制器芯片 VL819i / VL822i。\n\nIT之家了解到，这两款芯片适用于 -40℃ 至 +85℃ 的宽温环境，具备增强的信号完整性与低功耗设计特性，适用于嵌入式系统、服务器、工业电脑、智能零售终端设备等多样化应用场景。\n\n这两款集线器芯片提供两种配置版本：标准 Q7 版本采用 9×9 (mm) 的 QFN76 封装，并针对 USB-A 下行端口应用进行",
+      "source": "ithome",
+      "sourceLabel": "IT Home IT之家",
+      "sourceUrl": "https://www.ithome.com/0/925/804.htm",
+      "author": null,
+      "publishedAt": "2026-03-04T06:39:54.000Z",
+      "engagement": {
+        "upvotes": 0,
+        "comments": 0
+      },
+      "image": "https://img.ithome.com/newsuploadfiles/2026/3/4180f51b-0de5-4b35-ab08-10a4880fbb84.jpg?x-bce-process=image/format,f_auto",
+      "score": 60,
+      "mentionedFigures": [],
+      "rank": 32,
+      "tags": []
+    },
+    {
+      "id": "ithome-8-1772607447181",
+      "title": "谷歌“查找”生态更新：用户可与航司共享追踪器信息，快速找回丢失行李",
+      "url": "https://www.ithome.com/0/925/803.htm",
+      "description": "IT之家 3 月 4 日消息，当地时间周二，谷歌宣布了一系列 Android 生态系统的新功能，并同步推出 Pixel 手机的三月软件更新“Pixel Drop”。其中最受关注的一项更新是：Android 用户现在可以向航空公司共享兼容“查找中心”（Find Hub）的追踪器信息，以协助寻找丢失的行李。\n\n根据谷歌介绍，用户若在行李上放置了兼容 Find Hub 的追踪器，可在 Find Hub 应用中选择丢失的物品，点击“共享物品位置”生成一个独特且安全的 URL 链接。随后，用户可将该链接复制并粘贴至参与该计划的航空公司 App 或网站上，从而实现行李运输途中的实时追踪。\n谷歌表示，该链接",
+      "source": "ithome",
+      "sourceLabel": "IT Home IT之家",
+      "sourceUrl": "https://www.ithome.com/0/925/803.htm",
+      "author": null,
+      "publishedAt": "2026-03-04T06:38:50.000Z",
+      "engagement": {
+        "upvotes": 0,
+        "comments": 0
+      },
+      "image": "https://img.ithome.com/newsuploadfiles/2026/3/eb90305d-8b11-4a4f-998e-53172f8a4133.png?x-bce-process=image/format,f_auto",
+      "score": 60,
+      "mentionedFigures": [],
+      "rank": 33,
+      "tags": [
+        "google",
+        "security"
+      ]
+    },
+    {
+      "id": "ithome-9-1772607447181",
+      "title": "华为余承东：问界 M9 销量第一，截止 2026 年 3 月 3 日全系累计交付突破 28 万辆",
+      "url": "https://www.ithome.com/0/925/802.htm",
+      "description": "IT之家 3 月 4 日消息，在目前正在进行的鸿蒙智行技术焕新发布会上，华为常务董事、产品投资评审委员会主任、终端 BG 董事长余承东宣布，问界 M9 销量第一，重新谱写高端豪华 SUV 版图。\n\n余承东介绍，截止 2026 年 3 月 3 日，问界 M9 全系累计交付突破 280,000 辆。2024 年 1 月至 2026 年 1 月累计上险量超 27 万辆，超过宝马 X5、宝马 X7、奔驰 GLE、奔驰 GLS。\n\n据IT之家本月早些时候报道，鸿蒙智行 2026 年 2 月交付 28,212 辆，同比增长 31%，历史累计交付突破 128.2 万辆。官方同时宣布，自今年“春节安心行”活动",
+      "source": "ithome",
+      "sourceLabel": "IT Home IT之家",
+      "sourceUrl": "https://www.ithome.com/0/925/802.htm",
+      "author": null,
+      "publishedAt": "2026-03-04T06:38:41.000Z",
+      "engagement": {
+        "upvotes": 0,
+        "comments": 0
+      },
+      "image": "https://img.ithome.com/newsuploadfiles/2026/3/b80bacb7-07c5-4565-bf89-ed7befc47382.jpg?x-bce-process=image/format,f_auto",
+      "score": 60,
+      "mentionedFigures": [],
+      "rank": 34,
+      "tags": [
+        "startup"
+      ]
+    },
+    {
+      "id": "ithome-10-1772607447181",
+      "title": "Iron Galaxy Studios 澄清并未开发《辐射：新维加斯》重制版游戏",
+      "url": "https://www.ithome.com/0/925/801.htm",
+      "description": "IT之家 3 月 4 日消息，近期开发商 Iron Galaxy Studios 在领英发帖，图中电脑显示屏上展示一张经典《辐射：新维加斯》海报幻灯片，外界纷纷认为这暗示公司正在重制《辐射：新维加斯》。\n\n不过 Iron Galaxy Studios 今天在 X 平台对此事专门进行澄清，称相应幻灯片只是“公司会议的幕后花絮”，目前公司没有在开发任何与《辐射》IP 相关的项目。\n\n公开信息显示，Iron Galaxy Studios 曾参与开发《辐射 76》、《上古卷轴 OL》，并协助开发了《上古卷轴 5：天际》和《辐射 4》的 VR 版本，同时还将《上古卷轴 5：天际》搬上了任天堂 Switc",
+      "source": "ithome",
+      "sourceLabel": "IT Home IT之家",
+      "sourceUrl": "https://www.ithome.com/0/925/801.htm",
+      "author": null,
+      "publishedAt": "2026-03-04T06:38:04.000Z",
+      "engagement": {
+        "upvotes": 0,
+        "comments": 0
+      },
+      "image": "https://img.ithome.com/newsuploadfiles/2026/3/71ed7b37-bac5-4f9a-b43b-3c377c48ee7d.jpg?x-bce-process=image/format,f_auto",
+      "score": 60,
+      "mentionedFigures": [],
+      "rank": 35,
+      "tags": []
+    },
+    {
+      "id": "ithome-11-1772607447181",
+      "title": "华为余承东：鸿蒙智行累计交付量超 128 万辆，连续 14 个月中国汽车品牌成交均价第一",
+      "url": "https://www.ithome.com/0/925/800.htm",
+      "description": "IT之家 3 月 4 日消息，在今日的鸿蒙智行技术焕新发布会上，华为常务董事、产品投资评审委员会主任、终端 BG 董事长余承东宣布，截至 2026 年 3 月 3 日，鸿蒙智行累计交付量超 128 万辆。\n\n此外，鸿蒙智行创造新势力品牌交付百万辆最快纪录（43 个月），还连续 14 个月位居中国汽车品牌成交均价第一。\n\nIT之家从鸿蒙智行官方披露数据获悉，鸿蒙智行 2 月交付 28212 辆，同比增长 31%。",
+      "source": "ithome",
+      "sourceLabel": "IT Home IT之家",
+      "sourceUrl": "https://www.ithome.com/0/925/800.htm",
+      "author": null,
+      "publishedAt": "2026-03-04T06:36:10.000Z",
+      "engagement": {
+        "upvotes": 0,
+        "comments": 0
+      },
+      "image": "https://img.ithome.com/newsuploadfiles/2026/3/55b1d37a-dcdc-4668-9a5c-16c7e3dd3e7c.jpg?x-bce-process=image/format,f_auto",
+      "score": 60,
+      "mentionedFigures": [],
+      "rank": 36,
+      "tags": [
+        "startup"
+      ]
+    },
+    {
+      "id": "ithome-12-1772607447181",
+      "title": "三星展示下一代防窥屏技术，Galaxy S27 Ultra 手机有望首发",
+      "url": "https://www.ithome.com/0/925/799.htm",
+      "description": "IT之家 3 月 4 日消息，科技媒体 Android Authority 昨日（3 月 3 日）发布博文，报道称在巴塞罗那召开的 MWC 2026 展会期间，三星公开展示了下一代隐私屏幕技术，是继 Galaxy S26 Ultra 首次引入该功能后的又一次重要进化。\n在工作原理方面，三星为 Galaxy S26 Ultra 的屏幕配备了两种不同类型的亚像素（Subpixels）：一种是窄视角亚像素，仅能从正面视角看到；另一种是宽视角亚像素，从侧面也能看到。\n在正常模式下，两种亚像素同时工作；一旦启动隐私屏幕功能，宽视角亚像素便会关闭，从而限制侧面视角的可视性，确保屏幕内容仅供用户查看。\nIT",
+      "source": "ithome",
+      "sourceLabel": "IT Home IT之家",
+      "sourceUrl": "https://www.ithome.com/0/925/799.htm",
+      "author": null,
+      "publishedAt": "2026-03-04T06:33:34.000Z",
+      "engagement": {
+        "upvotes": 0,
+        "comments": 0
+      },
+      "image": "https://img.ithome.com/newsuploadfiles/2026/3/530f98e2-d7ec-4d06-9e17-edebc18a6ca3.png?x-bce-process=image/format,f_auto",
+      "score": 60,
+      "mentionedFigures": [],
+      "rank": 37,
+      "tags": [
+        "google"
+      ]
+    },
+    {
+      "id": "ithome-13-1772607447181",
+      "title": "海盗船 Elgato 发布 Wave Next 音频产品线更新，覆盖多款生态软硬件",
+      "url": "https://www.ithome.com/0/925/797.htm",
+      "description": "IT之家 3 月 4 日消息，海盗船旗下内容创作品牌 Elgato 当地时间 3 日对其音频产品线进行名为 \"Wave Next\" 的大型更新，推出了 6 款新一代软硬件。\n\n这其中位居首位的是 Wave Link 3.0 软件，其界面经过重新设计，现免费开放下载。该软件几乎兼容任一切麦克风、混音器、音频接口，原生支持 ELGATO 标志性的 Stream Deck 控台。\n而在硬件方面，ELGATO 与 Lewitt Audio 合作开发了一款名为 Wave FX 的芯片，用于新品 USB 电容式麦克风 Wave:3 MK.2、整合式麦克风介面 Wave XLR MK.2、Steam Dec",
+      "source": "ithome",
+      "sourceLabel": "IT Home IT之家",
+      "sourceUrl": "https://www.ithome.com/0/925/797.htm",
+      "author": null,
+      "publishedAt": "2026-03-04T06:29:43.000Z",
+      "engagement": {
+        "upvotes": 0,
+        "comments": 0
+      },
+      "image": "https://img.ithome.com/newsuploadfiles/2026/3/ebf49ce4-ef91-4089-9770-8be78f52ec1c.jpg?x-bce-process=image/format,f_auto",
+      "score": 60,
+      "mentionedFigures": [],
+      "rank": 38,
+      "tags": []
+    },
+    {
+      "id": "ithome-14-1772607447181",
+      "title": "消息称腾讯《王者荣耀》体验服已适配 iPhone 17 标准版机型 120 帧",
+      "url": "https://www.ithome.com/0/925/796.htm",
+      "description": "IT之家 3 月 4 日消息，苹果在去年 9 月推出了 iPhone 17 系列机型，包括标准版、Air、Pro、Pro Max 四款机型（iPhone 17e 于今年 3 月 2 日发布）。\n\nIT之家注意到，iPhone 17 系列发布后，腾讯《王者荣耀》并未第一时间适配该系列机型的 120 帧游戏体验，而是优先给 iPhone 17 Pro 和 Pro Max 开放了该高帧率选项。截至发稿，iPhone 17 标准版和 Air 均不支持《王者荣耀》120 帧。\n\n▲ IT之家实拍：iPhone Air《王者荣耀》画质帧率调节页面\n据网友 @Altria 透露，iPhone 17 标准版在",
+      "source": "ithome",
+      "sourceLabel": "IT Home IT之家",
+      "sourceUrl": "https://www.ithome.com/0/925/796.htm",
+      "author": null,
+      "publishedAt": "2026-03-04T06:28:12.000Z",
+      "engagement": {
+        "upvotes": 0,
+        "comments": 0
+      },
+      "image": "https://img.ithome.com/newsuploadfiles/2026/3/65ee4848-bff8-4391-8b59-56ee769820f6.jpg?x-bce-process=image/format,f_auto",
+      "score": 60,
+      "mentionedFigures": [],
+      "rank": 39,
+      "tags": [
+        "ai",
+        "apple"
+      ]
+    },
+    {
+      "id": "ithome-15-1772607447181",
       "title": "潘建伟院士：我国量子计算稳居国际第一方阵，关键核心技术是要不来、等不来的",
       "url": "https://www.ithome.com/0/925/795.htm",
       "description": "IT之家 3 月 4 日消息，据央视新闻报道，今天（3 月 4 日）下午，全国政协十四届四次会议首场“委员通道”在人民大会堂举行，全国政协委员、九三学社中央副主席、中国科学院院士潘建伟接受了记者采访。\n\n潘建伟介绍，“十四五”期间，我们大力推进量子科技事业的发展，量子通信持续保持国际领先，量子计算稳居国际第一方阵，量子精密测量的多个方向跃进国际先进行列。\n潘建伟表示，关键核心技术是要不来、等不来的。我们要坚定信心，自主创新，把卡点转化为发展的支点。\n据IT之家此前报道，2024 年底，潘建伟院士团队在 arXiv 平台上发布我国研制的具备 105 个量子比特的超导量子计算机“祖冲之三号”的相关",
@@ -621,11 +940,11 @@
       "image": "https://img.ithome.com/newsuploadfiles/2026/3/8cccf63a-1705-4969-92c2-803fe0ce2472.jpg?x-bce-process=image/format,f_auto",
       "score": 60,
       "mentionedFigures": [],
-      "rank": 29,
+      "rank": 40,
       "tags": []
     },
     {
-      "id": "ithome-1-1772605528270",
+      "id": "ithome-16-1772607447181",
       "title": "三星展示 LEAD 2.0 屏幕：峰值亮度 5000 尼特，比 Galaxy S26 Ultra 手机亮近一倍",
       "url": "https://www.ithome.com/0/925/794.htm",
       "description": "IT之家 3 月 4 日消息，科技媒体 Android Authority 昨日（3 月 3 日）发布博文，报道称在 MWC 2026 展会期间，三星展示 LEAD 2.0 屏幕技术，峰值亮度高达 5000 尼特。\n\n该媒体现场体验了这项新屏幕技术，指出相比较三星现有的 OLED 屏幕，LEAD 2.0 面板看起来明显更亮、更清晰。尽管其像素密度（PPI）数值相对低一些，但在动态范围和色彩饱和度方面均有显著提升。IT之家附上相关图片如下：\n\n\n\n\n以上图源：Android Authority\n现场参数显示，新面板的峰值亮度可达 5000 尼特，这一数据大幅超越了当前旗舰 Galaxy S26 ",
@@ -641,13 +960,13 @@
       "image": "https://img.ithome.com/newsuploadfiles/2026/3/36512819-4f77-403e-952e-904bca9f2cd6.jpg?x-bce-process=image/format,f_auto",
       "score": 60,
       "mentionedFigures": [],
-      "rank": 30,
+      "rank": 41,
       "tags": [
         "google"
       ]
     },
     {
-      "id": "ithome-2-1772605528270",
+      "id": "ithome-17-1772607447181",
       "title": "谷歌安卓 17 酝酿启用 16KB 页面大小：应用启动时间最高缩短 30%",
       "url": "https://www.ithome.com/0/925/793.htm",
       "description": "IT之家 3 月 4 日消息，科技媒体 Android Authority 今天（3 月 4 日）发布博文，通过挖掘安卓 17 QPR1 Beta 版，在开发者选项中发现了“使用 16KB 页面大小启动”功能，启用后可将最小内存分配单位从 4KB 提升至 16KB。\n\nIT之家援引博文介绍，计算机页面大小类似于书籍的页数划分，安卓默认使用 4KB 页面，意味着内存分配以 4KB 为单位，虽然利用率高，但 CPU 需管理数百万个页面表，导致计算开销大。\n\n切换至 16KB 页面后，CPU 需追踪的页面数量减少，从而降低了访问延迟。谷歌公司估计，启用该特性后，应用启动时间缩短 3% 到 30%，系",
@@ -663,14 +982,14 @@
       "image": "https://img.ithome.com/newsuploadfiles/2026/3/56c2bbd6-ce21-48aa-a521-a1f4a48e3003.jpg?x-bce-process=image/format,f_auto",
       "score": 60,
       "mentionedFigures": [],
-      "rank": 31,
+      "rank": 42,
       "tags": [
         "google",
         "programming"
       ]
     },
     {
-      "id": "ithome-3-1772605528270",
+      "id": "ithome-18-1772607447181",
       "title": "时隔两年半《CS:GO》独立版回归 Steam：可免费下载安装，但仅能离线对战",
       "url": "https://www.ithome.com/0/925/792.htm",
       "description": "IT之家 3 月 4 日消息，Valve 于 2023 年 9 月将《反恐精英：全球攻势》（CS:GO）正式升级为《反恐精英 2》。\n时隔两年半之后，《CS:GO》以独立应用的形式重返 Steam 商店。玩家现在可以将其单独添加至 Steam 游戏库并免费下载安装。\n\n尽管其商店页面目前醒目地标注着“应发行商请求，该产品不再在 Steam 商店和搜索结果中显示”的提示，但游戏数据依然处于活跃状态，截至IT之家发稿已经有超 9657 人进入游戏。\n\n不过，此次回归更像是一次“象征性”的上架，而非全面复活。Valve 并未重新开放《CS:GO》的官方匹配服务器，玩家目前只能进行离线的机器人对战、训",
@@ -686,11 +1005,11 @@
       "image": "https://img.ithome.com/newsuploadfiles/2026/3/7fa47175-2ff8-42af-b668-e0a9c14e3990.jpg?x-bce-process=image/format,f_auto",
       "score": 60,
       "mentionedFigures": [],
-      "rank": 32,
+      "rank": 43,
       "tags": []
     },
     {
-      "id": "ithome-4-1772605528271",
+      "id": "ithome-19-1772607447181",
       "title": "《CS2》裂变天地 S3 深圳站赛事取消，原定今年 4 月 20~26 日举行",
       "url": "https://www.ithome.com/0/925/791.htm",
       "description": "IT之家 3 月 4 日消息，电子竞技赛事主办方 FISSURE 昨日宣布，原定今年 4 月 20~26 日在深圳举行的《CS2》比赛 FISSURE Playground 3（裂变天地 S3 ）被取消。\n\nFISSURE 表示，这是因为裂变天地 S3 与在南美洲举行的另一项重大赛事（IT之家注：4 月 19 日结束的 IEM 里约热内卢 2026）存在时间冲突：两地之间的旅行时间长达 36 小时，且选手在漫长的航班后不可能展现良好的竞技状态。\n不过，FISSURE 后续的《反恐精英》裂变天地 S5 仍将在深圳举行，时间为今年 9 月 7~13 日。\n\nFISSURE 此次还宣布取消 2026",
@@ -706,330 +1025,7 @@
       "image": "https://img.ithome.com/newsuploadfiles/2026/3/8a908f25-70b9-4e99-999a-986d541831e6.jpg?x-bce-process=image/format,f_auto",
       "score": 60,
       "mentionedFigures": [],
-      "rank": 33,
-      "tags": []
-    },
-    {
-      "id": "ithome-5-1772605528271",
-      "title": "阿里千问大模型核心掌舵者林俊旸宣布离职，高层出面挽留",
-      "url": "https://www.ithome.com/0/925/790.htm",
-      "description": "3 月 4 日凌晨，当中国互联网圈大部分人已进入休息时间，X 平台上一则简短的英文动态悄然引爆了科技圈。\n“me stepping down. bye my beloved qwen.”（我卸任了。再见了，我亲爱的千问。）\n\n发出这条推文的人，是林俊旸 —— 阿里巴巴最年轻的 P10 级技术负责人、千问大模型的核心掌舵者。\n此时，距离他刚刚带队发布 Qwen3.5 系列小模型、收获马斯克点赞，仅仅过去了不到 48 小时。\n距离阿里将 AI 品牌统一为“千问大模型”、全力加注 C 端市场的战略官宣，也才刚满一天。\n没有预兆，没有告别仪式，甚至没有留给团队缓冲的时间。这位 32 岁的技术天才，突然",
-      "source": "ithome",
-      "sourceLabel": "IT Home IT之家",
-      "sourceUrl": "https://www.ithome.com/0/925/790.htm",
-      "author": null,
-      "publishedAt": "2026-03-04T06:11:03.000Z",
-      "engagement": {
-        "upvotes": 0,
-        "comments": 0
-      },
-      "image": "https://img.ithome.com/newsuploadfiles/2026/3/f0c40685-abc9-4210-bb16-32898ec58b22.png?x-bce-process=image/format,f_auto",
-      "score": 60,
-      "mentionedFigures": [],
-      "rank": 34,
-      "tags": [
-        "ai"
-      ]
-    },
-    {
-      "id": "ithome-6-1772605528271",
-      "title": "IDC：中国企业活跃智能体数量将在 2031 年突破 3.5 亿规模，增速将领先全球主要市场",
-      "url": "https://www.ithome.com/0/925/788.htm",
-      "description": "IT之家 3 月 4 日消息，国际数据公司（IDC）今日发布中国企业活跃智能体最新预测，称中国企业的活跃智能体规模正在进入一段前所未有的加速期。\n\nIDC 预测，随着本土模型能力的持续升级、智能体技术与应用生态的快速成熟，以及产业政策的叠加共振，中国企业活跃智能体数量将在 2031 年突破 3.5 亿规模，年复合增长率达到 135% 以上，增速将领先全球主要市场。\n同时，由于智能体任务执行密度的增长和任务复杂度的提升，也将带来智能体 Token 消耗年均超 30 倍的指数级跃升。\nIT之家从 IDC 报告获悉，中国智能体市场能够在未来几年迎来规模爆发的背后有三个关键因素：模型能力的跃升、智能体",
-      "source": "ithome",
-      "sourceLabel": "IT Home IT之家",
-      "sourceUrl": "https://www.ithome.com/0/925/788.htm",
-      "author": null,
-      "publishedAt": "2026-03-04T06:04:00.000Z",
-      "engagement": {
-        "upvotes": 0,
-        "comments": 0
-      },
-      "image": "https://img.ithome.com/newsuploadfiles/2026/3/cbc5d948-9b68-43b6-af13-bdd6d9739bc2.png?x-bce-process=image/format,f_auto",
-      "score": 60,
-      "mentionedFigures": [],
-      "rank": 35,
-      "tags": []
-    },
-    {
-      "id": "ithome-7-1772605528271",
-      "title": "Win11 学院：外媒眼中目前最纯净 Windows 11 官方装机方案",
-      "url": "https://www.ithome.com/0/925/787.htm",
-      "description": "IT之家 3 月 4 日消息，科技媒体 Windows Latest 今天（3 月 4 日）发布博文，通过实测 Windows 11 LTSC 版本，认为是目前最纯净的 Windows 11 装机方案。\n一、什么是 Windows 11 LTSC？\nLTSC 全称为 Long-Term Servicing Channel，是微软针对 Windows 11 的长期支持频道。LTSC 是微软为企业级用户推出的特殊版本，专注于系统稳定性和长期安全支持，不包含频繁的功能更新或消费级应用（如 Copilot）。\nWindows 11 常规版本充斥着 AI 功能、大量预装软件以及推荐内容，LTSC 版本追",
-      "source": "ithome",
-      "sourceLabel": "IT Home IT之家",
-      "sourceUrl": "https://www.ithome.com/0/925/787.htm",
-      "author": null,
-      "publishedAt": "2026-03-04T05:59:43.000Z",
-      "engagement": {
-        "upvotes": 0,
-        "comments": 0
-      },
-      "image": "https://img.ithome.com/newsuploadfiles/2026/3/bf9a8614-5386-43e7-b2a7-5ed3b6c50eba.png?x-bce-process=image/format,f_auto",
-      "score": 60,
-      "mentionedFigures": [],
-      "rank": 36,
-      "tags": [
-        "ai",
-        "microsoft",
-        "security"
-      ]
-    },
-    {
-      "id": "ithome-8-1772605528271",
-      "title": "全票通过：前荣耀 CEO 赵明将出任千里科技第六届董事会联席董事长",
-      "url": "https://www.ithome.com/0/925/786.htm",
-      "description": "IT之家 3 月 4 日消息，重庆千里科技股份有限公司今日发布了第六届董事会第三十一次会议决议公告，宣布会议审议并通过了《关于选举第六届董事会联席董事长的议案》。\n\n公告显示，赵明（前荣耀终端股份有限公司 CEO）以 12 票同意、0 票反对 / 弃权 / 回避，将出任千里科技第六届董事会联席董事长，任期自本次董事会审议通过之日起至第六届董事会届满之日止。\n据IT之家此前报道，今年 2 月 12 日，赵明在微博发文宣布：非常荣幸有缘际会千里科技，一个可以奋斗十年的事业，期待与 @印奇 兄弟携手一起打造 AI 商业闭环，助力千里腾飞。千里科技董事长、阶跃星辰董事长印奇发文对赵明入职表示欢迎：“骐",
-      "source": "ithome",
-      "sourceLabel": "IT Home IT之家",
-      "sourceUrl": "https://www.ithome.com/0/925/786.htm",
-      "author": null,
-      "publishedAt": "2026-03-04T05:56:36.000Z",
-      "engagement": {
-        "upvotes": 0,
-        "comments": 0
-      },
-      "image": "https://img.ithome.com/newsuploadfiles/2026/3/e3d8ed25-319d-4fb9-b3af-f218a7350529.png?x-bce-process=image/format,f_auto",
-      "score": 60,
-      "mentionedFigures": [],
-      "rank": 37,
-      "tags": [
-        "ai"
-      ]
-    },
-    {
-      "id": "ithome-9-1772605528271",
-      "title": "22TB/s 目标难实现：英伟达下调“Vera Rubin”VR200 所用 HBM4 规格，首批带宽约 20TB/s",
-      "url": "https://www.ithome.com/0/925/785.htm",
-      "description": "IT之家 3 月 4 日消息，据半导体行业研究机构 SemiAnalysis 最新报告，英伟达下一代“Rubin”GPU 架构的 HBM4 内存规格出现调整。\n由于 SK 海力士与三星电子在量产阶段难以达成原定的性能目标，英伟达已下调了对 HBM4 内存的带宽要求。\n\n根据规划，英伟达原本为 Rubin 芯片设定的总带宽目标为 22TB/s，但受限于供应商的技术瓶颈与良率问题，首批出货的系统预计仅能实现约 20TB/s 的带宽，对应的 HBM4 每针速率约为 10Gbps。\nIT之家注意到，Rubin 平台的带宽目标已经历经多次调整：2025 年 3 月，VR200 NVL72 系统的目标为 ",
-      "source": "ithome",
-      "sourceLabel": "IT Home IT之家",
-      "sourceUrl": "https://www.ithome.com/0/925/785.htm",
-      "author": null,
-      "publishedAt": "2026-03-04T05:46:47.000Z",
-      "engagement": {
-        "upvotes": 0,
-        "comments": 0
-      },
-      "image": "https://img.ithome.com/newsuploadfiles/2026/3/bfd6711d-de7c-4f28-ac37-38d9fbc24eee.png?x-bce-process=image/format,f_auto",
-      "score": 60,
-      "mentionedFigures": [],
-      "rank": 38,
-      "tags": []
-    },
-    {
-      "id": "ithome-10-1772605528271",
-      "title": "微软涉嫌违反反垄断法，日本公平交易委员会宣布对其展开调查",
-      "url": "https://www.ithome.com/0/925/777.htm",
-      "description": "IT之家 3 月 4 日消息，日本公平交易委员会（JFTC）今日发布公告，宣布对微软公司、微软日本子公司及微软爱尔兰子公司（以下统称“微软公司等”）涉嫌违反《反垄断法》的行为展开调查。\nJFTC 指出，微软公司等涉嫌设置技术或费用条件，使客户难以在非 Azure 平台运行微软软件，或需要承担更高成本。作为调查的一部分，JFTC 今日向第三方征求信息和意见。\n\nJFTC 表示，微软公司向“已经或正准备”购买订阅其软件或服务（例如 Windows Server、Windows 客户端、Microsoft SQL Server、Microsoft 365、Visual Studio 等）许可的用户提",
-      "source": "ithome",
-      "sourceLabel": "IT Home IT之家",
-      "sourceUrl": "https://www.ithome.com/0/925/777.htm",
-      "author": null,
-      "publishedAt": "2026-03-04T05:34:08.000Z",
-      "engagement": {
-        "upvotes": 0,
-        "comments": 0
-      },
-      "image": "https://img.ithome.com/newsuploadfiles/2026/3/4762584a-d672-4edd-9dc3-da24aff6a6da.png?x-bce-process=image/format,f_auto",
-      "score": 60,
-      "mentionedFigures": [],
-      "rank": 39,
-      "tags": [
-        "microsoft"
-      ]
-    },
-    {
-      "id": "ithome-11-1772605528271",
-      "title": "人类首次直接观察到芯片内部“鼠咬”缺陷，有望彻底改变半导体研发",
-      "url": "https://www.ithome.com/0/925/760.htm",
-      "description": "IT之家 3 月 4 日消息，据美国康奈尔大学新闻官网 3 月 2 日消息，康奈尔大学的研究人员利用高分辨率三维成像技术，首次检测到计算机芯片中可能影响其性能的原子级缺陷“mouse bite（鼠咬）”。\n这项成像技术是康奈尔大学与台积电、半导体材料公司 ASM 合作的结果，可能影响几乎所有形式的现代电子设备，从手机和汽车到人工智能数据中心和量子计算。\n\n▲ 图片展示了晶体管沟道内部的硅、二氧化硅和氧化铪层\n这项研究于 2 月 23 日发表在《自然 · 通讯》上。第一作者是康奈尔大学博士生 Shake Karapetyan。\n该项目负责人、康奈尔大学杜菲尔德工程学院的工程学 Samuel B.",
-      "source": "ithome",
-      "sourceLabel": "IT Home IT之家",
-      "sourceUrl": "https://www.ithome.com/0/925/760.htm",
-      "author": null,
-      "publishedAt": "2026-03-04T05:14:20.000Z",
-      "engagement": {
-        "upvotes": 0,
-        "comments": 0
-      },
-      "image": "https://img.ithome.com/newsuploadfiles/2026/3/c85fe0dd-1819-4dd2-882c-c69714173bc4.png?x-bce-process=image/format,f_auto",
-      "score": 60,
-      "mentionedFigures": [],
-      "rank": 40,
-      "tags": [
-        "ai"
-      ]
-    },
-    {
-      "id": "ithome-12-1772605528271",
-      "title": "未发布先认领：vivo X300 Ultra、荣耀 Magic V6 手机均搭载京东方 OLED 屏幕",
-      "url": "https://www.ithome.com/0/925/749.htm",
-      "description": "IT之家 3 月 4 日消息，京东方今日发文宣布，在 MWC 2026 上，vivo、荣耀、红魔、Nothing 等品牌带来了多款旗舰手机，均由京东方作为独家屏幕供应商。\n京东方还率先认领了尚未在国内发布的 vivo X300 Ultra 和荣耀 Magic V6 手机，两款新机均搭载京东方 OLED 屏幕（京东方独供）：\nvivo X300 Ultra\n\n采用由京东方独家供应的顶级柔性 OLED 屏幕。该屏幕支持 1-120Hz LTPO 自适应刷新率，采用极窄四等边设计。\n\n荣耀 Magic V6\n\n内外双屏均由京东方独供，均支持 2K+ 分辨率、外屏 6000nits 内屏 5000ni",
-      "source": "ithome",
-      "sourceLabel": "IT Home IT之家",
-      "sourceUrl": "https://www.ithome.com/0/925/749.htm",
-      "author": null,
-      "publishedAt": "2026-03-04T05:05:29.000Z",
-      "engagement": {
-        "upvotes": 0,
-        "comments": 0
-      },
-      "image": "https://img.ithome.com/newsuploadfiles/2026/3/9628017b-9e53-498d-a10f-963167a37375.jpg?x-bce-process=image/format,f_auto",
-      "score": 60,
-      "mentionedFigures": [],
-      "rank": 41,
-      "tags": []
-    },
-    {
-      "id": "ithome-13-1772605528271",
-      "title": "中国铁路：网传西安至广州东 K731 次列车硬座下躺人信息不实",
-      "url": "https://www.ithome.com/0/925/748.htm",
-      "description": "IT之家 3 月 4 日消息，据中国铁路官方今日消息，有媒体依据网传信息刊发了西安至广州东的 K731 次“火车硬座惊现上下铺”报道，引发关注，铁路客运部门迅速组织了核查。\n经查，西安开往广州的普速列车为 K228 次、K84 次、K1298 次、Z232 次、Z266 次、Z136 次列车，无 K731 次列车。2 月 21 日至 3 月 2 日节后返程高峰期间，以上车次列车硬座客座率为 130% 以下，均在正常范围内，各车次列车工作人员在各趟值乘中，均按规定开展了车厢内巡视和客运服务，未发现硬座下躺人的情况。\n\n经延伸调查，K731 次列车由大同站开往广州白云站，太原客运段担当乘务，未途经",
-      "source": "ithome",
-      "sourceLabel": "IT Home IT之家",
-      "sourceUrl": "https://www.ithome.com/0/925/748.htm",
-      "author": null,
-      "publishedAt": "2026-03-04T04:46:29.000Z",
-      "engagement": {
-        "upvotes": 0,
-        "comments": 0
-      },
-      "image": "https://img.ithome.com/newsuploadfiles/2026/3/5d802364-b130-46de-bce3-2fafbf5a3775.jpg?x-bce-process=image/format,f_auto",
-      "score": 60,
-      "mentionedFigures": [],
-      "rank": 42,
-      "tags": []
-    },
-    {
-      "id": "ithome-14-1772605528271",
-      "title": "JBL GO5 蓝牙音箱发布：氛围灯、蓝牙 6.0、USB 直连，首发价 399 元",
-      "url": "https://www.ithome.com/0/925/746.htm",
-      "description": "IT之家 3 月 4 日消息，JBL GO5“音乐金砖五代”蓝牙音箱今日上架预售，首发到手价 399 元。\n\nJBL GO5 可选六款配色，搭载 WINK 氛围灯效，支持 IP68 防尘防水，尺寸为 101 x 77.4 x 43 mm，重量约 230g。\n\n\nJBL GO5 由哈曼声学团队调校，输出功率提高到 4.8W；升级到蓝牙 6.0 连接，支持 AAC、LC3 编码；全新蓝牙官方 AURACAST 技术，AirTouch 一触即连功能，两台 GO5 开机速连秒变立体声组合，还可多台无线串联。\n\nJBL GO5 还支持 USB-C 直连电脑播放，内置 DAC 解码芯片；标配 1000mA",
-      "source": "ithome",
-      "sourceLabel": "IT Home IT之家",
-      "sourceUrl": "https://www.ithome.com/0/925/746.htm",
-      "author": null,
-      "publishedAt": "2026-03-04T04:42:45.000Z",
-      "engagement": {
-        "upvotes": 0,
-        "comments": 0
-      },
-      "image": "https://img.ithome.com/newsuploadfiles/2026/3/48308129-78f8-45a7-9c5b-984e3f046400.jpg?x-bce-process=image/format,f_auto",
-      "score": 60,
-      "mentionedFigures": [],
-      "rank": 43,
-      "tags": [
-        "ai"
-      ]
-    },
-    {
-      "id": "ithome-15-1772605528271",
-      "title": "华为 Mate 70 Air 手机获 UFCS 认证，兼容 40W 三方融合快充",
-      "url": "https://www.ithome.com/0/925/745.htm",
-      "description": "IT之家 3 月 4 日消息，FCA 终端快充行业协会今日宣布，协会副理事长单位华为的 Mate 70 Air 手机已通过融合快速充电功能认证，获得 UFCS 功能认证证书，证书编号：0302547332232R0S-UFCS00242。该产品通过了符合性认证加兼容性测试，并已获得 UFCS 商标授权。\n\n据介绍，华为 Mate 70 Air 手机兼容 UFCS 1.0 协议，支持 5V/10V 电压档位，最高可实现 40W UFCS 充电功率。\n\n据IT之家此前报道，华为 Mate 70 Air 手机于去年 11 月开售，搭载麒麟 9020A / 麒麟 9020B 处理器，售价 4199 元",
-      "source": "ithome",
-      "sourceLabel": "IT Home IT之家",
-      "sourceUrl": "https://www.ithome.com/0/925/745.htm",
-      "author": null,
-      "publishedAt": "2026-03-04T04:41:48.000Z",
-      "engagement": {
-        "upvotes": 0,
-        "comments": 0
-      },
-      "image": "https://img.ithome.com/newsuploadfiles/2026/3/1514651a-461f-487e-9bfc-f8f72a3ea294.png?x-bce-process=image/format,f_auto",
-      "score": 60,
-      "mentionedFigures": [],
       "rank": 44,
-      "tags": [
-        "ai"
-      ]
-    },
-    {
-      "id": "ithome-16-1772605528271",
-      "title": "维斯特洛大陆首登大银幕：华纳《权力的游戏》电影立项，编剧已提交剧本初稿",
-      "url": "https://www.ithome.com/0/925/744.htm",
-      "description": "IT之家 3 月 4 日消息，纽约邮报旗下 Page Six Hollywood 昨日报道称，华纳兄弟公司确认正开发《权力的游戏》电影版，并已邀请知名编剧兼金牌制片人博 · 威利蒙（Beau Willimon）执笔剧本。\n威利蒙曾是 Netflix 政治惊悚剧《纸牌屋》的剧集主理人，并凭借为 Disney+《星球大战》衍生剧《安多》（Andor）撰写剧本而广受赞誉。据业内人士透露，威利蒙已向片厂高层提交了剧本初稿。\n\n尽管剧情细节仍处于保密阶段，但多方消息指出，这部电影将以传奇人物“征服者”伊耿 · 坦格利安一世（Aegon I Targaryen）及其征服维斯特洛大陆的事迹为核心。时间线设定",
-      "source": "ithome",
-      "sourceLabel": "IT Home IT之家",
-      "sourceUrl": "https://www.ithome.com/0/925/744.htm",
-      "author": null,
-      "publishedAt": "2026-03-04T04:32:37.000Z",
-      "engagement": {
-        "upvotes": 0,
-        "comments": 0
-      },
-      "image": "https://img.ithome.com/newsuploadfiles/2026/3/fe2bb37c-72d2-4f39-9e5a-358d4f3706de.jpg?x-bce-process=image/watermark,text_QUnnlJ_miJA,type_RlpMYW5UaW5nSGVpU0JHQg==,size_28,color_ffffffdd,skw_1,skc_00000051,g_7,blr_50,bls_50,x_11,y_11/format,f_auto",
-      "score": 60,
-      "mentionedFigures": [],
-      "rank": 45,
-      "tags": []
-    },
-    {
-      "id": "ithome-17-1772605528271",
-      "title": "比亚迪王朝首款 B 级纯电 SUV 宋 Ultra EV 官宣 3 月 5 日预售",
-      "url": "https://www.ithome.com/0/925/743.htm",
-      "description": "IT之家 3 月 4 日消息，比亚迪汽车今日宣布，王朝首款 B 级纯电 SUV 宋 Ultra EV 将在 3 月 5 日开启预售，号称“搭载颠覆性技术”。\n\n本月早些时候，比亚迪汽车官方还发布了宋 Ultra EV 的官图。新车号称“以简驭繁”，在外观上东方美学与当代设计融合，辅以悬浮式车顶，兼具姿态和科技感。\n\n另外，新车还公布了内饰情况，设计简洁、偏年轻化，方向盘采用两辐式设计，车内配备一块悬浮式中控屏和一块仪表屏，仪表屏左侧和中控屏下方的空调出风口预计支持手动调节方向。\n新车中央扶手处配有双手机无线充电板（预计可提供 50W 无线充电功率）、置物杯架等，并设置有物理按键和旋钮。宋 Ul",
-      "source": "ithome",
-      "sourceLabel": "IT Home IT之家",
-      "sourceUrl": "https://www.ithome.com/0/925/743.htm",
-      "author": null,
-      "publishedAt": "2026-03-04T04:27:31.000Z",
-      "engagement": {
-        "upvotes": 0,
-        "comments": 0
-      },
-      "image": "https://img.ithome.com/newsuploadfiles/2026/3/a05409f4-e9ca-4826-990a-ee9ba7f364ba.jpg?x-bce-process=image/format,f_auto",
-      "score": 60,
-      "mentionedFigures": [],
-      "rank": 46,
-      "tags": [
-        "ev"
-      ]
-    },
-    {
-      "id": "ithome-18-1772605528271",
-      "title": "已修复：谷歌 Chrome 浏览器高危漏洞被披露，可监控用户 / 窃取敏感文件",
-      "url": "https://www.ithome.com/0/925/740.htm",
-      "description": "IT之家 3 月 4 日消息，Palo Alto Networks（Unit 42）团队于 3 月 2 日发布报告，披露谷歌 Chrome 浏览器的高危漏洞，存在于 Gemini 功能中，漏洞追踪编号为 CVE-2026-0628。\n在运行机制方面，拥有基本权限的恶意扩展可以通过“声明式网络请求 API”（declarativeNetRequests API）拦截并修改网络请求，向 Gemini 面板注入 JavaScript 代码。\nIT之家注：该 API 是 Chrome 浏览器提供的一种接口，允许扩展程序拦截、阻止或修改网络请求，常用于广告拦截或内容过滤，本案例中被恶意利用来注入代码。\n",
-      "source": "ithome",
-      "sourceLabel": "IT Home IT之家",
-      "sourceUrl": "https://www.ithome.com/0/925/740.htm",
-      "author": null,
-      "publishedAt": "2026-03-04T04:04:47.000Z",
-      "engagement": {
-        "upvotes": 0,
-        "comments": 0
-      },
-      "image": "https://img.ithome.com/newsuploadfiles/2026/3/4526b41a-7d80-4b75-823b-34e749592721.png?x-bce-process=image/format,f_auto",
-      "score": 60,
-      "mentionedFigures": [],
-      "rank": 47,
-      "tags": [
-        "ai",
-        "google",
-        "security",
-        "programming"
-      ]
-    },
-    {
-      "id": "ithome-19-1772605528271",
-      "title": "AOC 推出小尺寸 FHD 高刷显示器 G24B36Z、G25B36SN",
-      "url": "https://www.ithome.com/0/925/739.htm",
-      "description": "IT之家 3 月 4 日消息，AOC 本周一上线了两款 FHD (1920×1080) 分辨率的小尺寸高刷新率显示器，即 G24B36Z 和 G25B36SN。前者采用 23.8\" 260Hz（超频） / 200Hz（原生） Fast IPS 面板；后者则采用 24.5\" 300Hz（超频） / 280Hz（原生） Fast VA 面板。\nG24B36Z 拥有 1ms 的 GtG 响应时间与 0.3ms 的 MPRT 响应时间；亮度典型值 300nits，支持 HDR10，静态对比度 1000:1；色域覆盖 100% sRGB、95% DCI-P3，sRGB 下 ΔE＜2；支持 MBR Syn",
-      "source": "ithome",
-      "sourceLabel": "IT Home IT之家",
-      "sourceUrl": "https://www.ithome.com/0/925/739.htm",
-      "author": null,
-      "publishedAt": "2026-03-04T03:58:37.000Z",
-      "engagement": {
-        "upvotes": 0,
-        "comments": 0
-      },
-      "image": "https://img.ithome.com/newsuploadfiles/2026/3/7b1c6802-bc3a-4162-9e2b-784da17e9e6c.jpg?x-bce-process=image/format,f_auto",
-      "score": 60,
-      "mentionedFigures": [],
-      "rank": 48,
       "tags": []
     },
     {
@@ -1043,17 +1039,40 @@
       "author": "scrlk",
       "publishedAt": "2026-03-03T14:02:06.000Z",
       "engagement": {
-        "upvotes": 740,
-        "comments": 751
+        "upvotes": 746,
+        "comments": 763
       },
       "image": null,
-      "score": 59.2,
+      "score": 59.9,
       "mentionedFigures": [],
-      "rank": 49,
+      "rank": 45,
       "tags": []
     },
     {
-      "id": "techcrunch-2-1772605523521",
+      "id": "techcrunch-0-1772607443517",
+      "title": "Why AI startups are selling the same equity at two different prices",
+      "url": "https://techcrunch.com/2026/03/03/why-ai-startups-are-selling-the-same-equity-at-two-different-prices/",
+      "description": "Some AI founders are using a novel valuation mechanism to manufacture unicorn status.",
+      "source": "techcrunch",
+      "sourceLabel": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/03/03/why-ai-startups-are-selling-the-same-equity-at-two-different-prices/",
+      "author": "Marina Temkin",
+      "publishedAt": "2026-03-04T00:31:25.000Z",
+      "engagement": {
+        "upvotes": 0,
+        "comments": 0
+      },
+      "image": null,
+      "score": 55,
+      "mentionedFigures": [],
+      "rank": 46,
+      "tags": [
+        "ai",
+        "startup"
+      ]
+    },
+    {
+      "id": "techcrunch-2-1772607443517",
       "title": "Alibaba’s Qwen tech lead steps down after major AI push",
       "url": "https://techcrunch.com/2026/03/03/alibabas-qwen-tech-lead-steps-down-after-major-ai-push/",
       "description": "Reactions rippled through Alibaba's Qwen team after tech lead Junyang Lin stepped down following a major model launch.",
@@ -1069,13 +1088,13 @@
       "image": null,
       "score": 55,
       "mentionedFigures": [],
-      "rank": 50,
+      "rank": 47,
       "tags": [
         "ai"
       ]
     },
     {
-      "id": "techcrunch-3-1772605523521",
+      "id": "techcrunch-3-1772607443517",
       "title": "Just three companies dominated the $189B in VC investments last month",
       "url": "https://techcrunch.com/2026/03/03/openai-anthropic-waymo-dominated-189-billion-vc-investments-february-crunchbase-report/",
       "description": "Crunchbase data shows a record $189 billion of global venture capital flowed to startups last month, with AI startups nabbing 90% of the capital.",
@@ -1091,14 +1110,14 @@
       "image": null,
       "score": 55,
       "mentionedFigures": [],
-      "rank": 51,
+      "rank": 48,
       "tags": [
         "ai",
         "startup"
       ]
     },
     {
-      "id": "techcrunch-4-1772605523521",
+      "id": "techcrunch-4-1772607443517",
       "title": "TikTok down for some in US, thanks to second Oracle outage since sale",
       "url": "https://techcrunch.com/2026/03/03/tiktok-down-for-some-in-u-s-thanks-to-second-oracle-outage-since-sale/",
       "description": "TikTok experienced a similar outage just days after ByteDance divested the app's U.S. operations.",
@@ -1114,11 +1133,11 @@
       "image": null,
       "score": 55,
       "mentionedFigures": [],
-      "rank": 52,
+      "rank": 49,
       "tags": []
     },
     {
-      "id": "techcrunch-5-1772605523521",
+      "id": "techcrunch-5-1772607443517",
       "title": "AI companies are spending millions to thwart this former tech exec’s congressional bid",
       "url": "https://techcrunch.com/2026/03/03/ai-companies-are-spending-millions-to-thwart-this-former-tech-execs-congressional-bid/",
       "description": "A tech billionaire-backed super PAC is spending $125 million to undercut candidates pushing for AI regulation. New York's Alex Bores, a former tech executive himself, is one of them.",
@@ -1134,13 +1153,13 @@
       "image": null,
       "score": 55,
       "mentionedFigures": [],
-      "rank": 53,
+      "rank": 50,
       "tags": [
         "ai"
       ]
     },
     {
-      "id": "techcrunch-6-1772605523521",
+      "id": "techcrunch-6-1772607443517",
       "title": "ChatGPT’s new GPT-5.3 Instant model will stop telling you to calm down",
       "url": "https://techcrunch.com/2026/03/03/chatgpts-new-gpt-5-3-instant-model-will-stop-telling-you-to-calm-down/",
       "description": "The company says the new model will reduce the \"cringe\" that's been annoying its users for months.",
@@ -1156,13 +1175,13 @@
       "image": null,
       "score": 55,
       "mentionedFigures": [],
-      "rank": 54,
+      "rank": 51,
       "tags": [
         "ai"
       ]
     },
     {
-      "id": "techcrunch-7-1772605523521",
+      "id": "techcrunch-7-1772607443517",
       "title": "Anduril aims at $60 billion valuation in new funding round",
       "url": "https://techcrunch.com/2026/03/03/anduril-aims-at-60-billion-valuation-in-new-funding-round/",
       "description": "The funding round would come less than a year after Anduril's Series G, which closed in June with $2.5 billion against a $30 billion valuation.",
@@ -1178,14 +1197,14 @@
       "image": null,
       "score": 55,
       "mentionedFigures": [],
-      "rank": 55,
+      "rank": 52,
       "tags": [
         "ai",
         "startup"
       ]
     },
     {
-      "id": "techcrunch-8-1772605523521",
+      "id": "techcrunch-8-1772607443517",
       "title": "Claude Code rolls out a voice mode capability",
       "url": "https://techcrunch.com/2026/03/03/claude-code-rolls-out-a-voice-mode-capability/",
       "description": "Anthropic is stepping up its game in the AI coding space with the rollout of Voice Mode in Claude Code.",
@@ -1201,14 +1220,14 @@
       "image": null,
       "score": 55,
       "mentionedFigures": [],
-      "rank": 56,
+      "rank": 53,
       "tags": [
         "ai",
         "space"
       ]
     },
     {
-      "id": "techcrunch-9-1772605523521",
+      "id": "techcrunch-9-1772607443517",
       "title": "Android users can now share tracker tag info with airlines to help locate lost luggage",
       "url": "https://techcrunch.com/2026/03/03/android-users-can-now-share-tracker-tag-info-with-airlines-to-help-locate-lost-luggage/",
       "description": "More than 10 global airlines now accept Find Hub locations as part of their baggage recovery process.",
@@ -1224,37 +1243,14 @@
       "image": null,
       "score": 55,
       "mentionedFigures": [],
-      "rank": 57,
+      "rank": 54,
       "tags": [
         "ai",
         "google"
       ]
     },
     {
-      "id": "techcrunch-10-1772605523521",
-      "title": "X says it will suspend creators from revenue-sharing program for unlabeled AI posts of ‘armed conflict’",
-      "url": "https://techcrunch.com/2026/03/03/x-says-it-will-suspend-creators-from-revenue-sharing-program-for-unlabeled-ai-posts-of-armed-conflict/",
-      "description": "Creators who break the rules will get a three-month suspension, and if they continue to violate the policy, they'll be permanently banned.",
-      "source": "techcrunch",
-      "sourceLabel": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/03/03/x-says-it-will-suspend-creators-from-revenue-sharing-program-for-unlabeled-ai-posts-of-armed-conflict/",
-      "author": "Sarah Perez",
-      "publishedAt": "2026-03-03T18:27:47.000Z",
-      "engagement": {
-        "upvotes": 0,
-        "comments": 0
-      },
-      "image": null,
-      "score": 55,
-      "mentionedFigures": [],
-      "rank": 58,
-      "tags": [
-        "ai",
-        "ev"
-      ]
-    },
-    {
-      "id": "36kr-3-1772605526237",
+      "id": "36kr-3-1772607445822",
       "title": "8点1氪丨油价或涨超70%；黄金白银出现断崖式下跌；iPhone 17使用一个月后橙色变粉色，苹果官方拒绝保修申请",
       "url": "https://36kr.com/p/3707876236931461?f=rss",
       "description": "今日热点导览\n周大福珠宝集团：金条类产品正常在售\n霍尔木兹海峡受阻，国际油价暴涨，国内成品油将迎上调\n“紫薯精”带火刘文祥麻辣烫：门店爆单，品牌方暂停接收新合作\n舍得酒业副总裁王勇因工作原因辞职\n华为在海外发布多个型号超节点产品及解决方案\nTOP3大新闻\n历史数据显示：主要产油国政权更迭，油价或涨超70%\n中东局势持续紧张导致国际油价波动加剧。摩根大通预测，如果当前美以与伊朗的军事冲突持续超过三周，布伦特原油的价格可能会飙升至每桶120美元。摩根大通的全球大宗商品研究主管还指出，他们还在关注的一大变量就是，如果伊朗政权崩溃，同样将对石油供应构成严重风险。历史数据显示：当主要产油国发生政权更迭时",
@@ -1270,13 +1266,13 @@
       "image": null,
       "score": 55,
       "mentionedFigures": [],
-      "rank": 59,
+      "rank": 55,
       "tags": [
         "apple"
       ]
     },
     {
-      "id": "36kr-4-1772605526237",
+      "id": "36kr-4-1772607445822",
       "title": "莱芒生物完成近2亿元新增融资，加速推进代谢增强型免疫细胞疗法临床转化｜36氪首发",
       "url": "https://36kr.com/p/3707151883382917?f=rss",
       "description": "文｜胡香赟\n编辑｜海若镜\n36氪获悉，莱芒生物近期已完成近2亿元新增融资。本轮融资由粤财控股旗下机构粤财中垠联合晶泰科技领投，矿世之星、Mony Valley、泰珑投资、中山创投、以及个人财务投资者跟投，老股东富汇创投持续加注。募集资金将重点用于推进极低剂量代谢增强型CAR-T细胞药物的注册I期临床研究，并加速推进自动化生产工艺研发与验证，以及启动代谢增强型实体瘤细胞治疗药物的临床转化。\n莱芒生物是晶泰科技（HK:02228）孵化并投资的创新药企，公司自研META 10、META 10-AI两大AI+代谢重编程技术平台，有望通过精准调控耗竭T细胞的代谢功能，开发“疗效和安全性更好、剂量更小，制",
@@ -1292,7 +1288,7 @@
       "image": "https://img.36krcdn.com/hsossms/20260303/v2_857b06e056f24ea1a52faa4e6725b189@5930287_oswg143014oswg1266oswg504_img_png?x-oss-process=image/quality,q_100/format,jpg/interlace,1",
       "score": 55,
       "mentionedFigures": [],
-      "rank": 60,
+      "rank": 56,
       "tags": [
         "ai",
         "startup",
@@ -1311,13 +1307,13 @@
       "author": "speckx",
       "publishedAt": "2026-03-03T14:22:25.000Z",
       "engagement": {
-        "upvotes": 913,
+        "upvotes": 918,
         "comments": 557
       },
       "image": null,
-      "score": 54.7,
+      "score": 54.8,
       "mentionedFigures": [],
-      "rank": 61,
+      "rank": 57,
       "tags": []
     },
     {
@@ -1331,13 +1327,13 @@
       "author": "ireflect",
       "publishedAt": "2026-03-02T20:30:52.000Z",
       "engagement": {
-        "upvotes": 1117,
+        "upvotes": 1118,
         "comments": 549
       },
       "image": null,
       "score": 54.6,
       "mentionedFigures": [],
-      "rank": 62,
+      "rank": 58,
       "tags": []
     },
     {
@@ -1357,7 +1353,7 @@
       "image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Foy21q3gfybpijzzdgq5h.png",
       "score": 54,
       "mentionedFigures": [],
-      "rank": 63,
+      "rank": 59,
       "tags": [
         "ai",
         "ev"
@@ -1380,7 +1376,7 @@
       "image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F5vludpsxdywmt9yigfo1.png",
       "score": 54,
       "mentionedFigures": [],
-      "rank": 64,
+      "rank": 60,
       "tags": [
         "ai"
       ]
@@ -1402,35 +1398,13 @@
       "image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fdddduvvdktihx7bh0g3l.png",
       "score": 54,
       "mentionedFigures": [],
-      "rank": 65,
+      "rank": 61,
       "tags": [
         "ev"
       ]
     },
     {
-      "id": "reddit-1riqdmj",
-      "title": "Microsoft gets tired of “Microslop,” bans the word on its Discord, then locks the server after backlash",
-      "url": "https://www.windowslatest.com/2026/03/02/microsoft-gets-tired-of-microslop-bans-the-word-on-its-discord-then-locks-the-server-after-backlash/",
-      "description": "Microsoft gets tired of “Microslop,” bans the word on its Discord, then locks the server after backlash",
-      "source": "reddit",
-      "sourceLabel": "r/technology",
-      "sourceUrl": "https://reddit.com/r/technology/comments/1riqdmj/microsoft_gets_tired_of_microslop_bans_the_word/",
-      "author": "GreyXor",
-      "publishedAt": "2026-03-02T11:29:01.000Z",
-      "engagement": {
-        "upvotes": 28942,
-        "comments": 1142
-      },
-      "image": "https://external-preview.redd.it/wGJVJwnnC6UprV2GPZq0ePdISmZ8o1hVNm-RxSaFJQs.jpeg?width=140&amp;height=78&amp;auto=webp&amp;s=b5006f10f08a2911641212b59769a444a0966054",
-      "score": 53.7,
-      "mentionedFigures": [],
-      "rank": 66,
-      "tags": [
-        "microsoft"
-      ]
-    },
-    {
-      "id": "theverge-0-1772605523544",
+      "id": "theverge-0-1772607443581",
       "title": "Anker’s last-gen sleep buds are nearly 40 percent off ahead of daylight saving time",
       "url": "https://www.theverge.com/gadgets/888719/anker-soundcore-sleep-a20-earbuds-newegg-deal-sale",
       "description": "Anker’s last-gen earbuds are tiny and lightweight, making them comfy to wear while sleeping. | Image: Anker\t\n\nBad news: most Americans are about to lose an hour of sleep next week. Good news: if you have trouble falling (or staying asleep), Newegg is currently selling Anker’s Soundcore Sleep A20 ear",
@@ -1446,11 +1420,11 @@
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25337452/soundcore_Sleep_A20_Lifestyle_image1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
       "score": 52.5,
       "mentionedFigures": [],
-      "rank": 67,
+      "rank": 62,
       "tags": []
     },
     {
-      "id": "theverge-1-1772605523544",
+      "id": "theverge-1-1772607443581",
       "title": "Does Ticketmaster have a stranglehold on concert ticketing — or is it just ‘bringing joy’?",
       "url": "https://www.theverge.com/policy/888778/live-nation-ticketmaster-doj-opening-statements",
       "description": "In a downtown Manhattan courtroom on Monday, lawyers for the US Justice Department and 40 state and district attorneys general warned a jury that the concert industry was being squeezed by a monopolist: Live Nation-Tickemaster. After amassing dominance over ticketing and artists' use of large amphit",
@@ -1466,11 +1440,11 @@
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/05/STK268_TICKETMASTER_CVIRGINIA_B.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
       "score": 52.5,
       "mentionedFigures": [],
-      "rank": 68,
+      "rank": 63,
       "tags": []
     },
     {
-      "id": "theverge-2-1772605523544",
+      "id": "theverge-2-1772607443581",
       "title": "What Trump’s war on Iran means for the US energy crunch",
       "url": "https://www.theverge.com/science/888526/what-trumps-war-on-iran-means-for-the-us-energy-crunch",
       "description": "President Donald Trump arrives at the White House as joint US-Israeli military strikes on Iran continue. Washington, DC, on March 1st, 2026. | Photo: Getty Images\t\n\nFuel prices surged after the Trump administration launched strikes against Iran on Saturday, immediately raising questions about whethe",
@@ -1486,13 +1460,13 @@
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/gettyimages-2263827023.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
       "score": 52.5,
       "mentionedFigures": [],
-      "rank": 69,
+      "rank": 64,
       "tags": [
         "ai"
       ]
     },
     {
-      "id": "theverge-3-1772605523544",
+      "id": "theverge-3-1772607443581",
       "title": "The best AirPods deals you can get right now",
       "url": "https://www.theverge.com/21302051/best-apple-airpods-deals",
       "description": "The AirPods Pro 3 are currently on sale for $219 ($30 off), which is about $10 more than their typical sale price. | Photo by Amelia Holowaty Krales / The Verge\t\n\nIf you know where to look, you can often score deals on Apple’s ever-expanding AirPods lineup. Both the AirPods Max and AirPods 4 (with a",
@@ -1508,7 +1482,7 @@
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/257943_Airpods_Pro3_AKrales_0145.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
       "score": 52.5,
       "mentionedFigures": [],
-      "rank": 70,
+      "rank": 65,
       "tags": [
         "ai",
         "apple",
@@ -1516,7 +1490,7 @@
       ]
     },
     {
-      "id": "theverge-4-1772605523544",
+      "id": "theverge-4-1772607443581",
       "title": "Another Oracle outage is messing up US TikTok",
       "url": "https://www.theverge.com/tech/888647/tiktok-us-oracle-outage-march-2026",
       "description": "The US version of TikTok is once again experiencing issues due to an Oracle outage, just a month after coming back online from a similar outage in February. \nThe service disruption, impacting Oracle's Ashburn, Virginia data center, began early Tuesday afternoon, with Downdetector reports spiking aro",
@@ -1532,13 +1506,13 @@
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/STK051_VRG_Illo_N_Barclay_7_tiktok.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
       "score": 52.5,
       "mentionedFigures": [],
-      "rank": 71,
+      "rank": 66,
       "tags": [
         "ai"
       ]
     },
     {
-      "id": "theverge-5-1772605523544",
+      "id": "theverge-5-1772607443581",
       "title": "Highguard is shutting down this month",
       "url": "https://www.theverge.com/games/880206/highguard-shut-down",
       "description": "Another high-profile live-service game is shutting down soon after launch: this time it's the free-to-play squad shooter Highguard.\nDeveloper Wildlight Entertainment says that, even though Highguard reached 2 million players, the game will be shut down permanently on March 12th. That's less than two",
@@ -1554,7 +1528,7 @@
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/ss_6a0272b3cd10c3ffa73b8b8e7855817f3ab75d50.1920x1080.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
       "score": 52.5,
       "mentionedFigures": [],
-      "rank": 72,
+      "rank": 67,
       "tags": [
         "ai",
         "programming",
@@ -1562,7 +1536,7 @@
       ]
     },
     {
-      "id": "theverge-6-1772605523544",
+      "id": "theverge-6-1772607443581",
       "title": "Shark’s latest robot vacuum hunts stains with UV light",
       "url": "https://www.theverge.com/tech/888179/shark-powerdetect-uv-reveal-robot-vacuum-review",
       "description": "The Shark PowerDetect UV Reveal is SharkNinja's latest robot vacuum and mop. A flagship model with a multifunctional dock that empties the dustbin and refills and washes its mop, the Reveal's signature feature is a UV light designed to \"find\" stains on your floors. It costs $1,299.99 and is availabl",
@@ -1578,14 +1552,14 @@
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/8A0A5457.jpeg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
       "score": 52.5,
       "mentionedFigures": [],
-      "rank": 73,
+      "rank": 68,
       "tags": [
         "ai",
         "ev"
       ]
     },
     {
-      "id": "theverge-7-1772605523544",
+      "id": "theverge-7-1772607443581",
       "title": "Android’s Find Hub adds iPhone-like luggage tracking links",
       "url": "https://www.theverge.com/tech/888200/google-android-find-hub-luggage-tracking",
       "description": "A Chipolo Pop tracker. | Photo by Dominic Preston / The Verge\t\n\nGoogle is rolling out an Android update that includes the ability to share the location of your missing luggage with an airline. It's similar to the luggage-tracking feature Apple brought to the iPhone, allowing you to view the location",
@@ -1601,7 +1575,7 @@
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/google-find-my-device-trackers-12.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
       "score": 52.5,
       "mentionedFigures": [],
-      "rank": 74,
+      "rank": 69,
       "tags": [
         "ai",
         "apple",
@@ -1609,7 +1583,7 @@
       ]
     },
     {
-      "id": "theverge-8-1772605523544",
+      "id": "theverge-8-1772607443581",
       "title": "Google’s latest Pixel drop allows Gemini to order groceries for you and more",
       "url": "https://www.theverge.com/tech/888295/google-gemini-pixel-drop-march-2026",
       "description": "Google is adding several new features to Pixel phones with its latest March update, including the ability for its Gemini AI assistant to do things for you, like order groceries or book a ride. This feature, which was first shown off during Samsung's Unpacked event last week, is rolling out now to th",
@@ -1625,7 +1599,7 @@
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/257917_Google_Pixel_10_review_AJohnson_0007.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
       "score": 52.5,
       "mentionedFigures": [],
-      "rank": 75,
+      "rank": 70,
       "tags": [
         "ai",
         "google",
@@ -1633,7 +1607,7 @@
       ]
     },
     {
-      "id": "theverge-9-1772605523544",
+      "id": "theverge-9-1772607443581",
       "title": "Google brings Android’s desktop mode to Pixel devices",
       "url": "https://www.theverge.com/tech/888370/google-pixel-tablet-android-desktop-mode",
       "description": "Google is bringing a new desktop mode to its Pixel phones and tablets. The feature comes as part of Google's March Pixel drop, allowing users with a Pixel 8 and newer to connect their device to an external monitor via USB-C for a \"desktop-like multi-window experience.\"\nYou can use a mouse and keyboa",
@@ -1649,14 +1623,54 @@
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STKE007_GOOGLE_PIXEL_2025_2.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
       "score": 52.5,
       "mentionedFigures": [],
-      "rank": 76,
+      "rank": 71,
       "tags": [
         "google",
         "ev"
       ]
     },
     {
-      "id": "arstechnica-0-1772605523630",
+      "id": "reddit-1rk72k1",
+      "title": "Threads vs Coroutines — Why C++ Has Two Concurrency Models - Conor Spilsbury - CppCon 2025",
+      "url": "https://www.youtube.com/watch?v=txffplpsSzg",
+      "description": "Threads vs Coroutines — Why C++ Has Two Concurrency Models - Conor Spilsbury - CppCon 2025",
+      "source": "reddit",
+      "sourceLabel": "r/programming",
+      "sourceUrl": "https://reddit.com/r/programming/comments/1rk72k1/threads_vs_coroutines_why_c_has_two_concurrency/",
+      "author": "BlueGoliath",
+      "publishedAt": "2026-03-04T00:47:30.000Z",
+      "engagement": {
+        "upvotes": 0,
+        "comments": 0
+      },
+      "image": null,
+      "score": 50,
+      "mentionedFigures": [],
+      "rank": 72,
+      "tags": []
+    },
+    {
+      "id": "reddit-1rk729t",
+      "title": "Interesting Upcoming Low-Latency, Concurrency, and Parallelism Features - CppCon 2025",
+      "url": "https://www.youtube.com/watch?v=M1pqI1B9Zjs",
+      "description": "Interesting Upcoming Low-Latency, Concurrency, and Parallelism Features - CppCon 2025",
+      "source": "reddit",
+      "sourceLabel": "r/programming",
+      "sourceUrl": "https://reddit.com/r/programming/comments/1rk729t/interesting_upcoming_lowlatency_concurrency_and/",
+      "author": "BlueGoliath",
+      "publishedAt": "2026-03-04T00:47:10.000Z",
+      "engagement": {
+        "upvotes": 0,
+        "comments": 0
+      },
+      "image": null,
+      "score": 50,
+      "mentionedFigures": [],
+      "rank": 73,
+      "tags": []
+    },
+    {
+      "id": "arstechnica-0-1772607444886",
       "title": "No fooling: NASA targets April 1 for Artemis II launch to the Moon",
       "url": "https://arstechnica.com/space/2026/03/no-fooling-nasa-targets-april-1-for-artemis-ii-launch-to-the-moon/",
       "description": "\"Engineers are assessing what allowed the seal to become dislodged to prevent the issue from recurring.\"",
@@ -1672,14 +1686,14 @@
       "image": null,
       "score": 50,
       "mentionedFigures": [],
-      "rank": 77,
+      "rank": 74,
       "tags": [
         "space",
         "ev"
       ]
     },
     {
-      "id": "arstechnica-1-1772605523630",
+      "id": "arstechnica-1-1772607444886",
       "title": "Downdetector, Speedtest sold to IT service provider Accenture in $1.2B deal",
       "url": "https://arstechnica.com/information-technology/2026/03/downdetector-speedtest-sold-to-it-service-provider-accenture-in-1-2b-deal/",
       "description": "Accenture plans to buy Ookla, which also includes RootMetrics and Ekahau.",
@@ -1695,11 +1709,11 @@
       "image": null,
       "score": 50,
       "mentionedFigures": [],
-      "rank": 78,
+      "rank": 75,
       "tags": []
     },
     {
-      "id": "arstechnica-3-1772605523630",
+      "id": "arstechnica-3-1772607444886",
       "title": "What we can learn from scientific analysis of Renaissance recipes",
       "url": "https://arstechnica.com/science/2026/03/renaissance-diy-science-people-tested-tweaked-home-remedy-recipes/",
       "description": "Multispectral imaging, proteomics, historical texts yield new insights into 16th-century medical manuals.",
@@ -1715,13 +1729,13 @@
       "image": null,
       "score": 50,
       "mentionedFigures": [],
-      "rank": 79,
+      "rank": 76,
       "tags": [
         "ai"
       ]
     },
     {
-      "id": "arstechnica-4-1772605523630",
+      "id": "arstechnica-4-1772607444886",
       "title": "There are plenty of great choices if you want to spend less than $15K on an EV",
       "url": "https://arstechnica.com/cars/2026/03/there-are-plenty-of-great-choices-if-you-want-to-spend-less-than-15k-on-an-ev/",
       "description": "There's a lot of good Hyundai and Kia EVs in this price bracket, plus the Bolt and i3.",
@@ -1737,58 +1751,57 @@
       "image": null,
       "score": 50,
       "mentionedFigures": [],
-      "rank": 80,
+      "rank": 77,
       "tags": [
         "ai",
         "ev"
       ]
     },
     {
-      "id": "arstechnica-5-1772605523630",
-      "title": "M5 Pro and M5 Max are surprisingly big departures from older Apple Silicon",
-      "url": "https://arstechnica.com/gadgets/2026/03/m5-pro-and-m5-max-are-surprisingly-big-departures-from-older-apple-silicon/",
-      "description": "Apple is using more chiplets and three types of CPU cores to make the M5 family.",
-      "source": "arstechnica",
-      "sourceLabel": "Ars Technica",
-      "sourceUrl": "https://arstechnica.com/gadgets/2026/03/m5-pro-and-m5-max-are-surprisingly-big-departures-from-older-apple-silicon/",
-      "author": "\n                    Andrew Cunningham\n                ",
-      "publishedAt": "2026-03-03T18:41:29.000Z",
+      "id": "v2ex-1195677",
+      "title": "小米口碑是否真的崩坏了？",
+      "url": "https://www.v2ex.com/t/1195677",
+      "description": "小米股价从 25 年 6 月的 61 块跌倒现在 31 块，除了内存上涨和“车门不能开因低压系统断电”带来的不利因素，其他也没了吧，难道真是口碑崩坏了？",
+      "source": "v2ex",
+      "sourceLabel": "V2EX",
+      "sourceUrl": "https://www.v2ex.com/t/1195677",
+      "author": "bli22ard",
+      "publishedAt": "2026-03-04T03:15:15.000Z",
+      "engagement": {
+        "upvotes": 0,
+        "comments": 122
+      },
+      "image": "https://cdn.v2ex.com/gravatar/cc3f4c3d52ea7317ccbaa6710d5f8ca1?s=73&d=retro",
+      "score": 49.9,
+      "mentionedFigures": [],
+      "rank": 78,
+      "tags": []
+    },
+    {
+      "id": "techcrunch-10-1772607443517",
+      "title": "X says it will suspend creators from revenue-sharing program for unlabeled AI posts of ‘armed conflict’",
+      "url": "https://techcrunch.com/2026/03/03/x-says-it-will-suspend-creators-from-revenue-sharing-program-for-unlabeled-ai-posts-of-armed-conflict/",
+      "description": "Creators who break the rules will get a three-month suspension, and if they continue to violate the policy, they'll be permanently banned.",
+      "source": "techcrunch",
+      "sourceLabel": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/03/03/x-says-it-will-suspend-creators-from-revenue-sharing-program-for-unlabeled-ai-posts-of-armed-conflict/",
+      "author": "Sarah Perez",
+      "publishedAt": "2026-03-03T18:27:47.000Z",
       "engagement": {
         "upvotes": 0,
         "comments": 0
       },
       "image": null,
-      "score": 50,
+      "score": 49.5,
       "mentionedFigures": [],
-      "rank": 81,
+      "rank": 79,
       "tags": [
-        "apple"
+        "ai",
+        "ev"
       ]
     },
     {
-      "id": "youtube-UC0vBXGSyV14uvJ4hECDOl0Q-0",
-      "title": "The Most Dangerous Linux Command Explained",
-      "url": "https://www.youtube.com/watch?v=-iwvu0uozhs",
-      "description": "The Most Dangerous Linux Command Explained",
-      "source": "youtube",
-      "sourceLabel": "YouTube Fireship",
-      "sourceUrl": "https://www.youtube.com/watch?v=-iwvu0uozhs",
-      "author": "Techquickie",
-      "publishedAt": "2026-03-03T23:00:26.000Z",
-      "engagement": {
-        "upvotes": 0,
-        "comments": 0
-      },
-      "image": "https://i.ytimg.com/vi/-iwvu0uozhs/hqdefault.jpg",
-      "score": 50,
-      "mentionedFigures": [],
-      "rank": 82,
-      "tags": [
-        "ai"
-      ]
-    },
-    {
-      "id": "techcrunch-11-1772605523521",
+      "id": "techcrunch-11-1772607443517",
       "title": "The new MacBook Pro laptops are as much as $400 more expensive than their predecessors. Thank the RAM shortage.",
       "url": "https://techcrunch.com/2026/03/03/apple-new-macbook-pro-laptop-price-more-expensive-than-previous-models-ram-memory-shortage/",
       "description": "With the demands for more computers and data centers to power AI, the market is experiencing a shortage of RAM, causing memory prices to surge.",
@@ -1804,13 +1817,13 @@
       "image": null,
       "score": 49.5,
       "mentionedFigures": [],
-      "rank": 83,
+      "rank": 80,
       "tags": [
         "ai"
       ]
     },
     {
-      "id": "techcrunch-12-1772605523521",
+      "id": "techcrunch-12-1772607443517",
       "title": "Hacked traffic cams and hijacked TVs: How cyber operations supported the war against Iran",
       "url": "https://techcrunch.com/2026/03/03/hacked-traffic-cams-and-hijacked-tvs-how-cyber-operations-supported-the-war-against-iran/",
       "description": "After U.S. and Israeli forces started bombing Iran, reports say cyber operations have disrupted communications, supported surveillance activities, and have been used in psychological operations.",
@@ -1826,14 +1839,14 @@
       "image": null,
       "score": 49.5,
       "mentionedFigures": [],
-      "rank": 84,
+      "rank": 81,
       "tags": [
         "ai",
         "security"
       ]
     },
     {
-      "id": "techcrunch-13-1772605523521",
+      "id": "techcrunch-13-1772607443517",
       "title": "Activist investor Elliott takes a $1B stake in Pinterest, betting on AI-driven growth",
       "url": "https://techcrunch.com/2026/03/03/activist-investor-elliot-takes-a-1b-stake-in-pinterest-betting-on-ai-driven-growth/",
       "description": "The news comes as Pinterest has faced serious headwinds. Shares tumbled over the past year, with disappointing earnings, layoffs affecting 15% of its workforce, a declining ad business, and increased rivalry from AI chatbots.",
@@ -1849,13 +1862,13 @@
       "image": null,
       "score": 49.5,
       "mentionedFigures": [],
-      "rank": 85,
+      "rank": 82,
       "tags": [
         "ai"
       ]
     },
     {
-      "id": "techcrunch-14-1772605523521",
+      "id": "techcrunch-14-1772607443517",
       "title": "Apple’s rumored MacBook Neo, a lower-cost, colorful laptop, could launch this week",
       "url": "https://techcrunch.com/2026/03/03/apple-macbook-neo-a-low-cost-colorful-laptop-could-launch-this-week/",
       "description": "This would mark the first time Apple competes with cheaper hardware like the Chromebook.",
@@ -1871,14 +1884,14 @@
       "image": null,
       "score": 49.5,
       "mentionedFigures": [],
-      "rank": 86,
+      "rank": 83,
       "tags": [
         "apple",
         "google"
       ]
     },
     {
-      "id": "techcrunch-15-1772605523521",
+      "id": "techcrunch-15-1772607443517",
       "title": "Amid new competition, Chrome speeds up its release schedule",
       "url": "https://techcrunch.com/2026/03/03/amid-new-competition-chrome-speeds-up-its-release-schedule/",
       "description": "Google Chrome will begin shipping new releases every two weeks in September, instead of monthly.",
@@ -1894,14 +1907,14 @@
       "image": null,
       "score": 49.5,
       "mentionedFigures": [],
-      "rank": 87,
+      "rank": 84,
       "tags": [
         "google",
         "ev"
       ]
     },
     {
-      "id": "techcrunch-17-1772605523521",
+      "id": "techcrunch-17-1772607443517",
       "title": "X begins testing standalone X Chat app on iOS",
       "url": "https://techcrunch.com/2026/03/03/x-begins-testing-standalone-x-chat-app-on-ios/",
       "description": "The new app promises a way to send and receive messages without being distracted by your timeline.",
@@ -1917,11 +1930,11 @@
       "image": null,
       "score": 49.5,
       "mentionedFigures": [],
-      "rank": 88,
+      "rank": 85,
       "tags": []
     },
     {
-      "id": "techcrunch-18-1772605523521",
+      "id": "techcrunch-18-1772607443517",
       "title": "Apple unveils new MacBook Air and MacBook Pro with M5",
       "url": "https://techcrunch.com/2026/03/03/apple-unveils-new-macbook-air-and-macbook-pro-with-m5/",
       "description": "These updated M5 chips were specifically designed to make the MacBook Air and MacBook Pro laptops better at handling intensive AI tasks.",
@@ -1937,14 +1950,14 @@
       "image": null,
       "score": 49.5,
       "mentionedFigures": [],
-      "rank": 89,
+      "rank": 86,
       "tags": [
         "ai",
         "apple"
       ]
     },
     {
-      "id": "techcrunch-19-1772605523521",
+      "id": "techcrunch-19-1772607443517",
       "title": "Apple’s new Studio Displays come with Thunderbolt 5",
       "url": "https://techcrunch.com/2026/03/03/apples-new-studio-displays-come-with-thunderbolt-5/",
       "description": "The new displays come with better cameras, new sound systems, and Thunderbolt 5 ports.",
@@ -1960,13 +1973,13 @@
       "image": null,
       "score": 49.5,
       "mentionedFigures": [],
-      "rank": 90,
+      "rank": 87,
       "tags": [
         "apple"
       ]
     },
     {
-      "id": "36kr-5-1772605526237",
+      "id": "36kr-5-1772607445822",
       "title": "氪星晚报｜全国首个跨境电商出口“前置监管仓”投用；亚马逊云服务称仍在努力恢复阿联酋网络服务；2026年全国消费促进月启动",
       "url": "https://36kr.com/p/3707029227499651?f=rss",
       "description": "大公司：\n亚马逊花逾4亿美元购美知名高校校区用于AI建设\n美国乔治·华盛顿大学2日说，美国亚马逊公司斥资4.27亿美元，收购该校弗吉尼亚科学与技术校区，以加快人工智能（AI）基础设施建设。\n红果短剧已为多款小说相关软件登记著作权\n36氪获悉，3月3日，爱企查App显示，红果短剧关联公司北京笔墨留香科技有限公司成已为“小说快应用”“笔墨留香”“红果官网”网站进行备案。值得一提的是，该公司已为“最看小说”“茶间小说”“翠果小说”等多款小说相关软件登记著作权。\n扎克伯格夫妇据报1.7亿美元于迈阿密置业，以规避加州富人税\n3月3日，据报道，Meta Platforms公司创始人马克·扎克伯格及其妻子以",
@@ -1982,30 +1995,10 @@
       "image": null,
       "score": 49.5,
       "mentionedFigures": [],
-      "rank": 91,
+      "rank": 88,
       "tags": [
         "ai"
       ]
-    },
-    {
-      "id": "v2ex-1195677",
-      "title": "小米口碑是否真的崩坏了？",
-      "url": "https://www.v2ex.com/t/1195677",
-      "description": "小米股价从 25 年 6 月的 61 块跌倒现在 31 块，除了内存上涨和“车门不能开因低压系统断电”带来的不利因素，其他也没了吧，难道真是口碑崩坏了？",
-      "source": "v2ex",
-      "sourceLabel": "V2EX",
-      "sourceUrl": "https://www.v2ex.com/t/1195677",
-      "author": "bli22ard",
-      "publishedAt": "2026-03-04T03:15:15.000Z",
-      "engagement": {
-        "upvotes": 0,
-        "comments": 110
-      },
-      "image": "https://cdn.v2ex.com/gravatar/cc3f4c3d52ea7317ccbaa6710d5f8ca1?s=73&d=retro",
-      "score": 47.8,
-      "mentionedFigures": [],
-      "rank": 92,
-      "tags": []
     },
     {
       "id": "devto-3306152",
@@ -2019,16 +2012,38 @@
       "publishedAt": "2026-03-03T15:09:26Z",
       "engagement": {
         "upvotes": 35,
-        "comments": 1
+        "comments": 2
       },
       "image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F2h7elyu8vc0auj7u2epe.png",
-      "score": 45.5,
+      "score": 47.6,
       "mentionedFigures": [],
-      "rank": 93,
+      "rank": 89,
       "tags": []
     },
     {
-      "id": "arstechnica-6-1772605523630",
+      "id": "arstechnica-5-1772607444886",
+      "title": "M5 Pro and M5 Max are surprisingly big departures from older Apple Silicon",
+      "url": "https://arstechnica.com/gadgets/2026/03/m5-pro-and-m5-max-are-surprisingly-big-departures-from-older-apple-silicon/",
+      "description": "Apple is using more chiplets and three types of CPU cores to make the M5 family.",
+      "source": "arstechnica",
+      "sourceLabel": "Ars Technica",
+      "sourceUrl": "https://arstechnica.com/gadgets/2026/03/m5-pro-and-m5-max-are-surprisingly-big-departures-from-older-apple-silicon/",
+      "author": "\n                    Andrew Cunningham\n                ",
+      "publishedAt": "2026-03-03T18:41:29.000Z",
+      "engagement": {
+        "upvotes": 0,
+        "comments": 0
+      },
+      "image": null,
+      "score": 45,
+      "mentionedFigures": [],
+      "rank": 90,
+      "tags": [
+        "apple"
+      ]
+    },
+    {
+      "id": "arstechnica-6-1772607444886",
       "title": "New MacBook Airs come with M5, double the storage, and higher starting prices",
       "url": "https://arstechnica.com/gadgets/2026/03/new-macbook-airs-come-with-m5-double-the-storage-and-higher-starting-prices/",
       "description": "New Airs leave more room underneath for the rumored low-cost MacBook.",
@@ -2044,13 +2059,13 @@
       "image": null,
       "score": 45,
       "mentionedFigures": [],
-      "rank": 94,
+      "rank": 91,
       "tags": [
         "ai"
       ]
     },
     {
-      "id": "arstechnica-7-1772605523630",
+      "id": "arstechnica-7-1772607444886",
       "title": "Apple intros M5 Pro and Max MacBook Pros and its first new monitors in years",
       "url": "https://arstechnica.com/gadgets/2026/03/apple-intros-m5-pro-and-max-macbook-pros-and-its-first-new-monitors-in-years/",
       "description": "New laptops come with more storage but also higher starting prices.",
@@ -2066,13 +2081,13 @@
       "image": null,
       "score": 45,
       "mentionedFigures": [],
-      "rank": 95,
+      "rank": 92,
       "tags": [
         "apple"
       ]
     },
     {
-      "id": "arstechnica-8-1772605523630",
+      "id": "arstechnica-8-1772607444886",
       "title": "This is why our electricity bills are so high right now",
       "url": "https://arstechnica.com/tech-policy/2026/03/this-is-why-our-electricity-bills-are-so-high-right-now/",
       "description": "New data shows electricity rates rose 5 percent nationwide in 2025.",
@@ -2088,11 +2103,11 @@
       "image": null,
       "score": 45,
       "mentionedFigures": [],
-      "rank": 96,
+      "rank": 93,
       "tags": []
     },
     {
-      "id": "arstechnica-9-1772605523630",
+      "id": "arstechnica-9-1772607444886",
       "title": "As Moon interest heats up, two companies unveil plans for a lunar \"harvester\"",
       "url": "https://arstechnica.com/space/2026/03/as-moon-interest-heats-up-two-companies-unveil-plans-for-a-lunar-harvester/",
       "description": "\"Ultimately, we want to build a fleet of electric harvesters.\"",
@@ -2108,11 +2123,11 @@
       "image": null,
       "score": 45,
       "mentionedFigures": [],
-      "rank": 97,
+      "rank": 94,
       "tags": []
     },
     {
-      "id": "arstechnica-10-1772605523630",
+      "id": "arstechnica-10-1772607444886",
       "title": "Medical journal The Lancet blasts RFK Jr.’s health work as a failure",
       "url": "https://arstechnica.com/health/2026/03/medical-journal-the-lancet-blasts-rfk-jr-s-health-work-as-a-failure/",
       "description": "Kennedy's destruction \"might take generations to repair,\" The Lancet said.",
@@ -2128,13 +2143,13 @@
       "image": null,
       "score": 45,
       "mentionedFigures": [],
-      "rank": 98,
+      "rank": 95,
       "tags": [
         "ai"
       ]
     },
     {
-      "id": "arstechnica-12-1772605523630",
+      "id": "arstechnica-12-1772607444886",
       "title": "With developer verification, Google's Apple envy threatens to dismantle Android's open legacy",
       "url": "https://arstechnica.com/gadgets/2026/03/with-developer-verification-googles-apple-envy-threatens-to-dismantle-androids-open-legacy/",
       "description": "Questions remain as Google prepares to lock down Android app distribution in the name of security.",
@@ -2150,7 +2165,7 @@
       "image": null,
       "score": 45,
       "mentionedFigures": [],
-      "rank": 99,
+      "rank": 96,
       "tags": [
         "ai",
         "apple",
@@ -2176,6 +2191,66 @@
       },
       "image": "https://i.ytimg.com/vi/_mwFD4RLqXY/hqdefault.jpg",
       "score": 45,
+      "mentionedFigures": [],
+      "rank": 97,
+      "tags": []
+    },
+    {
+      "id": "v2ex-1195636",
+      "title": "为什么都 2026 年了，缴个燃气费还要人上门抄表",
+      "url": "https://www.v2ex.com/t/1195636",
+      "description": "坐标杭州余杭，\r\n第一次的时候是工人上门抄的表， \r\n后面让加了他的微信，\r\n每个季度到点了就来催我拍燃气表的照片给他。\r\n\r\n我在想为什么不能弄个自动收集的设备呢？",
+      "source": "v2ex",
+      "sourceLabel": "V2EX",
+      "sourceUrl": "https://www.v2ex.com/t/1195636",
+      "author": "barantt01",
+      "publishedAt": "2026-03-04T02:03:09.000Z",
+      "engagement": {
+        "upvotes": 0,
+        "comments": 102
+      },
+      "image": "https://cdn.v2ex.com/avatar/fc60/c289/594434_large.png?m=1736843871",
+      "score": 45,
+      "mentionedFigures": [],
+      "rank": 98,
+      "tags": []
+    },
+    {
+      "id": "36kr-6-1772607445822",
+      "title": "黄金频段争夺战打响，华为发布U6GHz完整产品矩阵丨MWC 2026",
+      "url": "https://36kr.com/p/3705512345170309?f=rss",
+      "description": "作者丨邱晓芬\n编辑丨苏建勋\n在2026世界移动通信大会（MWC 2026）中偌大的1号馆里，华为几乎占据了一半以上的位置。这么大的空间和篇幅，华为想重点传递的关键词是U6GHz。\n为了实现6G这一遥远的蓝图，近期，全球已掀起了一场U6GHz（6.425-7.125 GHz）的探索热潮，阿联酋、巴西及欧洲等多国各大运营商近期纷纷完成了相应的万兆体验速率验证。\n简单理解，U6GHz就像是一个“黄金频段”，由于在容量、覆盖、成本这三个维度取得了的最佳平衡，其即将成为未来十年移动网络扩容和升级的核心资源，可以理解为是未来部署5G-A、6G的关键“高速公路”。\n在MWC 2026期间，华为发布了一系列关",
+      "source": "36kr",
+      "sourceLabel": "36Kr 36氪",
+      "sourceUrl": "https://36kr.com/p/3705512345170309?f=rss",
+      "author": null,
+      "publishedAt": "2026-03-03T05:25:28.000Z",
+      "engagement": {
+        "upvotes": 0,
+        "comments": 0
+      },
+      "image": "https://img.36krcdn.com/hsossms/20260303/v2_b8e7204c12c6480b9c370109ed9aea15@1199336245_oswg43867oswg900oswg335_img_jpeg?x-oss-process=image/quality,q_100/format,jpg/interlace,1",
+      "score": 44,
+      "mentionedFigures": [],
+      "rank": 99,
+      "tags": []
+    },
+    {
+      "id": "36kr-7-1772607445822",
+      "title": "荣耀“转型”：发布Robot Phone和首款人形机器人丨MWC 2026",
+      "url": "https://36kr.com/p/3705522207289479?f=rss",
+      "description": "作者丨邱晓芬\n编辑丨苏建勋\n在2026世界移动通信大会（MWC 2026）上，荣耀发布的人形机器人、Robot Phone吸引了大量观众的目光。\n在Robot Phone上，荣耀打破了过去“黑色方块”的设计，将微型相机和云台系统塞进了手机里。\n据介绍，Robot Phone最大的技术挑战之一在于，如何在有限的手机空间中塞进机械臂和电机，这意味着，其上的微型电机必须同时满足高强度和轻量化。\n为此，荣耀将折叠屏手机所用的高性能材料用到了 Robt Phone的电机核心组件上，并借助手机上的仿真技术，对每一个零件进行结构优化。\n从发布会上看，在 4DoF（自由度）的云台系统帮助下，Robot Pho",
+      "source": "36kr",
+      "sourceLabel": "36Kr 36氪",
+      "sourceUrl": "https://36kr.com/p/3705522207289479?f=rss",
+      "author": null,
+      "publishedAt": "2026-03-03T05:24:59.000Z",
+      "engagement": {
+        "upvotes": 0,
+        "comments": 0
+      },
+      "image": "https://img.36krcdn.com/hsossms/20260303/v2_6d98f79304ac4482bae562c0e99b4d32@1199336245_oswg67453oswg1706oswg1280_img_jpg?x-oss-process=image/quality,q_100/format,jpg/interlace,1",
+      "score": 44,
       "mentionedFigures": [],
       "rank": 100,
       "tags": []

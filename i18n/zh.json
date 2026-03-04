@@ -21,5 +21,8 @@
   "minuteAgo": "{n} 分钟前",
   "hourAgo": "{n} 小时前",
   "dayAgo": "{n} 天前",
-  "weekAgo": "{n} 周前"
+  "weekAgo": "{n} 周前",
+  "summaryTitle": "今日科技要闻",
+  "summaryLoading": "正在生成摘要...",
+  "topTopics": "热门话题"
 }
