@@ -24,7 +24,22 @@ The application fetches news from multiple RSS feeds and APIs, combines them, so
 
 ## Deployment
 
-This site is automatically deployed to GitHub Pages. Updates happen daily through the built-in refresh mechanism.
+### Automated Deployment
+1. Run the deployment script: `./deploy.sh`
+2. Follow the prompted instructions to create a GitHub repository
+3. Enable GitHub Pages in your repository settings
+
+### Manual Deployment Steps
+1. Create a new repository on GitHub named `tech-news-daily`
+2. Add the remote: `git remote add origin https://github.com/YOUR_USERNAME/tech-news-daily.git`
+3. Push to GitHub: `git push -u origin main`
+4. Enable GitHub Pages:
+   - Go to repository Settings → Pages
+   - Source: Deploy from a branch
+   - Branch: main, Folder: / (root)
+   - Save
+
+Your site will be live at: `https://YOUR_USERNAME.github.io/tech-news-daily`
 
 ## Local Development
 

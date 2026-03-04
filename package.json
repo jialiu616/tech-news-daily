@@ -1,0 +1,17 @@
+{
+  "name": "tech-news-daily",
+  "version": "2.0.0",
+  "description": "Daily tech news aggregator with archive system",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "fetch": "node scripts/fetch-news.js",
+    "update-index": "node scripts/update-index.js",
+    "daily": "node scripts/fetch-news.js && node scripts/update-index.js",
+    "serve": "npx http-server . -p 8080 -c-1"
+  },
+  "dependencies": {
+    "rss-parser": "^3.13.0",
+    "date-fns": "^3.6.0"
+  }
+}
