@@ -1,0 +1,2271 @@
+{
+  "date": "2026-03-06",
+  "generatedAt": "2026-03-06T06:50:54.206Z",
+  "itemCount": 100,
+  "summary": {
+    "text": "Today's tech news is dominated by AI & Machine Learning, EV & Autonomous, Startups & Funding. Key figures in the news include Dario Amodei, 马云, Elon Musk. Top story: \"MacBook Neo\" from Hacker News.",
+    "topTopics": [
+      {
+        "tag": "ai",
+        "label": "AI & Machine Learning",
+        "count": 38
+      },
+      {
+        "tag": "ev",
+        "label": "EV & Autonomous",
+        "count": 20
+      },
+      {
+        "tag": "startup",
+        "label": "Startups & Funding",
+        "count": 11
+      },
+      {
+        "tag": "security",
+        "label": "Security",
+        "count": 7
+      },
+      {
+        "tag": "google",
+        "label": "Google",
+        "count": 6
+      }
+    ],
+    "topSources": [
+      {
+        "source": "TechCrunch",
+        "count": 20
+      },
+      {
+        "source": "36Kr 36氪",
+        "count": 20
+      },
+      {
+        "source": "IT Home IT之家",
+        "count": 20
+      },
+      {
+        "source": "Ars Technica",
+        "count": 12
+      },
+      {
+        "source": "The Verge",
+        "count": 10
+      }
+    ],
+    "topFigures": [
+      {
+        "name": "Dario Amodei",
+        "count": 2
+      },
+      {
+        "name": "马云",
+        "count": 1
+      },
+      {
+        "name": "Elon Musk",
+        "count": 1
+      }
+    ],
+    "headlines": [
+      {
+        "title": "MacBook Neo",
+        "source": "Hacker News",
+        "url": "https://www.apple.com/newsroom/2026/03/say-hello-to-macbook-neo/"
+      },
+      {
+        "title": "Some folks at #FOSDEM tried to buy the makeshift hats one of our team members brought, so I arranged for this prototype ",
+        "source": "Mastodon @Gargron",
+        "url": "https://mastodon.social/@Gargron/116139012647047394"
+      },
+      {
+        "title": "v1.117 is live! \n\nWe rolled out support for Bandcamp embeds. Now you can play songs right inside posts!\n\nWe're big fans ",
+        "source": "Bluesky @jay",
+        "url": "https://bsky.app/profile/jay.bsky.team/post/3mfkhetnvdk2p"
+      },
+      {
+        "title": "The Real Skill in Programming Is Debugging. Everything Else Is Copy-Paste",
+        "source": "dev.to",
+        "url": "https://dev.to/sylwia-lask/the-real-skill-in-programming-is-debugging-everything-else-is-copy-paste-i39"
+      },
+      {
+        "title": "We now have two t-shirt designs on our merch shop! Both are unisex, high quality 100% organic cotton, with screen prints",
+        "source": "Mastodon @Gargron",
+        "url": "https://mastodon.social/@Gargron/116177753236186999"
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "hn-47247645",
+      "title": "MacBook Neo",
+      "url": "https://www.apple.com/newsroom/2026/03/say-hello-to-macbook-neo/",
+      "description": "MacBook Neo",
+      "source": "hackernews",
+      "sourceLabel": "Hacker News",
+      "sourceUrl": "https://news.ycombinator.com/item?id=47247645",
+      "author": "dm",
+      "publishedAt": "2026-03-04T14:16:41.000Z",
+      "engagement": {
+        "upvotes": 1924,
+        "comments": 2244
+      },
+      "image": null,
+      "score": 100,
+      "mentionedFigures": [],
+      "rank": 1,
+      "tags": []
+    },
+    {
+      "id": "mastodon-116139012647047394",
+      "title": "Some folks at #FOSDEM tried to buy the makeshift hats one of our team members brought, so I arranged for this prototype ",
+      "url": "https://mastodon.social/@Gargron/116139012647047394",
+      "description": "Some folks at #FOSDEM tried to buy the makeshift hats one of our team members brought, so I arranged for this prototype of an official hat to be made. It&#39;s a fisherman beanie with our logo embroidered. I&#39;m trying to gauge interest here. Is this something you&#39;d buy? (Poll in follow-up pos",
+      "source": "mastodon",
+      "sourceLabel": "Mastodon @Gargron",
+      "sourceUrl": "https://mastodon.social/@Gargron/116139012647047394",
+      "author": "Eugen Rochko",
+      "publishedAt": "2026-02-26T21:18:15.911Z",
+      "engagement": {
+        "upvotes": 552,
+        "comments": 36
+      },
+      "image": "https://files.mastodon.social/media_attachments/files/116/138/987/822/403/894/small/acdaafff50a9458f.jpg",
+      "score": 95,
+      "mentionedFigures": [],
+      "rank": 2,
+      "tags": []
+    },
+    {
+      "id": "bluesky-3mfkhetnvdk2p",
+      "title": "v1.117 is live! \n\nWe rolled out support for Bandcamp embeds. Now you can play songs right inside posts!\n\nWe're big fans ",
+      "url": "https://bsky.app/profile/jay.bsky.team/post/3mfkhetnvdk2p",
+      "description": "v1.117 is live! \n\nWe rolled out support for Bandcamp embeds. Now you can play songs right inside posts!\n\nWe're big fans of Bandcamp and everything they do to support artists. \n\nUpgrade to the newest app version and give it a try 👇\n\ncaribouband.bandcamp.com/album/butter...",
+      "source": "bluesky",
+      "sourceLabel": "Bluesky @jay",
+      "sourceUrl": "https://bsky.app/profile/jay.bsky.team",
+      "author": "Bluesky",
+      "publishedAt": "2026-02-23T20:08:29.214Z",
+      "engagement": {
+        "upvotes": 7321,
+        "comments": 254
+      },
+      "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:z72i7hdynmk6r22z27h6tvur/bafkreie5elqwg5uzrbujqup3hhoukpzxlcls2ms7gv6yswo5dhk6avzqhm@jpeg",
+      "score": 95,
+      "mentionedFigures": [],
+      "rank": 3,
+      "tags": [
+        "ev"
+      ]
+    },
+    {
+      "id": "devto-3309631",
+      "title": "The Real Skill in Programming Is Debugging. Everything Else Is Copy-Paste",
+      "url": "https://dev.to/sylwia-lask/the-real-skill-in-programming-is-debugging-everything-else-is-copy-paste-i39",
+      "description": "I have a feeling this statement is even more true in the age of AI and coding agents. Sure, today we...",
+      "source": "devto",
+      "sourceLabel": "dev.to",
+      "sourceUrl": "https://dev.to/sylwia-lask/the-real-skill-in-programming-is-debugging-everything-else-is-copy-paste-i39",
+      "author": "Sylwia Laskowska",
+      "publishedAt": "2026-03-05T08:17:23Z",
+      "engagement": {
+        "upvotes": 72,
+        "comments": 41
+      },
+      "image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fp9dibumt3eb5j71q19l7.png",
+      "score": 94.5,
+      "mentionedFigures": [],
+      "rank": 4,
+      "tags": [
+        "ai",
+        "programming",
+        "ev"
+      ]
+    },
+    {
+      "id": "mastodon-116177753236186999",
+      "title": "We now have two t-shirt designs on our merch shop! Both are unisex, high quality 100% organic cotton, with screen prints",
+      "url": "https://mastodon.social/@Gargron/116177753236186999",
+      "description": "We now have two t-shirt designs on our merch shop! Both are unisex, high quality 100% organic cotton, with screen prints of @dopatwo&#39;s awesome illustrations. You voted for these slogans! &quot;I write alt text&quot; and &quot;My friends are not for sale&quot;. We offer free shipping over a certa",
+      "source": "mastodon",
+      "sourceLabel": "Mastodon @Gargron",
+      "sourceUrl": "https://mastodon.social/@Gargron/116177753236186999",
+      "author": "Eugen Rochko",
+      "publishedAt": "2026-03-05T17:30:30.452Z",
+      "engagement": {
+        "upvotes": 549,
+        "comments": 21
+      },
+      "image": "https://files.mastodon.social/media_attachments/files/116/177/718/511/439/398/small/a6debc6f83c92503.jpg",
+      "score": 83.6,
+      "mentionedFigures": [],
+      "rank": 5,
+      "tags": []
+    },
+    {
+      "id": "techcrunch-0-1772779847691",
+      "title": "Anthropic to challenge DOD’s supply-chain label in court",
+      "url": "https://techcrunch.com/2026/03/05/anthropic-to-challenge-dods-supply-chain-label-in-court/",
+      "description": "Anthropic CEO Dario Amodei said he plans to challenge the Department of Defense's designation of the AI firm as a supply-chain risk. He claims most Anthropic customers are unaffected by the label.",
+      "source": "techcrunch",
+      "sourceLabel": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/03/05/anthropic-to-challenge-dods-supply-chain-label-in-court/",
+      "author": "Rebecca Bellan",
+      "publishedAt": "2026-03-06T01:28:54.000Z",
+      "engagement": {
+        "upvotes": 0,
+        "comments": 0
+      },
+      "image": null,
+      "score": 82.5,
+      "mentionedFigures": [
+        "Dario Amodei"
+      ],
+      "rank": 6,
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "id": "mastodon-110119035606908102",
+      "title": "Today Mozilla is officially 25 years old  🎉 Along the way, we’ve built a global community around one shared belief: the",
+      "url": "https://mastodon.social/@mozilla/110119035606908102",
+      "description": "Today Mozilla is officially 25 years old  🎉 Along the way, we’ve built a global community around one shared belief: the internet should be for everyone — open, empowering, and safe. Our mission is more important today than ever before, and as we celebrate this milestone, we also look to the future ",
+      "source": "mastodon",
+      "sourceLabel": "Mastodon @mozilla",
+      "sourceUrl": "https://mastodon.social/@mozilla/110119035606908102",
+      "author": "Mozilla",
+      "publishedAt": "2023-03-31T17:18:56.192Z",
+      "engagement": {
+        "upvotes": 522,
+        "comments": 14
+      },
+      "image": null,
+      "score": 68.7,
+      "mentionedFigures": [],
+      "rank": 7,
+      "tags": [
+        "ev"
+      ]
+    },
+    {
+      "id": "techcrunch-19-1772779847691",
+      "title": "Anthropic CEO Dario Amodei could still be trying to make a deal with Pentagon",
+      "url": "https://techcrunch.com/2026/03/05/anthropic-ceo-dario-amodei-could-still-be-trying-to-make-a-deal-with-pentagon/",
+      "description": "Anthropic's $200 million contract with the Department of Defense broke down due to disagreements over giving the military unrestricted access to its AI.",
+      "source": "techcrunch",
+      "sourceLabel": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/03/05/anthropic-ceo-dario-amodei-could-still-be-trying-to-make-a-deal-with-pentagon/",
+      "author": "Amanda Silberling",
+      "publishedAt": "2026-03-05T16:45:51.000Z",
+      "engagement": {
+        "upvotes": 0,
+        "comments": 0
+      },
+      "image": null,
+      "score": 66,
+      "mentionedFigures": [
+        "Dario Amodei"
+      ],
+      "rank": 8,
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "id": "36kr-10-1772779850126",
+      "title": "沪深两市成交额突破2万亿元",
+      "url": "https://36kr.com/newsflashes/3711098360410241?f=rss",
+      "description": "36氪获悉，沪深两市成交额突破2万亿元，较上日此时缩量近2100亿元。",
+      "source": "36kr",
+      "sourceLabel": "36Kr 36氪",
+      "sourceUrl": "https://36kr.com/newsflashes/3711098360410241?f=rss",
+      "author": null,
+      "publishedAt": "2026-03-06T06:44:28.000Z",
+      "engagement": {
+        "upvotes": 0,
+        "comments": 0
+      },
+      "image": null,
+      "score": 66,
+      "mentionedFigures": [],
+      "rank": 9,
+      "tags": []
+    },
+    {
+      "id": "36kr-11-1772779850126",
+      "title": "娃哈哈旗下江西、吉林两地公司名称变更",
+      "url": "https://36kr.com/newsflashes/3711094958207112?f=rss",
+      "description": "36氪获悉，爱企查App显示，近日，吉安娃哈哈启力饮料有限公司发生工商变更，企业名称变更为吉安恒枫饮料有限公司。 吉安恒枫饮料有限公司成立于2011年4月，法定代表人为王斌，注册资本600万美元，经营范围包括饮料生产、食品生产、食品销售等。股东信息显示，该公司由荣辉投资有限公司、丽水宏博饮料有限公司共同持股。值得一提的是，近期，吉林娃哈哈启力饮料有限公司也完成更名，企业名称变更为吉林宏胜饮料有限公司。",
+      "source": "36kr",
+      "sourceLabel": "36Kr 36氪",
+      "sourceUrl": "https://36kr.com/newsflashes/3711094958207112?f=rss",
+      "author": null,
+      "publishedAt": "2026-03-06T06:41:00.000Z",
+      "engagement": {
+        "upvotes": 0,
+        "comments": 0
+      },
+      "image": null,
+      "score": 66,
+      "mentionedFigures": [],
+      "rank": 10,
+      "tags": [
+        "startup"
+      ]
+    },
+    {
+      "id": "36kr-12-1772779850126",
+      "title": "阶跃星辰Step 3.5 Flash连续两日冲上OpenClaw榜首",
+      "url": "https://36kr.com/newsflashes/3711088619680131?f=rss",
+      "description": "3月4日全面开源后，阶跃星辰新一代基座模型Step 3.5 Flash的全球热度进一步攀升，模型调用量在OpenClaw上持续两日攀升至全球第一。据了解，阶跃星辰算法团队不仅开源了Step 3.5 Flash模型，还开源了这款Agent基座模型的预训练权重（Base）、中训练权重（Midtrain）以及配套的Steptron训练框架。",
+      "source": "36kr",
+      "sourceLabel": "36Kr 36氪",
+      "sourceUrl": "https://36kr.com/newsflashes/3711088619680131?f=rss",
+      "author": null,
+      "publishedAt": "2026-03-06T06:34:33.000Z",
+      "engagement": {
+        "upvotes": 0,
+        "comments": 0
+      },
+      "image": null,
+      "score": 66,
+      "mentionedFigures": [],
+      "rank": 11,
+      "tags": [
+        "ai",
+        "programming"
+      ]
+    },
+    {
+      "id": "36kr-13-1772779850126",
+      "title": "集邦咨询：3月电视面板和显示器面板价格预计上涨",
+      "url": "https://36kr.com/newsflashes/3711078327939456?f=rss",
+      "description": "36氪获悉，TrendForce集邦咨询公布了3月面板价格趋势预测：2026年3月，电视面板和显示器面板价格预计上涨，笔电面板部分尺寸价格预期下跌。电视面板方面，进入3月份，TV需求仍然维持稳定，近期传出北美通路已同意第二季起针对中小尺寸电视终端售价调涨，也给予电视品牌较多采购面板的信心。面板厂在需求稳定之下，也希望电视面板价格可持续维持上涨态势。就目前观察3月份电视面板各尺寸涨幅，32英寸、43英寸、50英寸预估调涨1美元，55英寸预计调涨2美元，65英寸与75英寸则预计调涨3美元。",
+      "source": "36kr",
+      "sourceLabel": "36Kr 36氪",
+      "sourceUrl": "https://36kr.com/newsflashes/3711078327939456?f=rss",
+      "author": null,
+      "publishedAt": "2026-03-06T06:24:05.000Z",
+      "engagement": {
+        "upvotes": 0,
+        "comments": 0
+      },
+      "image": null,
+      "score": 66,
+      "mentionedFigures": [],
+      "rank": 12,
+      "tags": []
+    },
+    {
+      "id": "36kr-14-1772779850126",
+      "title": "谷歌商店迎来改革：下调抽成比例，开放第三方支付",
+      "url": "https://36kr.com/newsflashes/3711065639006600?f=rss",
+      "description": "美东时间周三，谷歌向美国旧金山联邦法院提交了一份拟议变更方案，将对其Google Play商店进行系统性改革：不仅要降低其安卓应用商店所收取的高额费用，而且还将全面开放第三方支付系统和第三方应用商店。这是Google Play应用商店自成立以来在商业模式上的一次彻底重构，标志着困扰谷歌数年的反垄断官司终于要落下帷幕，预计也将对移动应用和游戏行业带来深远影响。（财联社）",
+      "source": "36kr",
+      "sourceLabel": "36Kr 36氪",
+      "sourceUrl": "https://36kr.com/newsflashes/3711065639006600?f=rss",
+      "author": null,
+      "publishedAt": "2026-03-06T06:11:11.000Z",
+      "engagement": {
+        "upvotes": 0,
+        "comments": 0
+      },
+      "image": null,
+      "score": 66,
+      "mentionedFigures": [],
+      "rank": 13,
+      "tags": [
+        "google"
+      ]
+    },
+    {
+      "id": "36kr-15-1772779850126",
+      "title": "宇树科技多枚“秧BOT”商标注册成功",
+      "url": "https://36kr.com/newsflashes/3711064110854532?f=rss",
+      "description": "36氪获悉，爱企查App显示，近期，宇树科技股份有限公司成功注册多枚“秧BOT”商标，国际分类包括家具、办公用品、设计研究等。据悉，《秧BOT》是宇树科技在2025年央视春晚表演的舞蹈节目。",
+      "source": "36kr",
+      "sourceLabel": "36Kr 36氪",
+      "sourceUrl": "https://36kr.com/newsflashes/3711064110854532?f=rss",
+      "author": null,
+      "publishedAt": "2026-03-06T06:09:37.000Z",
+      "engagement": {
+        "upvotes": 0,
+        "comments": 0
+      },
+      "image": null,
+      "score": 66,
+      "mentionedFigures": [],
+      "rank": 14,
+      "tags": []
+    },
+    {
+      "id": "36kr-16-1772779850126",
+      "title": "先为达生物：全球首个偏向型GLP-1减重药物先维盈获批上市",
+      "url": "https://36kr.com/newsflashes/3711062143857033?f=rss",
+      "description": "36氪获悉，先为达生物宣布，全球首个cAMP偏向型GLP-1受体激动剂埃诺格鲁肽注射液（先维盈®）获得国家药品监督管理局（NMPA）批准上市，适用于在控制饮食和增加体力活动基础上对成人超重/肥胖患者的长期体重管理。",
+      "source": "36kr",
+      "sourceLabel": "36Kr 36氪",
+      "sourceUrl": "https://36kr.com/newsflashes/3711062143857033?f=rss",
+      "author": null,
+      "publishedAt": "2026-03-06T06:07:37.000Z",
+      "engagement": {
+        "upvotes": 0,
+        "comments": 0
+      },
+      "image": null,
+      "score": 66,
+      "mentionedFigures": [],
+      "rank": 15,
+      "tags": []
+    },
+    {
+      "id": "36kr-17-1772779850126",
+      "title": "深圳高新投小额贷款公司注册资本增至20亿元",
+      "url": "https://36kr.com/newsflashes/3711051804995973?f=rss",
+      "description": "36氪获悉，爱企查App显示，近日，深圳市高新投小额贷款有限公司发生工商变更，注册资本由11.9亿人民币增至20亿人民币，增幅约68%。该公司成立于2014年5月，法定代表人为曾珲，经营范围为专营小额贷款业务。股东信息显示，该公司由深圳市高新投集团有限公司全资持股。",
+      "source": "36kr",
+      "sourceLabel": "36Kr 36氪",
+      "sourceUrl": "https://36kr.com/newsflashes/3711051804995973?f=rss",
+      "author": null,
+      "publishedAt": "2026-03-06T05:57:06.000Z",
+      "engagement": {
+        "upvotes": 0,
+        "comments": 0
+      },
+      "image": null,
+      "score": 66,
+      "mentionedFigures": [],
+      "rank": 16,
+      "tags": []
+    },
+    {
+      "id": "36kr-18-1772779850126",
+      "title": "蜜雪冰城正试水现磨咖啡",
+      "url": "https://36kr.com/newsflashes/3711051491946625?f=rss",
+      "description": "自接近蜜雪冰城的人士处获悉，目前蜜雪冰城现磨咖啡业务处于前期规划试点阶段，除全自动咖啡机外，接下来将同步试点升级咖啡产品线，包括推出咖啡新品、升级咖啡豆、牛奶等核心原料等多个方面，整体仍将延续高质平价的产品策略。（界面）",
+      "source": "36kr",
+      "sourceLabel": "36Kr 36氪",
+      "sourceUrl": "https://36kr.com/newsflashes/3711051491946625?f=rss",
+      "author": null,
+      "publishedAt": "2026-03-06T05:56:47.000Z",
+      "engagement": {
+        "upvotes": 0,
+        "comments": 0
+      },
+      "image": null,
+      "score": 66,
+      "mentionedFigures": [],
+      "rank": 17,
+      "tags": []
+    },
+    {
+      "id": "36kr-19-1772779850126",
+      "title": "中国神华煤制油化工公司注册资本增至约361.6亿元",
+      "url": "https://36kr.com/newsflashes/3711050037768320?f=rss",
+      "description": "36氪获悉，爱企查App显示，近日，中国神华煤制油化工有限公司发生工商变更，注册资本由约312.4亿元人民币增至约361.6亿元人民币，增幅约16%。中国神华煤制油化工有限公司成立于2003年6月，法定代表人为姜兴剑，经营范围包括煤炭销售、化工产品销售、成品油批发等。股东信息显示，该公司由国家能源投资集团有限责任公司全资持股。",
+      "source": "36kr",
+      "sourceLabel": "36Kr 36氪",
+      "sourceUrl": "https://36kr.com/newsflashes/3711050037768320?f=rss",
+      "author": null,
+      "publishedAt": "2026-03-06T05:55:18.000Z",
+      "engagement": {
+        "upvotes": 0,
+        "comments": 0
+      },
+      "image": null,
+      "score": 66,
+      "mentionedFigures": [],
+      "rank": 18,
+      "tags": [
+        "startup"
+      ]
+    },
+    {
+      "id": "theverge-0-1772779847700",
+      "title": "Amazon.com says things are fixed after some issues with logging in and checking out",
+      "url": "https://www.theverge.com/tech/890215/amazon-is-down-login-prices",
+      "description": "If you were having issues shopping on Amazon or loading your playlists on Amazon Music on Thursday, you weren't alone. For over three hours today, Downdetector showed a sizable spike in people reporting issues with checkout, search, and logging in. The problem seemed to be affecting both the site an",
+      "source": "theverge",
+      "sourceLabel": "The Verge",
+      "sourceUrl": "https://www.theverge.com/tech/890215/amazon-is-down-login-prices",
+      "author": "Terrence O’Brien",
+      "publishedAt": "2026-03-06T01:24:36.000Z",
+      "engagement": {
+        "upvotes": 0,
+        "comments": 0
+      },
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/acastro_STK103__03.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "score": 63,
+      "mentionedFigures": [],
+      "rank": 19,
+      "tags": []
+    },
+    {
+      "id": "theverge-1-1772779847700",
+      "title": "The best iPad deals you can get right now",
+      "url": "https://www.theverge.com/21280354/best-ipad-deals-apple",
+      "description": "The latest iPad Mini is currently down to one of the best prices we’ve seen. | Photo: David Pierce / The Verge\t\n\nWhile the best iPad deals usually land during major sale events like Black Friday, many great iPad deals are available outside of those times. The day-to-day discounts come and go like ch",
+      "source": "theverge",
+      "sourceLabel": "The Verge",
+      "sourceUrl": "https://www.theverge.com/21280354/best-ipad-deals-apple",
+      "author": "Sheena Vasani",
+      "publishedAt": "2026-03-06T01:08:00.000Z",
+      "engagement": {
+        "upvotes": 0,
+        "comments": 0
+      },
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25691621/iPad_Mini_1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "score": 63,
+      "mentionedFigures": [],
+      "rank": 20,
+      "tags": [
+        "ai",
+        "apple",
+        "ev"
+      ]
+    },
+    {
+      "id": "theverge-2-1772779847700",
+      "title": "What if your real computer was a super-sized Lego computer brick?",
+      "url": "https://www.theverge.com/gadgets/890047/what-if-your-real-computer-was-a-super-sized-lego-computer-brick",
+      "description": "The M2x2 in action. | Image: Paul Staal\t\n\nIn 1979 - nearly 50 years ago - Lego jazzed up its very first spaceships with an iconic sloped computer brick that was just painted plastic. In 2022, we introduced you to the engineer who fit an actual tiny computer inside.\nNow, industrial designer Paul Staa",
+      "source": "theverge",
+      "sourceLabel": "The Verge",
+      "sourceUrl": "https://www.theverge.com/gadgets/890047/what-if-your-real-computer-was-a-super-sized-lego-computer-brick",
+      "author": "Sean Hollister",
+      "publishedAt": "2026-03-06T00:59:11.000Z",
+      "engagement": {
+        "upvotes": 0,
+        "comments": 0
+      },
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/20260302_110519.CUnGWd3N_Z1XjOUL.webp?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "score": 63,
+      "mentionedFigures": [],
+      "rank": 21,
+      "tags": [
+        "ai",
+        "space"
+      ]
+    },
+    {
+      "id": "36kr-9-1772779850126",
+      "title": "8点1氪丨阿里高管紧急开会答疑，回应千问模型负责人林俊旸卸任；大钲资本收购蓝瓶咖啡；马云和阿里蚂蚁核心管理层在云谷学校交流AI",
+      "url": "https://36kr.com/p/3709304754614662?f=rss",
+      "description": "今日热点导览\n建议提高个税起征点至8000或1万，并同步优化税率结构\n苹果公司宣布推出MacBook Neo\nTOP 3 大新闻\n大钲资本收购蓝瓶咖啡\n36氪独家获悉，大钲资本已和雀巢达成协议，从雀巢手中收购了蓝瓶咖啡（Blue Bottle Coffee）的全球门店，价格低于4亿美金。交易完成后，雀巢仍然会保留蓝瓶的快消业务，如咖啡豆、速溶咖啡、即饮饮料。值得注意的是，蓝瓶咖啡目前仍在亏损中。据了解，截止2025年6月30日，蓝瓶咖啡过去12个月的营收约为2.5亿美元，其中美国贡献收入约1.5亿美元，亚太地区贡献收入约1亿美元。上述信源人士表示，蓝瓶咖啡预计2026年实现盈利。\n千问模型负责",
+      "source": "36kr",
+      "sourceLabel": "36Kr 36氪",
+      "sourceUrl": "https://36kr.com/p/3709304754614662?f=rss",
+      "author": null,
+      "publishedAt": "2026-03-05T00:24:53.000Z",
+      "engagement": {
+        "upvotes": 0,
+        "comments": 0
+      },
+      "image": null,
+      "score": 60.5,
+      "mentionedFigures": [
+        "马云"
+      ],
+      "rank": 22,
+      "tags": [
+        "ai",
+        "apple"
+      ]
+    },
+    {
+      "id": "arstechnica-10-1772779847728",
+      "title": "Musk testifies tweet that led to $44 billion lawsuit \"may not have been my wisest\"",
+      "url": "https://arstechnica.com/tech-policy/2026/03/musk-testifies-tweet-that-led-to-44-billion-lawsuit-may-not-have-been-my-wisest/",
+      "description": "Elon Musk takes the stand in a San Francisco courtroom.",
+      "source": "arstechnica",
+      "sourceLabel": "Ars Technica",
+      "sourceUrl": "https://arstechnica.com/tech-policy/2026/03/musk-testifies-tweet-that-led-to-44-billion-lawsuit-may-not-have-been-my-wisest/",
+      "author": "\n                    Stephen Morris, Financial Times\n                ",
+      "publishedAt": "2026-03-05T14:40:48.000Z",
+      "engagement": {
+        "upvotes": 0,
+        "comments": 0
+      },
+      "image": null,
+      "score": 60,
+      "mentionedFigures": [
+        "Elon Musk"
+      ],
+      "rank": 23,
+      "tags": []
+    },
+    {
+      "id": "ithome-0-1772779854197",
+      "title": "罗永浩争端过后：西贝被曝大面积缓发薪资，贾国龙曾承诺“工资一分不会差”",
+      "url": "https://www.ithome.com/0/926/538.htm",
+      "description": "IT之家 3 月 6 日消息，自 2025 年 9 月与罗永浩因“预制菜”问题爆发激烈争论以来，西贝的品牌形象与客流量受到显著冲击，据称此后门店便陷入全面亏损状态。\n西贝创始人贾国龙预计，从 2025 年 9 月至 2026 年 3 月，西贝累计亏损将超 6 亿元。尽管公司近期完成了 A 轮融资，但资本的注入似乎并未能立即缓解一线的人力资源矛盾。\n今年 1 月，贾国龙曾宣布关闭 102 家门店并承诺“离职员工工资一分不会差”。但根据凤凰网科技披露，西贝今日内部下发了关于工资缓发的正式通知，明确了涉及人员的范围。IT之家注意到，评论区还有网友开玩笑称其应该找罗永浩报销。\n\n此次薪资调整波及面甚广",
+      "source": "ithome",
+      "sourceLabel": "IT Home IT之家",
+      "sourceUrl": "https://www.ithome.com/0/926/538.htm",
+      "author": null,
+      "publishedAt": "2026-03-06T06:48:37.000Z",
+      "engagement": {
+        "upvotes": 0,
+        "comments": 0
+      },
+      "image": "https://img.ithome.com/newsuploadfiles/2026/3/a3da3591-5517-467c-ac8c-ea91bd8343e2.jpg?x-bce-process=image/format,f_auto",
+      "score": 60,
+      "mentionedFigures": [],
+      "rank": 24,
+      "tags": [
+        "startup"
+      ]
+    },
+    {
+      "id": "ithome-1-1772779854197",
+      "title": "大众纯电 ID. Polo 路测图曝光：黑红双拼轮毂亮眼",
+      "url": "https://www.ithome.com/0/926/537.htm",
+      "description": "IT之家 3 月 6 日消息，汽车媒体 CarBuzz 昨日（3 月 5 日）发布博文，分享了一组抓拍的路测图，展示了大众全新纯电动两厢车 ID. Polo，这也是该品牌首款沿用经典燃油车命名的电动车型。\n外观方面，相比较现有的 ID.3 系列，从本次曝光的路测图来看，ID. Polo 的车身造型和内部布局进一步回归传统。\n\n照片显示，两辆测试车正在充电，其中一辆测试车搭载了此前在概念车上展示过的黑银双色五辐轮毂，而另一辆则配备了全新的黑红双拼色轮毂。这款新轮毂设计十分吸睛，五根辐条的末端均带有红色小三角，并且边缘由一圈红色细线相连。\n\n这两款轮毂的尺寸均为 19 英寸，并统一匹配了 225/",
+      "source": "ithome",
+      "sourceLabel": "IT Home IT之家",
+      "sourceUrl": "https://www.ithome.com/0/926/537.htm",
+      "author": null,
+      "publishedAt": "2026-03-06T06:48:30.000Z",
+      "engagement": {
+        "upvotes": 0,
+        "comments": 0
+      },
+      "image": "https://img.ithome.com/newsuploadfiles/2026/3/d40b8b51-94aa-485b-a4ec-d825599dba7c.jpg?x-bce-process=image/format,f_auto",
+      "score": 60,
+      "mentionedFigures": [],
+      "rank": 25,
+      "tags": [
+        "ev"
+      ]
+    },
+    {
+      "id": "ithome-2-1772779854197",
+      "title": "美科 Air 系列半画幅镜头亮相：可选 25mm/35mm/56mm 焦距，f/1.7 光圈、有望 5 月上市",
+      "url": "https://www.ithome.com/0/926/530.htm",
+      "description": "IT之家 3 月 6 日消息，据摄影媒体 PhotoTrend 报道，美科最近在 CP+ 2026 展会上展出了 Air 系列镜头，适配索尼 E、富士 X 以及尼康 Z 卡口的 APS-C 画幅无反相机。\n\n▲ 图源：PhotoTrend，下同\n据介绍，Air 系列镜头一共有 25mm、35mm 和 56mm 三个焦段，全部都是 f/1.7 光圈，外观设计以及命名有点像唯卓仕的产品。\n\n同时，这三支镜头的核心卖点是轻量化设计，重量约 170 克，内置 STM 步进马达，能够提供较为精准、快速的自动对焦体验，其中 35mm/56mm 版本预计售价 160 美元（IT之家注：现汇率约合 1106 ",
+      "source": "ithome",
+      "sourceLabel": "IT Home IT之家",
+      "sourceUrl": "https://www.ithome.com/0/926/530.htm",
+      "author": null,
+      "publishedAt": "2026-03-06T06:45:04.000Z",
+      "engagement": {
+        "upvotes": 0,
+        "comments": 0
+      },
+      "image": "https://img.ithome.com/newsuploadfiles/2026/3/0a600cf6-d857-40ca-9758-571a0a7917e8.png?x-bce-process=image/format,f_auto",
+      "score": 60,
+      "mentionedFigures": [],
+      "rank": 26,
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "id": "ithome-3-1772779854198",
+      "title": "小米官方“龙虾”Xiaomi miclaw 封测答疑：仅是面向科技发烧友、极客用户的小规模测试性探索产品",
+      "url": "https://www.ithome.com/0/926/529.htm",
+      "description": "IT之家 3 月 6 日消息，小米今日官宣 Xiaomi miclaw，这是小米探索 Agent 的一小步，它是基于小米 MiMo 大模型构建的 AI 交互测试产品，今天开始小范围封闭测试。\n\n▲ 图源：小米技术微博 | 场景示例\nIT之家注意到，小米技术官方今日针对 Xiaomi miclaw 此次封测进行了答疑，针对什么是 Xiaomi miclaw、是否可以回退 / 卸载、使用的模型、是否会使用个人数据训练模型等问题进行了解答。\n什么是 Xiaomi miclaw？\n\nXiaomi miclaw 是基于小米 MiMo 大模型构建的 AI 交互测试产品。该产品聚焦验证大模型在小米“人车家全",
+      "source": "ithome",
+      "sourceLabel": "IT Home IT之家",
+      "sourceUrl": "https://www.ithome.com/0/926/529.htm",
+      "author": null,
+      "publishedAt": "2026-03-06T06:43:09.000Z",
+      "engagement": {
+        "upvotes": 0,
+        "comments": 0
+      },
+      "image": "https://img.ithome.com/newsuploadfiles/2026/3/3fbca243-cce7-45d8-ae41-440deccb4d18.jpg?x-bce-process=image/format,f_auto",
+      "score": 60,
+      "mentionedFigures": [],
+      "rank": 27,
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "id": "ithome-4-1772779854198",
+      "title": "玛莎拉蒂 GT 跑车 GranTurismo 和 GranCabrio 中期改款车型路测图曝光",
+      "url": "https://www.ithome.com/0/926/528.htm",
+      "description": "IT之家 3 月 6 日消息，汽车媒体 CarScoops 今天（3 月 6 日）发布博文，分享了一组抓拍的路测图，展示了正在测试的 GT 跑车 GranTurismo 和 GranCabrio 中期改款车型。\n\n消息源指出玛莎拉蒂在 Stellantis 集团内部目前处境艰难，该品牌在 2025 年仅售出 7900 辆汽车，整体销量甚至低于法拉利。玛莎拉蒂为挽救极度低迷的市场表现，正着手对其核心 GT 跑车（GranTurismo 和 GranCabrio）进行中期改款。\n根据曝光的路测图，2027 款 GranTurismo 和 GranCabrio（涵盖 Trofeo 与 Folgore",
+      "source": "ithome",
+      "sourceLabel": "IT Home IT之家",
+      "sourceUrl": "https://www.ithome.com/0/926/528.htm",
+      "author": null,
+      "publishedAt": "2026-03-06T06:40:47.000Z",
+      "engagement": {
+        "upvotes": 0,
+        "comments": 0
+      },
+      "image": "https://img.ithome.com/newsuploadfiles/2026/3/656446a9-10a0-4447-8599-9d6b1ef21544.jpg?x-bce-process=image/format,f_auto",
+      "score": 60,
+      "mentionedFigures": [],
+      "rank": 28,
+      "tags": []
+    },
+    {
+      "id": "ithome-5-1772779854198",
+      "title": "Transformer 论文作者“菠萝哥”重造“龙虾”：Rust 搓出钢铁版，告别 OpenClaw 裸奔漏洞",
+      "url": "https://www.ithome.com/0/926/527.htm",
+      "description": "有多少龙虾在互联网上裸奔？AI 智能体带着你的密码和 API 密钥暴露给全网。\nTransformer 作者 Illia Polosukhin 看不下去了。出手从零重构了安全版龙虾：IronClaw。\n\n\n功能\n\n OpenClaw\n\nIronClaw\n\n\n核心语言\n\nPython\n\nRust\n\n\n凭证处理\n\n直接暴露给 AI 智能体\n\n加密存储，LLM 无法访问\n\n\n工具执行\n\n在主环境中运行\n\nWASM 沙箱隔离运行\n\n\n部署环境\n\n标准服务器\n\n可信执行环境（TEE）\n\n\n数据隐私\n\n存在泄露风险\n\n本地加密，无遥测数据\n\n\nIronClaw 目前已在 GitHub 上开源，提供 mac",
+      "source": "ithome",
+      "sourceLabel": "IT Home IT之家",
+      "sourceUrl": "https://www.ithome.com/0/926/527.htm",
+      "author": null,
+      "publishedAt": "2026-03-06T06:39:07.000Z",
+      "engagement": {
+        "upvotes": 0,
+        "comments": 0
+      },
+      "image": "https://img.ithome.com/newsuploadfiles/2026/3/f390ef53-8fd0-4ec2-8915-3b0f76e98107.png?x-bce-process=image/format,f_auto",
+      "score": 60,
+      "mentionedFigures": [],
+      "rank": 29,
+      "tags": [
+        "ai",
+        "security",
+        "programming"
+      ]
+    },
+    {
+      "id": "ithome-6-1772779854198",
+      "title": "南亚科技：预计 DRAM 内存供需失衡最快到 2028H2 才可能逐步改善",
+      "url": "https://www.ithome.com/0/926/526.htm",
+      "description": "IT之家 3 月 6 日消息，中国台湾地区 DRAM 内存制造商南亚科技本月 4 日举行了年度新春媒体春酒活动，席间该企业总经理李培瑛表示，2026 年乃至 2027 年上半年产业整体的新增产能较为有限，预计此轮供需失衡最快要到 2028H2 才可能逐步改善。\n李培瑛表示，即使目前 DRAM 报价的涨幅看似放缓，但实际价格也轻易不会回落，整体供需缺口仍然很大，价格走势将呈现“T 型”，在高位获得强力支撑，甚至由于基本面的存在涨势还会延续至年末。\n与此同时，AI 服务器的 DRAM 用量占比正在逐年提升，从 2024 年的 4% 到 2025 年的 7%，未来有望突破 10%。而由于工艺负载，H",
+      "source": "ithome",
+      "sourceLabel": "IT Home IT之家",
+      "sourceUrl": "https://www.ithome.com/0/926/526.htm",
+      "author": null,
+      "publishedAt": "2026-03-06T06:31:28.000Z",
+      "engagement": {
+        "upvotes": 0,
+        "comments": 0
+      },
+      "image": "https://img.ithome.com/newsuploadfiles/2026/3/91d4abd1-a027-4505-a4ab-c1bc71646da8.jpg?x-bce-process=image/format,f_auto",
+      "score": 60,
+      "mentionedFigures": [],
+      "rank": 30,
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "id": "ithome-7-1772779854198",
+      "title": "基于 HarmonyOS SDK AR Engine 能力，高德地图首发华为鸿蒙 AR 实景步导功能",
+      "url": "https://www.ithome.com/0/926/525.htm",
+      "description": "IT之家 3 月 6 日消息，据华为手机官方今日介绍，基于 HarmonyOS SDK 的 AR Engine 能力，高德地图正式在鸿蒙版 App 首发了 AR 实景步行导航功能。\n\n高德地图华为鸿蒙 AR 实景步导功能亮点如下：\n\n\n持久导航省电控温，缓解续航焦虑；\n\n导航箭头稳贴路面，直观指引，一看即走；\n\n全场景无缝稳定导航，无惧夜间复杂路况。\n\n\nIT之家查询华为官网获悉，华为鸿蒙 HarmonyOS SDK 的 AR Engine 可提供运动跟踪、环境跟踪和命中检测等增强现实能力，适用于 AR 导航、AR 摆放、AR 测量等。具体的功能如下：\n\n\n运动跟踪：持续跟踪设备相对于周围环境",
+      "source": "ithome",
+      "sourceLabel": "IT Home IT之家",
+      "sourceUrl": "https://www.ithome.com/0/926/525.htm",
+      "author": null,
+      "publishedAt": "2026-03-06T06:31:02.000Z",
+      "engagement": {
+        "upvotes": 0,
+        "comments": 0
+      },
+      "image": "https://img.ithome.com/newsuploadfiles/2026/3/99b4586c-6311-433c-b385-891c818178df.jpg?x-bce-process=image/format,f_auto",
+      "score": 60,
+      "mentionedFigures": [],
+      "rank": 31,
+      "tags": []
+    },
+    {
+      "id": "ithome-8-1772779854198",
+      "title": "全国人大代表戴茵建议不对 70 岁以上老人开“免密支付”“自动续费”“先用后付”等功能",
+      "url": "https://www.ithome.com/0/926/523.htm",
+      "description": "IT之家 3 月 6 日消息，据湖南日报今日报道，全国人大代表、民进湖南省直出版支部主委戴茵在接受记者采访时呼吁加强电信运营商扣费监管。\n“第三方通过弹窗广告以‘1 元体验’‘免费试用’等为诱饵，老年人误点后便被开通运营商增值业务或会员卡，后续自动扣款往往要等到多笔费用产生才被察觉。”为此，戴茵呼吁工信部、市场监管总局等部门加强监管，督促运营商强化内部套餐管理，并规范与第三方的合作销售行为。\n戴茵建议，进一步加强“免密支付”“自动续费”业务的安全管理。规定支付服务主体应严格审核用户身份信息，通过多重验证或手动输入完成老年用户开通意愿确认以及协议签订。对于 55 岁以上用户，“自动续费”到期前的",
+      "source": "ithome",
+      "sourceLabel": "IT Home IT之家",
+      "sourceUrl": "https://www.ithome.com/0/926/523.htm",
+      "author": null,
+      "publishedAt": "2026-03-06T06:29:32.000Z",
+      "engagement": {
+        "upvotes": 0,
+        "comments": 0
+      },
+      "image": "https://img.ithome.com/newsuploadfiles/2026/3/45957dd0-412c-4f80-92df-315bdce09655.jpg?x-bce-process=image/format,f_auto",
+      "score": 60,
+      "mentionedFigures": [],
+      "rank": 32,
+      "tags": [
+        "security"
+      ]
+    },
+    {
+      "id": "ithome-9-1772779854198",
+      "title": "梅赛德斯-AMG 改款 GT 双门轿跑路测图曝光：预估 2.0T 发动机爆 416 匹马力",
+      "url": "https://www.ithome.com/0/926/522.htm",
+      "description": "IT之家 3 月 6 日消息，汽车媒体 CarScoops 今天（3 月 6 日）发布博文，分享了一组抓拍的路测图，展示了梅赛德斯-AMG 改款 GT 双门轿跑，该车预计于 2027 年亮相。\n外观方面，该车换装了全新的前保险杠和临时大灯，量产版预估融入奔驰标志性的星形元素。原型车微调了进气格栅，呈现出更加规整的椭圆形，设计师同时优化了下方的进气口，让其整体风格更贴近现款 SL 车型。\n\n内饰方面，本次并未曝光内饰相关图片，不过该媒体预估将搭载首发于全新 CLA 的梅赛德斯-奔驰操作系统（MB.OS）。该系统深度融合了人工智能技术，集成了谷歌 Gemini 大模型以及 MBUX 虚拟助手。\n\n",
+      "source": "ithome",
+      "sourceLabel": "IT Home IT之家",
+      "sourceUrl": "https://www.ithome.com/0/926/522.htm",
+      "author": null,
+      "publishedAt": "2026-03-06T06:29:21.000Z",
+      "engagement": {
+        "upvotes": 0,
+        "comments": 0
+      },
+      "image": "https://img.ithome.com/newsuploadfiles/2026/3/629c1b95-b02d-4fbd-a229-ed910ccfc935.png?x-bce-process=image/format,f_auto",
+      "score": 60,
+      "mentionedFigures": [],
+      "rank": 33,
+      "tags": [
+        "ai",
+        "google"
+      ]
+    },
+    {
+      "id": "ithome-10-1772779854198",
+      "title": "消息称佳能今年将推出 f/1.4 超大光圈变焦镜头",
+      "url": "https://www.ithome.com/0/926/520.htm",
+      "description": "IT之家 3 月 6 日消息，据摄影媒体 Canon Rumors 前天报道，佳能用户近年来一直在期待更多 RF 卡口 f/2 恒定光圈变焦镜头登场，不过到目前为止，这一愿望仍未实现。\n\n与此同时，也有很多用户期待佳能可以为 RF 28-70mm f/2L USM 镜头推出二代版本，或者再发一款更小、更轻的 RF 24-70 f/2 L USM。\n最近曝光的一项专利显示，佳能正在研究 f/1.4 超大光圈变焦镜头的光学设计，适用于全画幅、Super 35 以及 APS-C 等大小的传感器。\nIT之家在此援引 Canon Rumors，目前已经有相当可靠的迹象表明佳能正在研发一支 f/1.4 的",
+      "source": "ithome",
+      "sourceLabel": "IT Home IT之家",
+      "sourceUrl": "https://www.ithome.com/0/926/520.htm",
+      "author": null,
+      "publishedAt": "2026-03-06T06:23:17.000Z",
+      "engagement": {
+        "upvotes": 0,
+        "comments": 0
+      },
+      "image": "https://img.ithome.com/newsuploadfiles/2026/3/68fae79a-e802-41a4-a333-e7d8200b5528.jpg?x-bce-process=image/format,f_auto",
+      "score": 60,
+      "mentionedFigures": [],
+      "rank": 34,
+      "tags": []
+    },
+    {
+      "id": "ithome-11-1772779854198",
+      "title": "小米 1499 元米家净水器 2 开售：1200G 大通量，7 年长效 RO 滤芯",
+      "url": "https://www.ithome.com/0/926/519.htm",
+      "description": "IT之家 3 月 6 日消息，小米官方今日宣布，米家净水器 2（1200G）全渠道开售。该产品主打 7 年长效 RO、母婴级健康水，厂商建议零售价为 1999 元，首发价 1499 元。\n京东小米米家净水器 2 1200G1499 元直达链接\n2026 年数码家电政府补贴持续进行中，IT 之家为大家汇总国补领券地址，买数码家电之前记得领取：点此查看。\n数码补贴：点此领券\n\n手机 / 平板 / 3C 数码支持 8.5 折政府补贴，不超过 6000 元的产品至高立减 500 元。\n\n家电补贴：点此领券\n\n6 类家电支持 8.5 折政府补贴，单品至高补贴 1500 元。\n\n\n该净水器采用 12 页高",
+      "source": "ithome",
+      "sourceLabel": "IT Home IT之家",
+      "sourceUrl": "https://www.ithome.com/0/926/519.htm",
+      "author": null,
+      "publishedAt": "2026-03-06T06:17:50.000Z",
+      "engagement": {
+        "upvotes": 0,
+        "comments": 0
+      },
+      "image": "https://img14.360buyimg.com/pop/jfs/t1/399614/29/2532/162218/699fa5caF481d6181/008332032059fc56.jpg",
+      "score": 60,
+      "mentionedFigures": [],
+      "rank": 35,
+      "tags": []
+    },
+    {
+      "id": "ithome-12-1772779854198",
+      "title": "飞行时间 13 年可缩至 6.5 年：MIT 提案让 SpaceX 星舰执行美国探索天王星任务",
+      "url": "https://www.ithome.com/0/926/518.htm",
+      "description": "IT之家 3 月 6 日消息，科技媒体 scitechdaily 今天（3 月 6 日）发布博文，报道称麻省理工学院（MIT）研究人员提出，SpaceX 的“星舰”（Starship）有望加速美国宇航局（NASA）筹备中的天王星轨道器与探测器（UOP）任务。\n天王星在 2022 年被美国国家科学院的《十年规划》列为旗舰任务首选目标，但这颗冰巨星至今鲜有探测器造访，唯一的访客是匆匆飞掠的“旅行者 2 号”。\nIT之家援引博文介绍，天王星与太阳的距离是日地距离的 19 倍，如果采用传统的“猎鹰重型”火箭并借助其他行星的引力弹弓效应，探测器需要长达 13 年才能抵达。如此漫长的飞行不仅会大幅推高运营",
+      "source": "ithome",
+      "sourceLabel": "IT Home IT之家",
+      "sourceUrl": "https://www.ithome.com/0/926/518.htm",
+      "author": null,
+      "publishedAt": "2026-03-06T06:15:09.000Z",
+      "engagement": {
+        "upvotes": 0,
+        "comments": 0
+      },
+      "image": "https://img.ithome.com/newsuploadfiles/2026/3/8b3099dd-29ee-4721-a29f-60dbe725d94b.png?x-bce-process=image/format,f_auto",
+      "score": 60,
+      "mentionedFigures": [],
+      "rank": 36,
+      "tags": [
+        "ai",
+        "space"
+      ]
+    },
+    {
+      "id": "ithome-13-1772779854198",
+      "title": "Marvell 美满 2026 财年第 4 财季与全财年营收双双创下历史纪录",
+      "url": "https://www.ithome.com/0/926/516.htm",
+      "description": "IT之家 3 月 6 日消息，芯片制造商 Marvell 美满电子当地时间本月 5 日公布了其 2026 财年第 4 财季和全财年（截至 2026 日历年 1 月 31 日）的财务业绩。\n该企业在 FY2026Q4 实现 22.19 亿美元营业收入（IT之家注：现汇率约合 153.33 亿元人民币），创下历史新高，同比增长 22%，相较此前指引中值高出 1900 万美元。全财年营收则以 81.95 亿美元刷新纪录（现汇率约合 566.26 亿元人民币），增幅达到 42%。\n\nMarvell 董事长兼首席执行官 Matt Murphy 表示：\n\n我们预计 2027 财年各季度的收入同比增长将持续",
+      "source": "ithome",
+      "sourceLabel": "IT Home IT之家",
+      "sourceUrl": "https://www.ithome.com/0/926/516.htm",
+      "author": null,
+      "publishedAt": "2026-03-06T06:12:25.000Z",
+      "engagement": {
+        "upvotes": 0,
+        "comments": 0
+      },
+      "image": "https://img.ithome.com/newsuploadfiles/2026/3/8acaf753-1eba-43e8-9135-8a28a776bf88.jpg?x-bce-process=image/format,f_auto",
+      "score": 60,
+      "mentionedFigures": [],
+      "rank": 37,
+      "tags": []
+    },
+    {
+      "id": "ithome-14-1772779854198",
+      "title": "小米米家空调 巨省电 Pro 挂机开售：首发国补价 1954 元起",
+      "url": "https://www.ithome.com/0/926/515.htm",
+      "description": "IT之家 3 月 6 日消息，小米官方今日宣布，米家空调巨省电 Pro 挂机现已开售，首发价 2299~2499 元，叠加国补后 1954~2124 元。\n京东小米米家空调 巨省电 Pro2299 元起，国补后 1954 元起直达链接\n2026 年数码家电政府补贴持续进行中，IT 之家为大家汇总国补领券地址，买数码家电之前记得领取：点此查看。\n数码补贴：点此领券\n\n手机 / 平板 / 3C 数码支持 8.5 折政府补贴，不超过 6000 元的产品至高立减 500 元。\n\n家电补贴：点此领券\n\n6 类家电支持 8.5 折政府补贴，单品至高补贴 1500 元。\n\n\n2026 款米家空调巨省电 Pr",
+      "source": "ithome",
+      "sourceLabel": "IT Home IT之家",
+      "sourceUrl": "https://www.ithome.com/0/926/515.htm",
+      "author": null,
+      "publishedAt": "2026-03-06T06:06:19.000Z",
+      "engagement": {
+        "upvotes": 0,
+        "comments": 0
+      },
+      "image": "https://img14.360buyimg.com/pop/jfs/t1/398117/36/6365/37968/69a1750fF09b5512b/0083320320a3ade2.jpg",
+      "score": 60,
+      "mentionedFigures": [],
+      "rank": 38,
+      "tags": []
+    },
+    {
+      "id": "ithome-15-1772779854198",
+      "title": "亿万富翁科斯拉预言：AI 将胜任 80% 岗位，当今 5 岁儿童成年后无需为生存而工作",
+      "url": "https://www.ithome.com/0/926/514.htm",
+      "description": "IT之家 3 月 6 日消息，在接受《财富》杂志采访时，OpenAI 早期机构投资人、亿万富翁维诺德 · 科斯拉（Vinod Khosla）抛出惊人预测：当今 5 岁儿童成年后将无需再为生存而工作。\nIT之家援引博文介绍，科斯拉指出，人工智能未来将具备胜任 80% 工作岗位的能力，涵盖从内科医生、放射科医生到会计师和销售员等各个领域，这种大规模的 AI 替代将直接把劳动力成本降至零。因此，年轻一代未来根本不需要为了找工作而去考取大学学位，甚至完全不需要找工作。\n劳动力成本的骤降将彻底重塑经济形态。科斯拉预测，未来十年内将有 10 亿台双足机器人投入使用，廉价的自动化劳动力会大幅拉低生产成本，推",
+      "source": "ithome",
+      "sourceLabel": "IT Home IT之家",
+      "sourceUrl": "https://www.ithome.com/0/926/514.htm",
+      "author": null,
+      "publishedAt": "2026-03-06T06:02:45.000Z",
+      "engagement": {
+        "upvotes": 0,
+        "comments": 0
+      },
+      "image": "https://img.ithome.com/newsuploadfiles/2026/3/143afe48-517c-4131-a196-bd166d46a6ec.jpg?x-bce-process=image/format,f_auto",
+      "score": 60,
+      "mentionedFigures": [],
+      "rank": 39,
+      "tags": [
+        "ai",
+        "startup"
+      ]
+    },
+    {
+      "id": "ithome-16-1772779854198",
+      "title": "消息称 DENSO 电装拟收购 ROHM 罗姆，加速日本半导体产业整合",
+      "url": "https://www.ithome.com/0/926/512.htm",
+      "description": "IT之家 3 月 6 日消息，《Nikkei Asia》日本当地时间今日报道称，Tier 1 汽车零部件供应商 DENSO 电装此前已向半导体企业 ROHM 罗姆提出收购要约。罗姆已就此成立特别委员会讨论是否接受交易；如果罗姆拒绝，电装可能会进行敌意收购。\n两家企业去年正式在半导体领域建立了战略合作伙伴关系，也强化了资本关系。电装目前对罗姆的持股比例在 5% 左右，而罗姆的市值约为 1.1 万亿日元。考虑到溢价因素，电装买下罗姆剩余股份大致需要 1.3 万亿日元（IT之家注：现汇率约合 570.25 亿元人民币）。\n报道提到，电装与富士电机、罗姆与东芝之间各自存在密切合作，拟议的收购交易是否能",
+      "source": "ithome",
+      "sourceLabel": "IT Home IT之家",
+      "sourceUrl": "https://www.ithome.com/0/926/512.htm",
+      "author": null,
+      "publishedAt": "2026-03-06T05:58:56.000Z",
+      "engagement": {
+        "upvotes": 0,
+        "comments": 0
+      },
+      "image": null,
+      "score": 60,
+      "mentionedFigures": [],
+      "rank": 40,
+      "tags": []
+    },
+    {
+      "id": "ithome-17-1772779854198",
+      "title": "苹果特努斯谈为何现在才推出 MacBook Neo 笔记本：只做让我们引以为傲的产品",
+      "url": "https://www.ithome.com/0/926/503.htm",
+      "description": "IT之家 3 月 6 日消息，ABC 新闻今天（3 月 6 日）发布博文，采访了苹果硬件工程高级副总裁约翰 · 特努斯（John Ternus），围绕着 MacBook Neo、AI 功能以及苹果公司未来展开讨论。\nIT之家附上相关采访视频如下：\n\n对苹果 MacBook Neo 的评价\n对于苹果 MacBook Neo，特努斯给出的关键词是“扎实、可靠、耐用”。特努斯透露，这款电脑能够大幅降低成本的核心原因在于，它搭载了此前专用于 iPhone 的苹果自研芯片。\n此外，设计团队为该产品量身定制了胭脂粉、靛蓝、银色以及全新的柑橘色四款亮眼配色，此举也唤起了大众对苹果 90 年代经典彩色电脑的怀",
+      "source": "ithome",
+      "sourceLabel": "IT Home IT之家",
+      "sourceUrl": "https://www.ithome.com/0/926/503.htm",
+      "author": null,
+      "publishedAt": "2026-03-06T05:53:52.000Z",
+      "engagement": {
+        "upvotes": 0,
+        "comments": 0
+      },
+      "image": "https://img.ithome.com/newsuploadfiles/2026/3/0f1fd3e2-beea-454e-9d05-ad2650b17dc6.jpg?x-bce-process=image/format,f_auto",
+      "score": 60,
+      "mentionedFigures": [],
+      "rank": 41,
+      "tags": [
+        "ai",
+        "apple"
+      ]
+    },
+    {
+      "id": "ithome-18-1772779854198",
+      "title": "曝联想系新机测试 2 亿像素大底潜望长焦，1.5K LCD 屏幕推进一般",
+      "url": "https://www.ithome.com/0/926/498.htm",
+      "description": "IT之家 3 月 6 日消息，博主 @数码闲聊站 今天在微博表示，联想系新机正在测试 2 亿像素大底潜望长焦，最快今年就能见到。\n\n博主透露，该品牌的 1.5K LCD 屏幕推进一般，目前内部在看“巨屏形态”，新开测试一块 7.5 英寸左右阔比例直屏。\n后续有用户在评论区表示：“联想系新机热度还不如 21 年的时候，性价比最高的 870/888 中端机”，博主回复道：“卷低价卷不过真我红米，被干趴了”；另一名用户则询问道：“请问‘推进一般’到底是啥意思呀？”，博主则回复道：“没有进一步推向量产的动作”。\n\n\n结合IT之家此前报道，博主曾在去年爆料，联想当时新开了一块 6.7-6.8 英寸大尺寸",
+      "source": "ithome",
+      "sourceLabel": "IT Home IT之家",
+      "sourceUrl": "https://www.ithome.com/0/926/498.htm",
+      "author": null,
+      "publishedAt": "2026-03-06T05:49:05.000Z",
+      "engagement": {
+        "upvotes": 0,
+        "comments": 0
+      },
+      "image": "https://img.ithome.com/newsuploadfiles/2026/3/8dcebb9d-a5d6-4e5b-a174-ac25eeaf8a97.jpg?x-bce-process=image/format,f_auto",
+      "score": 60,
+      "mentionedFigures": [],
+      "rank": 42,
+      "tags": []
+    },
+    {
+      "id": "ithome-19-1772779854198",
+      "title": "Office 365、SAP 等关键系统遭禁用？安世中国确认大部分业务已恢复运行，可保障基本生产运营",
+      "url": "https://www.ithome.com/0/926/497.htm",
+      "description": "IT之家 3 月 6 日消息，安世中国发布致客户公告函，确认其大部分业务目前已恢复运行，可保障基本生产运营。\n据介绍，3 月 3 日 19:02 起，Nexperia B.V.对中国区所有员工的办公账号进行了批量禁用，导致员工 Office 365、SAP 系统等关键办公环境无法正常访问，对安世中国区运营造成较大影响。\n受此影响，安世中国“客供晶圆到厂后的 SAP 下单转生产”等部分生产流程出现中断（IT之家注：已在 SAP 中开单并进入生产流程的订单未受影响）。\n因此，安世中国区 IT 与业务部门已协同启动应急预案，优先恢复关键系统与生产调度。截至今日，大部分业务已恢复运行，可保障基本生产运",
+      "source": "ithome",
+      "sourceLabel": "IT Home IT之家",
+      "sourceUrl": "https://www.ithome.com/0/926/497.htm",
+      "author": null,
+      "publishedAt": "2026-03-06T05:45:30.000Z",
+      "engagement": {
+        "upvotes": 0,
+        "comments": 0
+      },
+      "image": "https://img.ithome.com/newsuploadfiles/2026/3/f9c3a446-f2f3-4f26-9cf4-57df14840c95.png?x-bce-process=image/format,f_auto",
+      "score": 60,
+      "mentionedFigures": [],
+      "rank": 43,
+      "tags": []
+    },
+    {
+      "id": "techcrunch-1-1772779847691",
+      "title": "DiligenceSquared uses AI, voice agents to make M&A research affordable",
+      "url": "https://techcrunch.com/2026/03/05/diligencesquared-uses-ai-voice-agents-to-make-ma-research-affordable/",
+      "description": "Instead of relying on expensive management consultants, the startup uses AI voice agents to conduct interviews with customers of the companies the PE firms are considering buying.",
+      "source": "techcrunch",
+      "sourceLabel": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/03/05/diligencesquared-uses-ai-voice-agents-to-make-ma-research-affordable/",
+      "author": "Marina Temkin",
+      "publishedAt": "2026-03-05T23:14:04.000Z",
+      "engagement": {
+        "upvotes": 0,
+        "comments": 0
+      },
+      "image": null,
+      "score": 55,
+      "mentionedFigures": [],
+      "rank": 44,
+      "tags": [
+        "ai",
+        "startup"
+      ]
+    },
+    {
+      "id": "techcrunch-2-1772779847691",
+      "title": "Cluely CEO Roy Lee admits to publicly lying about revenue numbers last year",
+      "url": "https://techcrunch.com/2026/03/05/cluely-ceo-roy-lee-admits-to-publicly-lying-about-revenue-numbers-last-year/",
+      "description": "The $7 million in annual recurring revenue that Cluely CEO Roy Lee shared last summer was a lie, its founder and CEO Roy Lee admitted on Thursday on X.",
+      "source": "techcrunch",
+      "sourceLabel": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/03/05/cluely-ceo-roy-lee-admits-to-publicly-lying-about-revenue-numbers-last-year/",
+      "author": "Julie Bort",
+      "publishedAt": "2026-03-05T22:38:26.000Z",
+      "engagement": {
+        "upvotes": 0,
+        "comments": 0
+      },
+      "image": null,
+      "score": 55,
+      "mentionedFigures": [],
+      "rank": 45,
+      "tags": [
+        "ev"
+      ]
+    },
+    {
+      "id": "techcrunch-3-1772779847691",
+      "title": "AWS launches a new AI agent platform specifically for healthcare",
+      "url": "https://techcrunch.com/2026/03/05/aws-amazon-connect-health-ai-agent-platform-health-care-providers/",
+      "description": "AWS is launching Amazon Connect Health, an AI agent platform that will help with patient scheduling, documentation, and patient verification.",
+      "source": "techcrunch",
+      "sourceLabel": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/03/05/aws-amazon-connect-health-ai-agent-platform-health-care-providers/",
+      "author": "Rebecca Szkutak",
+      "publishedAt": "2026-03-05T21:54:37.000Z",
+      "engagement": {
+        "upvotes": 0,
+        "comments": 0
+      },
+      "image": null,
+      "score": 55,
+      "mentionedFigures": [],
+      "rank": 46,
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "id": "techcrunch-4-1772779847691",
+      "title": "FBI investigating hack on its wiretap and surveillance systems: Report",
+      "url": "https://techcrunch.com/2026/03/05/fbi-investigating-hack-on-its-wiretap-and-surveillance-systems-report/",
+      "description": "Hackers allegedly broke into the FBI’s networks, according to a report by CNN.",
+      "source": "techcrunch",
+      "sourceLabel": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/03/05/fbi-investigating-hack-on-its-wiretap-and-surveillance-systems-report/",
+      "author": "Lorenzo Franceschi-Bicchierai",
+      "publishedAt": "2026-03-05T21:33:24.000Z",
+      "engagement": {
+        "upvotes": 0,
+        "comments": 0
+      },
+      "image": null,
+      "score": 55,
+      "mentionedFigures": [],
+      "rank": 47,
+      "tags": [
+        "security"
+      ]
+    },
+    {
+      "id": "techcrunch-5-1772779847691",
+      "title": "US reportedly considering sweeping new chip export controls",
+      "url": "https://techcrunch.com/2026/03/05/us-reportedly-considering-sweeping-new-chip-export-controls/",
+      "description": "In an alleged drafted proposal, the U.S. government would play a role in every chip export sale regardless of which country it's coming from.",
+      "source": "techcrunch",
+      "sourceLabel": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/03/05/us-reportedly-considering-sweeping-new-chip-export-controls/",
+      "author": "Rebecca Szkutak",
+      "publishedAt": "2026-03-05T21:24:50.000Z",
+      "engagement": {
+        "upvotes": 0,
+        "comments": 0
+      },
+      "image": null,
+      "score": 55,
+      "mentionedFigures": [],
+      "rank": 48,
+      "tags": [
+        "ev"
+      ]
+    },
+    {
+      "id": "techcrunch-6-1772779847691",
+      "title": "Amazon is rolling out a redesigned Fire TV app",
+      "url": "https://techcrunch.com/2026/03/05/amazon-is-rolling-out-a-redesigned-fire-tv-app/",
+      "description": "With the updated Fire TV app, users can browse and discover content directly from their phone, manage their watchlist on the go, and play titles on their TV from the mobile app.",
+      "source": "techcrunch",
+      "sourceLabel": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/03/05/amazon-is-rolling-out-a-redesigned-fire-tv-app/",
+      "author": "Aisha Malik",
+      "publishedAt": "2026-03-05T20:45:38.000Z",
+      "engagement": {
+        "upvotes": 0,
+        "comments": 0
+      },
+      "image": null,
+      "score": 55,
+      "mentionedFigures": [],
+      "rank": 49,
+      "tags": []
+    },
+    {
+      "id": "techcrunch-7-1772779847691",
+      "title": "BYD rolls out EV batteries with 5-minute ‘flash charging’ — but there’s a catch",
+      "url": "https://techcrunch.com/2026/03/05/byd-rolls-out-ev-batteries-with-5-minute-flash-charging-but-theres-a-catch/",
+      "description": "The Chinese automaker's new Blade Battery 2.0 is capable of charging at up to 1.5 megawatts, dramatically slashing the time it takes to fill up.",
+      "source": "techcrunch",
+      "sourceLabel": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/03/05/byd-rolls-out-ev-batteries-with-5-minute-flash-charging-but-theres-a-catch/",
+      "author": "Tim De Chant",
+      "publishedAt": "2026-03-05T20:34:37.000Z",
+      "engagement": {
+        "upvotes": 0,
+        "comments": 0
+      },
+      "image": null,
+      "score": 55,
+      "mentionedFigures": [],
+      "rank": 50,
+      "tags": [
+        "ev"
+      ]
+    },
+    {
+      "id": "techcrunch-8-1772779847691",
+      "title": "Italian prosecutors confirm journalist was hacked with Paragon spyware",
+      "url": "https://techcrunch.com/2026/03/05/italian-prosecutors-confirm-journalist-was-hacked-with-paragon-spyware/",
+      "description": "Italian authorities are making progress in their investigation into a wide-ranging spyware scandal in Italy involving Paragon spyware. But the mystery of who hacked two Italian journalists with Paragon spyware continues.",
+      "source": "techcrunch",
+      "sourceLabel": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/03/05/italian-prosecutors-confirm-journalist-was-hacked-with-paragon-spyware/",
+      "author": "Lorenzo Franceschi-Bicchierai",
+      "publishedAt": "2026-03-05T20:32:57.000Z",
+      "engagement": {
+        "upvotes": 0,
+        "comments": 0
+      },
+      "image": null,
+      "score": 55,
+      "mentionedFigures": [],
+      "rank": 51,
+      "tags": [
+        "security"
+      ]
+    },
+    {
+      "id": "techcrunch-9-1772779847691",
+      "title": "It’s official: The Pentagon has labeled Anthropic a supply-chain risk",
+      "url": "https://techcrunch.com/2026/03/05/its-official-the-pentagon-has-labeled-anthropic-a-supply-chain-risk/",
+      "description": "The Department of Defense has officially labeled Anthropic a supply-chain risk, making the AI firm the first American company with the label. Meanwhile, the DOD continues to use Anthropic's AI in Iran.",
+      "source": "techcrunch",
+      "sourceLabel": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/03/05/its-official-the-pentagon-has-labeled-anthropic-a-supply-chain-risk/",
+      "author": "Rebecca Bellan",
+      "publishedAt": "2026-03-05T20:24:25.000Z",
+      "engagement": {
+        "upvotes": 0,
+        "comments": 0
+      },
+      "image": null,
+      "score": 55,
+      "mentionedFigures": [],
+      "rank": 52,
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "id": "techcrunch-10-1772779847691",
+      "title": "X revamps Creator Subscriptions with new features, like exclusive threads and shareable cards",
+      "url": "https://techcrunch.com/2026/03/05/x-revamps-creator-subscriptions-with-new-features-like-exclusive-threads-and-shareable-cards/",
+      "description": "X is rolling out a series of new features for creators, like the ability to offer paid threads and other marketing tools.",
+      "source": "techcrunch",
+      "sourceLabel": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/03/05/x-revamps-creator-subscriptions-with-new-features-like-exclusive-threads-and-shareable-cards/",
+      "author": "Sarah Perez",
+      "publishedAt": "2026-03-05T20:00:00.000Z",
+      "engagement": {
+        "upvotes": 0,
+        "comments": 0
+      },
+      "image": null,
+      "score": 55,
+      "mentionedFigures": [],
+      "rank": 53,
+      "tags": [
+        "ai",
+        "ev"
+      ]
+    },
+    {
+      "id": "techcrunch-11-1772779847691",
+      "title": "Hardware testing startup Nominal hits $1B valuation, raises $155M in 10 months",
+      "url": "https://techcrunch.com/2026/03/05/hardware-testing-startup-nominal-hits-1b-valuation-raises-155m-in-10-months/",
+      "description": "Nominal provides hardware testing equipment to defense tech companies. Founders Fund led the preemptive deal.",
+      "source": "techcrunch",
+      "sourceLabel": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/03/05/hardware-testing-startup-nominal-hits-1b-valuation-raises-155m-in-10-months/",
+      "author": "Julie Bort",
+      "publishedAt": "2026-03-05T18:59:52.000Z",
+      "engagement": {
+        "upvotes": 0,
+        "comments": 0
+      },
+      "image": null,
+      "score": 55,
+      "mentionedFigures": [],
+      "rank": 54,
+      "tags": [
+        "ai",
+        "startup"
+      ]
+    },
+    {
+      "id": "36kr-0-1772779850126",
+      "title": "8点1氪丨寿司郎被曝吃出寄生虫卵，当地市监局通报；全国人大代表建议尽量不要调休；谷歌DeepMind高管公开邀请千问团队入职",
+      "url": "https://36kr.com/p/3710693707166083?f=rss",
+      "description": "今日热点导览\n魔法原子回应创始人离职：确有此事，目前技术团队稳定\n伊朗：禁止美以欧船只通过霍尔木兹海峡\n现货白银向下跌破81美元/盎司\nMacBook Neo国补后低至3000多元\n亚马逊在机器人部门裁员约100人\nTOP 3 大新闻\n消费者称在寿司郎吃出寄生虫卵，当地市监局通报\n3月2日，有网友发视频称，3月1日他排了三个小时队吃寿司郎，不料却吃到一块全是寄生虫卵的金枪鱼。视频中，一名自称是寿司郎长安天街店主管的工作人员对该网友表示：“您在我们店铺吃了这种带虫卵的金枪鱼，如果今后因为这个鱼片导致您身体受到损伤损害，或感染寄生虫卵各种问题，我们会全程负责到底，包括各种医疗赔偿等问题。” \n据微",
+      "source": "36kr",
+      "sourceLabel": "36Kr 36氪",
+      "sourceUrl": "https://36kr.com/p/3710693707166083?f=rss",
+      "author": null,
+      "publishedAt": "2026-03-05T23:55:17.000Z",
+      "engagement": {
+        "upvotes": 0,
+        "comments": 0
+      },
+      "image": null,
+      "score": 55,
+      "mentionedFigures": [],
+      "rank": 55,
+      "tags": [
+        "google"
+      ]
+    },
+    {
+      "id": "theverge-3-1772779847700",
+      "title": "Lawmakers just advanced online safety laws that require age verification at the app store",
+      "url": "https://www.theverge.com/policy/890367/house-lawmakers-online-safety-bills-kids-act",
+      "description": "A package of child safety bills is headed to the House floor following an hours-long session that left Democrats and Republicans divided. On Thursday, lawmakers on the House Committee on Energy and Commerce voted to advance the Kids Internet and Digital Safety (KIDS) Act; Sammy's Law; and the App St",
+      "source": "theverge",
+      "sourceLabel": "The Verge",
+      "sourceUrl": "https://www.theverge.com/policy/890367/house-lawmakers-online-safety-bills-kids-act",
+      "author": "Emma Roth",
+      "publishedAt": "2026-03-05T23:16:00.000Z",
+      "engagement": {
+        "upvotes": 0,
+        "comments": 0
+      },
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/STK461_INTERNET_CHILD_SAFETY_E_Stock_CVirginia.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "score": 52.5,
+      "mentionedFigures": [],
+      "rank": 56,
+      "tags": []
+    },
+    {
+      "id": "theverge-4-1772779847700",
+      "title": "The Pentagon formally labels Anthropic a supply-chain risk",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/890347/pentagon-anthropic-supply-chain-risk",
+      "description": "US Defense Secretary Pete Hegseth speaks during a press conference on US military action in Iran, at the Pentagon in Washington, DC, on March 2, 2026. | Brendan Smialowski/AFP via Getty Images\t\n\nView Link\nAfter weeks of failed negotiations, public ultimatums, and lawsuit threats, the Defense Departm",
+      "source": "theverge",
+      "sourceLabel": "The Verge",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/890347/pentagon-anthropic-supply-chain-risk",
+      "author": "Tina Nguyen",
+      "publishedAt": "2026-03-05T23:02:22.000Z",
+      "engagement": {
+        "upvotes": 0,
+        "comments": 0
+      },
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/gettyimages-2263863571.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "score": 52.5,
+      "mentionedFigures": [],
+      "rank": 57,
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "id": "theverge-5-1772779847700",
+      "title": "Roku&#8217;s solution to streaming decision fatigue is a trivia game",
+      "url": "https://www.theverge.com/streaming/890312/roku-roklue-trivia-game",
+      "description": "Roku users who struggle to figure out what they want to watch might have an answer in the form of \"Roklue,\" a new game coming to the streaming platform on March 7th. Announced on Thursday, Roklue is a pop culture trivia game that Roku says helps users discover new content and \"tests players on the m",
+      "source": "theverge",
+      "sourceLabel": "The Verge",
+      "sourceUrl": "https://www.theverge.com/streaming/890312/roku-roklue-trivia-game",
+      "author": "Stevie Bonifield",
+      "publishedAt": "2026-03-05T21:42:58.000Z",
+      "engagement": {
+        "upvotes": 0,
+        "comments": 0
+      },
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25375048/STK265_ROKU_CVirginia.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "score": 52.5,
+      "mentionedFigures": [],
+      "rank": 58,
+      "tags": []
+    },
+    {
+      "id": "theverge-6-1772779847700",
+      "title": "Pokopia made me look at Pokémon’s high-tech future in a whole new way",
+      "url": "https://www.theverge.com/games/890131/pokopia-pokemon-high-tech-future-3d-printer",
+      "description": "Pokémon Pokopia features, of all things, a 3D printer. I wasn't sure why this surprised me so much, given all the other high-tech gear in pretty much every Pokémon game. But I was not expecting to find, inside the once-crumbling Pokémon Center I'd just worked hard to restore, a kind of machine I'd n",
+      "source": "theverge",
+      "sourceLabel": "The Verge",
+      "sourceUrl": "https://www.theverge.com/games/890131/pokopia-pokemon-high-tech-future-3d-printer",
+      "author": "Kallie Plagge",
+      "publishedAt": "2026-03-05T21:00:00.000Z",
+      "engagement": {
+        "upvotes": 0,
+        "comments": 0
+      },
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/IMG_3362.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "score": 52.5,
+      "mentionedFigures": [],
+      "rank": 59,
+      "tags": [
+        "ev"
+      ]
+    },
+    {
+      "id": "theverge-7-1772779847700",
+      "title": "United Airlines can permanently ban passengers who don’t wear headphones",
+      "url": "https://www.theverge.com/transportation/890202/united-airlines-headphones-policy-contract-of-carriage",
+      "description": "United Airlines has updated its \"Contract of Carriage\" to include a line that requires passengers to wear headphones while listening to audio and video content on flights, CBS News reports. \nUnder the updated contract, United can \"refuse transport on a permanent or temporary basis\" to passengers who",
+      "source": "theverge",
+      "sourceLabel": "The Verge",
+      "sourceUrl": "https://www.theverge.com/transportation/890202/united-airlines-headphones-policy-contract-of-carriage",
+      "author": "Stevie Bonifield",
+      "publishedAt": "2026-03-05T20:22:38.000Z",
+      "engagement": {
+        "upvotes": 0,
+        "comments": 0
+      },
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/10462969/455739122.jpg.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "score": 52.5,
+      "mentionedFigures": [],
+      "rank": 60,
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "id": "theverge-8-1772779847700",
+      "title": "Microsoft teases its next Xbox, says &#8216;Project Helix&#8217; will play PC games too",
+      "url": "https://www.theverge.com/games/890194/microsoft-teases-its-next-xbox-says-project-helix-will-play-pc-games-too",
+      "description": "The next-generation Xbox console will play both Xbox and PC games, and its codename is \"Project Helix,\" according to Asha Sharma, who took over as Microsoft's gaming CEO last month.\n\"Great start to the morning with Team Xbox, where we talked about our commitment to the return of Xbox including Proje",
+      "source": "theverge",
+      "sourceLabel": "The Verge",
+      "sourceUrl": "https://www.theverge.com/games/890194/microsoft-teases-its-next-xbox-says-project-helix-will-play-pc-games-too",
+      "author": "Jay Peters",
+      "publishedAt": "2026-03-05T20:14:17.000Z",
+      "engagement": {
+        "upvotes": 0,
+        "comments": 0
+      },
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/HCq_qMNa4AANvrQ.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "score": 52.5,
+      "mentionedFigures": [],
+      "rank": 61,
+      "tags": [
+        "microsoft"
+      ]
+    },
+    {
+      "id": "theverge-9-1772779847700",
+      "title": "Birdbuddy’s AI-powered hummingbird feeder is matching its best price to date",
+      "url": "https://www.theverge.com/gadgets/889975/birdbuddy-smart-hummingbird-feeder-pro-solar-deal-sale",
+      "description": "Birdbuddy’s smart hummingbird feeder can capture both photo and video of your feathery friends. | Image: Birdbuddy\t\n\nSpring is peak bird-watching season, and if you want a closer look this year, Birdbuddy’s Smart Hummingbird Feeder Pro Solar has you covered. Normally $299, Birdbuddy is now selling t",
+      "source": "theverge",
+      "sourceLabel": "The Verge",
+      "sourceUrl": "https://www.theverge.com/gadgets/889975/birdbuddy-smart-hummingbird-feeder-pro-solar-deal-sale",
+      "author": "Sheena Vasani",
+      "publishedAt": "2026-03-05T18:58:44.000Z",
+      "engagement": {
+        "upvotes": 0,
+        "comments": 0
+      },
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/Birdbuddys-Smart-Hummingbird-Feeder-Pro-Solar-.webp?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "score": 52.5,
+      "mentionedFigures": [],
+      "rank": 62,
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "id": "v2ex-1196272",
+      "title": "真诚帮我姐姐找一个灵魂伴侣",
+      "url": "https://www.v2ex.com/t/1196272",
+      "description": "* 为啥我要在 V2 上找？\r\n1. 我觉得这个圈子大部分的人还是属于比较老实、本分、善良的人。虽然也有很多很多瓢虫\r\n2. 最可贵的是这个圈子的人都有自己的想法，上进，想多挣点钱，想创业，想挣外包\r\n3. 大部分对生活和社会都有自己的宝贵见解，所以以后生活也不会那么麻木和无意义\r\n4. 她自己的圈子太小了\r\n\r\n* 她自己的条件（ 33 岁）\r\n1. 无编制教师，收入较为稳定，一年接近 10w （之前教培未改革前我记得能达到 20w+）\r\n2. 无房、无车，有一些存款\r\n3. 四川人，身高 1 米 56 ，很矮，不胖，白净，爱干净，爱收拾，目前 33 岁\r\n4. 就一段感情历史，18 年结束",
+      "source": "v2ex",
+      "sourceLabel": "V2EX",
+      "sourceUrl": "https://www.v2ex.com/t/1196272",
+      "author": "FATEQiang",
+      "publishedAt": "2026-03-06T03:44:52.000Z",
+      "engagement": {
+        "upvotes": 0,
+        "comments": 145
+      },
+      "image": "https://cdn.v2ex.com/gravatar/403d30297c1adccc41fd3c0266a8c61e?s=73&d=retro",
+      "score": 50.1,
+      "mentionedFigures": [],
+      "rank": 63,
+      "tags": [
+        "startup"
+      ]
+    },
+    {
+      "id": "arstechnica-0-1772779847728",
+      "title": "Workers report watching Ray-Ban Meta-shot footage of people using the bathroom",
+      "url": "https://arstechnica.com/gadgets/2026/03/workers-report-watching-ray-ban-meta-shot-footage-of-people-using-the-bathroom/",
+      "description": "Meta accused of \"concealing the facts\" about smart glass users' privacy.",
+      "source": "arstechnica",
+      "sourceLabel": "Ars Technica",
+      "sourceUrl": "https://arstechnica.com/gadgets/2026/03/workers-report-watching-ray-ban-meta-shot-footage-of-people-using-the-bathroom/",
+      "author": "\n                    Scharon Harding\n                ",
+      "publishedAt": "2026-03-05T23:36:04.000Z",
+      "engagement": {
+        "upvotes": 0,
+        "comments": 0
+      },
+      "image": null,
+      "score": 50,
+      "mentionedFigures": [],
+      "rank": 64,
+      "tags": []
+    },
+    {
+      "id": "arstechnica-1-1772779847728",
+      "title": "MS exec: Microsoft's next console will play \"Xbox and PC games\"",
+      "url": "https://arstechnica.com/gaming/2026/03/ms-exec-microsofts-next-console-will-play-xbox-and-pc-games/",
+      "description": "Project Helix is set to open the closed-console ecosystem, but the details will matter.",
+      "source": "arstechnica",
+      "sourceLabel": "Ars Technica",
+      "sourceUrl": "https://arstechnica.com/gaming/2026/03/ms-exec-microsofts-next-console-will-play-xbox-and-pc-games/",
+      "author": "\n                    Kyle Orland\n                ",
+      "publishedAt": "2026-03-05T21:39:43.000Z",
+      "engagement": {
+        "upvotes": 0,
+        "comments": 0
+      },
+      "image": null,
+      "score": 50,
+      "mentionedFigures": [],
+      "rank": 65,
+      "tags": [
+        "ai",
+        "microsoft"
+      ]
+    },
+    {
+      "id": "arstechnica-2-1772779847728",
+      "title": "RFK Jr.’s anti-vaccine policies are \"unreviewable,\" DOJ lawyer tells judge",
+      "url": "https://arstechnica.com/health/2026/03/rfk-jr-can-promote-getting-measles-with-impunity-doj-lawyer-tells-judge/",
+      "description": "The startling claim came amid a lawsuit from the American Academy of Pediatrics.",
+      "source": "arstechnica",
+      "sourceLabel": "Ars Technica",
+      "sourceUrl": "https://arstechnica.com/health/2026/03/rfk-jr-can-promote-getting-measles-with-impunity-doj-lawyer-tells-judge/",
+      "author": "\n                    Beth Mole\n                ",
+      "publishedAt": "2026-03-05T21:29:30.000Z",
+      "engagement": {
+        "upvotes": 0,
+        "comments": 0
+      },
+      "image": null,
+      "score": 50,
+      "mentionedFigures": [],
+      "rank": 66,
+      "tags": [
+        "ai",
+        "ev"
+      ]
+    },
+    {
+      "id": "arstechnica-3-1772779847728",
+      "title": "Amazon appears to be down, with over 20,000 reported problems",
+      "url": "https://arstechnica.com/gadgets/2026/03/amazon-appears-to-be-down-with-over-20000-reported-problems/",
+      "description": "Problems viewing products and checking out.",
+      "source": "arstechnica",
+      "sourceLabel": "Ars Technica",
+      "sourceUrl": "https://arstechnica.com/gadgets/2026/03/amazon-appears-to-be-down-with-over-20000-reported-problems/",
+      "author": "\n                    Scharon Harding\n                ",
+      "publishedAt": "2026-03-05T21:06:05.000Z",
+      "engagement": {
+        "upvotes": 0,
+        "comments": 0
+      },
+      "image": null,
+      "score": 50,
+      "mentionedFigures": [],
+      "rank": 67,
+      "tags": []
+    },
+    {
+      "id": "arstechnica-4-1772779847728",
+      "title": "OpenAI introduces GPT-5.4 with more knowledge-work capability",
+      "url": "https://arstechnica.com/ai/2026/03/openai-introduces-gpt-5-4-with-more-knowledge-work-capability/",
+      "description": "Updates come amid user blowback over the company's Pentagon deal.",
+      "source": "arstechnica",
+      "sourceLabel": "Ars Technica",
+      "sourceUrl": "https://arstechnica.com/ai/2026/03/openai-introduces-gpt-5-4-with-more-knowledge-work-capability/",
+      "author": "\n                    Samuel Axon\n                ",
+      "publishedAt": "2026-03-05T20:55:25.000Z",
+      "engagement": {
+        "upvotes": 0,
+        "comments": 0
+      },
+      "image": null,
+      "score": 50,
+      "mentionedFigures": [],
+      "rank": 68,
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "id": "arstechnica-5-1772779847728",
+      "title": "The Boys S5 trailer tees up a bloody final season",
+      "url": "https://arstechnica.com/culture/2026/03/the-boys-s5-trailer-tees-up-a-bloody-final-season/",
+      "description": "\"My power is absolute. At heights no one ever dreamed of. But I have a bigger destiny.\"",
+      "source": "arstechnica",
+      "sourceLabel": "Ars Technica",
+      "sourceUrl": "https://arstechnica.com/culture/2026/03/the-boys-s5-trailer-tees-up-a-bloody-final-season/",
+      "author": "\n                    Jennifer Ouellette\n                ",
+      "publishedAt": "2026-03-05T18:55:13.000Z",
+      "engagement": {
+        "upvotes": 0,
+        "comments": 0
+      },
+      "image": null,
+      "score": 50,
+      "mentionedFigures": [],
+      "rank": 69,
+      "tags": [
+        "ai",
+        "ev"
+      ]
+    },
+    {
+      "id": "v2ex-1196192",
+      "title": "比亚迪出二代刀片电池了， 5 分钟充好 9 分钟充饱零下 30 度只多 3 分钟，我准备冲了",
+      "url": "https://www.v2ex.com/t/1196192",
+      "description": "昨晚发布会，可以说非常炸裂。这可以说相当于电车充电速度已经基本赶上油车了，上个厕所的时间就充好，新车还送 1 年免费充电，我准备冲钛 7 EV ，续航 700 多 km ，大家看好这波趋势吗？",
+      "source": "v2ex",
+      "sourceLabel": "V2EX",
+      "sourceUrl": "https://www.v2ex.com/t/1196192",
+      "author": "CziL",
+      "publishedAt": "2026-03-06T00:42:20.000Z",
+      "engagement": {
+        "upvotes": 0,
+        "comments": 193
+      },
+      "image": "https://cdn.v2ex.com/avatar/5a30/f569/484692_large.png?m=1772757430",
+      "score": 50,
+      "mentionedFigures": [],
+      "rank": 70,
+      "tags": [
+        "ev"
+      ]
+    },
+    {
+      "id": "techcrunch-12-1772779847691",
+      "title": "Roblox launches real-time AI chat rephrasing to filter out banned language",
+      "url": "https://techcrunch.com/2026/03/05/roblox-launches-real-time-ai-chat-rephrasing-to-filter-out-banned-language/",
+      "description": "The new feature goes beyond Roblox’s current text filter, which simply replaces banned words and phrases with the “#” symbol.",
+      "source": "techcrunch",
+      "sourceLabel": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/03/05/roblox-launches-real-time-ai-chat-rephrasing-to-filter-out-banned-language/",
+      "author": "Aisha Malik",
+      "publishedAt": "2026-03-05T18:38:36.000Z",
+      "engagement": {
+        "upvotes": 0,
+        "comments": 0
+      },
+      "image": null,
+      "score": 49.5,
+      "mentionedFigures": [],
+      "rank": 71,
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "id": "techcrunch-13-1772779847691",
+      "title": "FYI: Impersonators are (still) targeting companies with fake TechCrunch outreach",
+      "url": "https://techcrunch.com/2026/03/05/impersonators-scammers-targeting-companies-with-fake-techcrunch-outreach/",
+      "description": "Fraudsters are impersonating TechCrunch reporters and event leads, and reaching out to companies. Here's what we're doing about it, and what you can look out for.",
+      "source": "techcrunch",
+      "sourceLabel": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/03/05/impersonators-scammers-targeting-companies-with-fake-techcrunch-outreach/",
+      "author": "TechCrunch Staff",
+      "publishedAt": "2026-03-05T18:35:01.000Z",
+      "engagement": {
+        "upvotes": 0,
+        "comments": 0
+      },
+      "image": null,
+      "score": 49.5,
+      "mentionedFigures": [],
+      "rank": 72,
+      "tags": [
+        "ev"
+      ]
+    },
+    {
+      "id": "techcrunch-14-1772779847691",
+      "title": "EXCLUSIVE: Luma launches creative AI agents powered by its new ‘Unified Intelligence’ models",
+      "url": "https://techcrunch.com/2026/03/05/exclusive-luma-launches-creative-ai-agents-powered-by-its-new-unified-intelligence-models/",
+      "description": "Luma introduced Luma Agents, powered by its new “Unified Intelligence” models, designed to coordinate multiple AI systems and generate end-to-end creative work across text, images, video and audio.",
+      "source": "techcrunch",
+      "sourceLabel": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/03/05/exclusive-luma-launches-creative-ai-agents-powered-by-its-new-unified-intelligence-models/",
+      "author": "Rebecca Bellan",
+      "publishedAt": "2026-03-05T18:11:36.000Z",
+      "engagement": {
+        "upvotes": 0,
+        "comments": 0
+      },
+      "image": null,
+      "score": 49.5,
+      "mentionedFigures": [],
+      "rank": 73,
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "id": "techcrunch-15-1772779847691",
+      "title": "Google says half of all zero-days it tracked in 2025 targeted buggy enterprise tech",
+      "url": "https://techcrunch.com/2026/03/05/google-says-half-of-all-zero-days-it-tracked-in-2025-targeted-buggy-enterprise-tech/",
+      "description": "Enterprise software was a major focus of zero-day activity during 2025, with security and networking devices, like firewalls, VPNs, and virtualization platforms among the most targeted by malicious hackers.",
+      "source": "techcrunch",
+      "sourceLabel": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/03/05/google-says-half-of-all-zero-days-it-tracked-in-2025-targeted-buggy-enterprise-tech/",
+      "author": "Zack Whittaker",
+      "publishedAt": "2026-03-05T18:06:55.000Z",
+      "engagement": {
+        "upvotes": 0,
+        "comments": 0
+      },
+      "image": null,
+      "score": 49.5,
+      "mentionedFigures": [],
+      "rank": 74,
+      "tags": [
+        "google",
+        "security",
+        "ev"
+      ]
+    },
+    {
+      "id": "techcrunch-16-1772779847691",
+      "title": "OpenAI launches GPT-5.4 with Pro and Thinking versions",
+      "url": "https://techcrunch.com/2026/03/05/openai-launches-gpt-5-4-with-pro-and-thinking-versions/",
+      "description": "GPT-5.4 is billed as \"our most capable and efficient frontier model for professional work.\"",
+      "source": "techcrunch",
+      "sourceLabel": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/03/05/openai-launches-gpt-5-4-with-pro-and-thinking-versions/",
+      "author": "Russell Brandom",
+      "publishedAt": "2026-03-05T18:00:15.000Z",
+      "engagement": {
+        "upvotes": 0,
+        "comments": 0
+      },
+      "image": null,
+      "score": 49.5,
+      "mentionedFigures": [],
+      "rank": 75,
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "id": "techcrunch-17-1772779847691",
+      "title": "Cursor is rolling out a new kind of agentic coding tool",
+      "url": "https://techcrunch.com/2026/03/05/cursor-is-rolling-out-a-new-system-for-agentic-coding/",
+      "description": "Called Automations, the new system gives users a way to automatically launch agents within their coding environment, triggered by a new addition to the codebase, a Slack message, or a simple timer.",
+      "source": "techcrunch",
+      "sourceLabel": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/03/05/cursor-is-rolling-out-a-new-system-for-agentic-coding/",
+      "author": "Russell Brandom",
+      "publishedAt": "2026-03-05T17:00:00.000Z",
+      "engagement": {
+        "upvotes": 0,
+        "comments": 0
+      },
+      "image": null,
+      "score": 49.5,
+      "mentionedFigures": [],
+      "rank": 76,
+      "tags": []
+    },
+    {
+      "id": "techcrunch-18-1772779847691",
+      "title": "Meta sued over AI smart glasses’ privacy concerns, after workers reviewed nudity, sex, and other footage",
+      "url": "https://techcrunch.com/2026/03/05/meta-sued-over-ai-smartglasses-privacy-concerns-after-workers-reviewed-nudity-sex-and-other-footage/",
+      "description": "Lawyers say Meta's marketing materials promised privacy and user control over sharing footage. But an investigation found that subcontractors are reviewing footage from customers' glasses.",
+      "source": "techcrunch",
+      "sourceLabel": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/03/05/meta-sued-over-ai-smartglasses-privacy-concerns-after-workers-reviewed-nudity-sex-and-other-footage/",
+      "author": "Sarah Perez",
+      "publishedAt": "2026-03-05T16:50:20.000Z",
+      "engagement": {
+        "upvotes": 0,
+        "comments": 0
+      },
+      "image": null,
+      "score": 49.5,
+      "mentionedFigures": [],
+      "rank": 77,
+      "tags": [
+        "ai",
+        "ev"
+      ]
+    },
+    {
+      "id": "36kr-1-1772779850126",
+      "title": "海信发布世界杯定制产品，有AI功能的电视、空调、洗衣机集中上新丨最前线",
+      "url": "https://36kr.com/p/3710171805806976?f=rss",
+      "description": "距2026美加墨世界杯开幕不足100天，作为官方赞助商，海信于3月5日在青岛一口气推出覆盖电视、空调、洗衣机等家电的全品类AI新品。\n在电视上，海信把AI做成“观赛搭子”。RGB-Mini LED旗舰电视UX2026款除了强调画质提升，更突出“AI观赛”体验：支持赛中AI查询阵容及识别场上球员，并提供三场比赛同屏观看模式，赛后还能生成战术总结与复盘。\nAI在空调上，承担的是“实时调度体感”。 国内首款滑盖空调——海信智慧风E5系列，主打人感与语音智控结合，通过人感识别实现风随人动、风避人吹、人近柔风、无人节能等模式。智慧风E5系列支持双人双风感与180度广角送风，在多人观赛场景中也能照顾到不同",
+      "source": "36kr",
+      "sourceLabel": "36Kr 36氪",
+      "sourceUrl": "https://36kr.com/p/3710171805806976?f=rss",
+      "author": null,
+      "publishedAt": "2026-03-05T15:23:30.000Z",
+      "engagement": {
+        "upvotes": 0,
+        "comments": 0
+      },
+      "image": "https://img.36krcdn.com/hsossms/20260305/v2_ca524100dbb64655b184fbec41b8992d@6227116_oswg94097oswg828oswg466_img_jpg?x-oss-process=image/quality,q_100/format,jpg/interlace,1",
+      "score": 49.5,
+      "mentionedFigures": [],
+      "rank": 78,
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "id": "36kr-2-1772779850126",
+      "title": "透视“速成车”，行业不可承受之快",
+      "url": "https://36kr.com/p/3616382576084225?f=rss",
+      "description": "“速成车”踩刹车\n2026年一开年，监管部门再一次收紧了对汽车开发的要求。这让不少“老汽车人”松了一口气。\n一名头部车企的软件总工告诉36氪，在他十余年的从业生涯里，从未经历过去几年的激进时刻：\n原本需要适配两年才能上车的新架构，现在10个月就得上车；之前机械验证要做的两次冬测试、两次夏测，被压缩成了一次冬测、一次夏测。\n原本要验证4个月的整车控制软件，现在2个星期就可以上车。\n他这种内行人才知道的隐忧还有：看似测试环节都在，但压缩时长伴随着高强度加班，实际操作中，需要测200次的项目最后可能只测了30次；测完10次，员工便可能说已经测过100次了。\n“有些问题就会测不出来，其中可能包含高安全",
+      "source": "36kr",
+      "sourceLabel": "36Kr 36氪",
+      "sourceUrl": "https://36kr.com/p/3616382576084225?f=rss",
+      "author": null,
+      "publishedAt": "2026-03-05T13:30:30.000Z",
+      "engagement": {
+        "upvotes": 0,
+        "comments": 0
+      },
+      "image": null,
+      "score": 49.5,
+      "mentionedFigures": [],
+      "rank": 79,
+      "tags": [
+        "security"
+      ]
+    },
+    {
+      "id": "36kr-3-1772779850126",
+      "title": "奔驰新车平台首落中国，要用吉利架构 | 36氪独家",
+      "url": "https://36kr.com/p/3709965457240197?f=rss",
+      "description": "今年1月底，奔驰管理层开始不断出现在吉利杭州湾研发中心，36氪从多位产业人士处了解到，两家车企巨头正在商谈一场整车电子电气级别的合作。 \n电子电气架构，也叫EE架构，是汽车智能化、数字化、网联化的基础，也是支撑辅助驾驶、智能座舱的核心。或者说，它就是智能汽车时代，车企口中的“灵魂”部分。 \n2月初，吉利管理层又带着翻译人员前往上海金桥，与奔驰进一步敲定了合作方向。 \n目前，双方已经初步达成共识，奔驰将基于吉利的GEEA电子电气架构，开发全新的电动车平台。目前，奔驰在基于GEEA 4.0版本做POC验证（项目开始前的概念验证）。\n吉利GEEA4.0架构，是吉利集团正在开发的、油电通用的电子电气架",
+      "source": "36kr",
+      "sourceLabel": "36Kr 36氪",
+      "sourceUrl": "https://36kr.com/p/3709965457240197?f=rss",
+      "author": null,
+      "publishedAt": "2026-03-05T11:32:26.000Z",
+      "engagement": {
+        "upvotes": 0,
+        "comments": 0
+      },
+      "image": "https://img.36krcdn.com/hsossms/20260305/v2_4659e134d0b94d95bad7026bd4a3cccd@6215398_oswg41870oswg1080oswg335_img_000?x-oss-process=image/format,jpg/interlace,1",
+      "score": 49.5,
+      "mentionedFigures": [],
+      "rank": 80,
+      "tags": [
+        "ev"
+      ]
+    },
+    {
+      "id": "36kr-4-1772779850126",
+      "title": "氪星晚报｜谷歌DeepMind向千问团队抛橄榄枝；韩国总统下令实施100万亿韩元资本市场稳定计划；默沙东回应美国疫苗工厂裁员",
+      "url": "https://36kr.com/p/3709831706374531?f=rss",
+      "description": "大公司：\n阿里巴巴旗下公司在杭州成立智能科技新公司\n36氪获悉，爱企查App显示，近日，杭州瓴通智能科技有限公司成立，法定代表人为林鸣晖，注册资本1000万元人民币，经营范围包括软件开发、计算机软硬件及外围设备制造、数据处理和存储支持服务、大数据服务、互联网数据服务、人工智能应用软件开发等。股东信息显示，该公司由阿里巴巴旗下北京锐讯灵通科技有限公司全资持股。\n谷歌DeepMind向千问团队抛橄榄枝\n3月5日下午，谷歌DeepMind开发团队相关负责人Omar Sanseviero在社交平台喊话Qwen 的朋友：“如果您想找个新地方来构建优秀的模型，并为开放模型生态系统做出贡献，请联系我们！我们",
+      "source": "36kr",
+      "sourceLabel": "36Kr 36氪",
+      "sourceUrl": "https://36kr.com/p/3709831706374531?f=rss",
+      "author": null,
+      "publishedAt": "2026-03-05T09:27:33.000Z",
+      "engagement": {
+        "upvotes": 0,
+        "comments": 0
+      },
+      "image": null,
+      "score": 49.5,
+      "mentionedFigures": [],
+      "rank": 81,
+      "tags": [
+        "ai",
+        "google",
+        "ev"
+      ]
+    },
+    {
+      "id": "36kr-5-1772779850126",
+      "title": "AI+生命科技实现废弃物循环利用，国家级专精特新“重点小巨人”「蔚复来」完成数千万元C2轮融资 | 36氪首发",
+      "url": "https://36kr.com/p/3709819839443333?f=rss",
+      "description": "文 | 张冰冰\n编辑 | 阿至\n36氪获悉，蔚复来（浙江）科技股份有限公司（以下简称「蔚复来」）近日宣布完成数千万元C2轮融资，投资方为博将资本。这是博将资本第二次向蔚复来追投注资，与此前C1轮累计投资规模超亿元。本次资金将主要用于高端智能装备的迭代升级、新场景应用的拓展以及绿色数字化解决方案的优化，「蔚复来」将与博将资本开启“AI绿色循环+智能制造”合作模式，加速技术生态和产业链布局。\n「蔚复来」成立于2018 年 12 月，以 “推动废弃物资源化循环利用，改善人居环境” 为使命，聚焦AI绿色成套智能装备与数字解决方案的研发与落地，凭借“废弃物循环利用”技术，获评国家级专精特新“重点小巨人”",
+      "source": "36kr",
+      "sourceLabel": "36Kr 36氪",
+      "sourceUrl": "https://36kr.com/p/3709819839443333?f=rss",
+      "author": null,
+      "publishedAt": "2026-03-05T09:07:14.000Z",
+      "engagement": {
+        "upvotes": 0,
+        "comments": 0
+      },
+      "image": "https://img.36krcdn.com/hsossms/20260305/v2_cb9260e13780400481179cb8c1c893c7@16805102_oswg41492oswg1080oswg608_img_000?x-oss-process=image/format,jpg/interlace,1",
+      "score": 49.5,
+      "mentionedFigures": [],
+      "rank": 82,
+      "tags": [
+        "ai",
+        "startup"
+      ]
+    },
+    {
+      "id": "arstechnica-6-1772779847728",
+      "title": "Trump gets data center companies to pledge to pay for power generation",
+      "url": "https://arstechnica.com/tech-policy/2026/03/leading-ai-datacenter-companies-sign-pledge-to-buy-their-own-power/",
+      "description": "With no enforcement and questionable economics, it may not make a difference.",
+      "source": "arstechnica",
+      "sourceLabel": "Ars Technica",
+      "sourceUrl": "https://arstechnica.com/tech-policy/2026/03/leading-ai-datacenter-companies-sign-pledge-to-buy-their-own-power/",
+      "author": "\n                    John Timmer\n                ",
+      "publishedAt": "2026-03-05T18:41:28.000Z",
+      "engagement": {
+        "upvotes": 0,
+        "comments": 0
+      },
+      "image": null,
+      "score": 45,
+      "mentionedFigures": [],
+      "rank": 83,
+      "tags": []
+    },
+    {
+      "id": "arstechnica-7-1772779847728",
+      "title": "Nerve damage, energy management, and Apple TV: F1 in 2026 starts today",
+      "url": "https://arstechnica.com/cars/2026/03/nerve-damage-energy-management-and-apple-tv-f1-in-2026-starts-today/",
+      "description": "Drivers aren't happy about energy management, and one team won't finish the race.",
+      "source": "arstechnica",
+      "sourceLabel": "Ars Technica",
+      "sourceUrl": "https://arstechnica.com/cars/2026/03/nerve-damage-energy-management-and-apple-tv-f1-in-2026-starts-today/",
+      "author": "\n                    Jonathan M. Gitlin\n                ",
+      "publishedAt": "2026-03-05T18:10:11.000Z",
+      "engagement": {
+        "upvotes": 0,
+        "comments": 0
+      },
+      "image": null,
+      "score": 45,
+      "mentionedFigures": [],
+      "rank": 84,
+      "tags": [
+        "apple"
+      ]
+    },
+    {
+      "id": "arstechnica-8-1772779847728",
+      "title": "Lanterns teaser swaps superhero hijinks for gritty realism",
+      "url": "https://arstechnica.com/culture/2026/03/lanterns-teaser-swaps-superhero-hijinks-for-gritty-realism/",
+      "description": "DC's Green Lantern is reimagined as part True Detective, part Slow Horses, and we're here for it.",
+      "source": "arstechnica",
+      "sourceLabel": "Ars Technica",
+      "sourceUrl": "https://arstechnica.com/culture/2026/03/lanterns-teaser-swaps-superhero-hijinks-for-gritty-realism/",
+      "author": "\n                    Jennifer Ouellette\n                ",
+      "publishedAt": "2026-03-05T17:55:04.000Z",
+      "engagement": {
+        "upvotes": 0,
+        "comments": 0
+      },
+      "image": null,
+      "score": 45,
+      "mentionedFigures": [],
+      "rank": 85,
+      "tags": []
+    },
+    {
+      "id": "arstechnica-9-1772779847728",
+      "title": "Congress extends ISS and tells NASA to get moving on private space stations",
+      "url": "https://arstechnica.com/space/2026/03/congress-steps-up-pressure-on-nasa-to-support-private-space-stations/",
+      "description": "\"We were happy to see the renewed commitment to transition from the ISS.\"",
+      "source": "arstechnica",
+      "sourceLabel": "Ars Technica",
+      "sourceUrl": "https://arstechnica.com/space/2026/03/congress-steps-up-pressure-on-nasa-to-support-private-space-stations/",
+      "author": "\n                    Eric Berger\n                ",
+      "publishedAt": "2026-03-05T17:45:18.000Z",
+      "engagement": {
+        "upvotes": 0,
+        "comments": 0
+      },
+      "image": null,
+      "score": 45,
+      "mentionedFigures": [],
+      "rank": 86,
+      "tags": [
+        "space"
+      ]
+    },
+    {
+      "id": "arstechnica-11-1772779847728",
+      "title": "macOS Tahoe 26.3.1 update will \"upgrade\" your M5's CPU to new \"super\" cores",
+      "url": "https://arstechnica.com/gadgets/2026/03/macos-tahoe-26-3-1-update-will-upgrade-your-m5s-cpu-to-new-super-cores/",
+      "description": "In otherwise minor software update, macOS now uses M5's new nomenclature.",
+      "source": "arstechnica",
+      "sourceLabel": "Ars Technica",
+      "sourceUrl": "https://arstechnica.com/gadgets/2026/03/macos-tahoe-26-3-1-update-will-upgrade-your-m5s-cpu-to-new-super-cores/",
+      "author": "\n                    Andrew Cunningham\n                ",
+      "publishedAt": "2026-03-05T13:28:43.000Z",
+      "engagement": {
+        "upvotes": 0,
+        "comments": 0
+      },
+      "image": null,
+      "score": 45,
+      "mentionedFigures": [],
+      "rank": 87,
+      "tags": [
+        "apple"
+      ]
+    },
+    {
+      "id": "devto-3313758",
+      "title": "Interactive Brokers Market Data Subscription: Which One Do I Actually Need in 2026?",
+      "url": "https://dev.to/xqliu/interactive-brokers-market-data-subscription-which-one-do-i-actually-need-in-2026-164g",
+      "description": "Interactive Brokers Market Data Subscription: Which One Do I Actually Need in 2026?   When I...",
+      "source": "devto",
+      "sourceLabel": "dev.to",
+      "sourceUrl": "https://dev.to/xqliu/interactive-brokers-market-data-subscription-which-one-do-i-actually-need-in-2026-164g",
+      "author": "Lawrence Liu",
+      "publishedAt": "2026-03-05T23:36:42Z",
+      "engagement": {
+        "upvotes": 0,
+        "comments": 0
+      },
+      "image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Few8is6566ljsafjuzp62.png",
+      "score": 45,
+      "mentionedFigures": [],
+      "rank": 88,
+      "tags": []
+    },
+    {
+      "id": "devto-3313762",
+      "title": "Stop Using Switch Statements: Keyed Services in .NET - A Practical Approach",
+      "url": "https://dev.to/raffaeleloi/stop-using-switch-statements-keyed-services-in-net-a-practical-approach-iej",
+      "description": "Have you heard of Keyed Services? Do you know when to use them? Have you ever needed multiple...",
+      "source": "devto",
+      "sourceLabel": "dev.to",
+      "sourceUrl": "https://dev.to/raffaeleloi/stop-using-switch-statements-keyed-services-in-net-a-practical-approach-iej",
+      "author": "Raffael Eloi",
+      "publishedAt": "2026-03-06T00:09:04Z",
+      "engagement": {
+        "upvotes": 0,
+        "comments": 0
+      },
+      "image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F0qe8johiyfot4ea0orew.png",
+      "score": 45,
+      "mentionedFigures": [],
+      "rank": 89,
+      "tags": [
+        "ev"
+      ]
+    },
+    {
+      "id": "devto-3313860",
+      "title": "Scaling AI/ML Workloads: 3 Architecture Lessons from HashiConf 2023",
+      "url": "https://dev.to/agastya_kommanamanchi_d4f/scaling-aiml-workloads-3-architecture-lessons-from-hashiconf-2023-35p2",
+      "description": "Lessons on GPU orchestration, identity-based security for LLMs, and managing AI infrastructure using the HashiStack.",
+      "source": "devto",
+      "sourceLabel": "dev.to",
+      "sourceUrl": "https://dev.to/agastya_kommanamanchi_d4f/scaling-aiml-workloads-3-architecture-lessons-from-hashiconf-2023-35p2",
+      "author": "Agastya Kommanamanchi",
+      "publishedAt": "2026-03-06T00:50:11Z",
+      "engagement": {
+        "upvotes": 0,
+        "comments": 0
+      },
+      "image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fk4soqfjzadpan3y2w7hg.jpeg",
+      "score": 45,
+      "mentionedFigures": [],
+      "rank": 90,
+      "tags": [
+        "ai",
+        "security"
+      ]
+    },
+    {
+      "id": "youtube-UCXuqSBlHAE6Xw-yeJA0Tunw-0",
+      "title": "I Can Only Recommend Macbooks Now…",
+      "url": "https://www.youtube.com/watch?v=sSheV0FEYYU",
+      "description": "I Can Only Recommend Macbooks Now…",
+      "source": "youtube",
+      "sourceLabel": "YouTube Linus Tech Tips",
+      "sourceUrl": "https://www.youtube.com/watch?v=sSheV0FEYYU",
+      "author": "Linus Tech Tips",
+      "publishedAt": "2026-03-05T10:09:35.000Z",
+      "engagement": {
+        "upvotes": 0,
+        "comments": 0
+      },
+      "image": "https://i.ytimg.com/vi/sSheV0FEYYU/hqdefault.jpg",
+      "score": 45,
+      "mentionedFigures": [],
+      "rank": 91,
+      "tags": []
+    },
+    {
+      "id": "youtube-UCVHFbqXqoYvEWM1Ddxl0QDg-0",
+      "title": "AI fixes your Android Studio dependency errors",
+      "url": "https://www.youtube.com/shorts/FAe63oO5290",
+      "description": "AI fixes your Android Studio dependency errors",
+      "source": "youtube",
+      "sourceLabel": "YouTube Android Authority",
+      "sourceUrl": "https://www.youtube.com/shorts/FAe63oO5290",
+      "author": "Android Developers",
+      "publishedAt": "2026-03-05T17:01:23.000Z",
+      "engagement": {
+        "upvotes": 0,
+        "comments": 0
+      },
+      "image": "https://i.ytimg.com/vi/FAe63oO5290/hqdefault.jpg",
+      "score": 45,
+      "mentionedFigures": [],
+      "rank": 92,
+      "tags": [
+        "ai",
+        "google"
+      ]
+    },
+    {
+      "id": "hn-47261688",
+      "title": "Judge orders government to begin refunding more than $130B in tariffs",
+      "url": "https://www.wsj.com/politics/policy/judge-orders-government-to-begin-refunding-more-than-130-billion-in-tariffs-fdc1e62c",
+      "description": "Judge orders government to begin refunding more than $130B in tariffs",
+      "source": "hackernews",
+      "sourceLabel": "Hacker News",
+      "sourceUrl": "https://news.ycombinator.com/item?id=47261688",
+      "author": "JumpCrisscross",
+      "publishedAt": "2026-03-05T14:05:46.000Z",
+      "engagement": {
+        "upvotes": 896,
+        "comments": 654
+      },
+      "image": null,
+      "score": 44.6,
+      "mentionedFigures": [],
+      "rank": 93,
+      "tags": [
+        "startup"
+      ]
+    },
+    {
+      "id": "36kr-6-1772779850126",
+      "title": "抖音生活服务 “随心团” 正式更名 “抖音即送”，主打可堂食品质外卖｜最前线",
+      "url": "https://36kr.com/p/3709615333880197?f=rss",
+      "description": "36氪获悉，抖音生活服务旗下“随心团”业务正式更名为“抖音即送”。\n据了解，“随心团”是抖音生活服务面向优质堂食商家推出的业务，采用定向邀请制，与可支持外卖配送服务的商家合作，提供同一团购套餐“到店验券”与“配送到家”双选择。\n抖音生活服务公布数据显示，截至2025年12月初，“随心团”参与品牌已超3000家，2025年四季度连锁商家“随心团”支付GMV较同年一季度日均提升211%。 \n公开报道显示，抖音“随心团”已在2025年覆盖饮品、西式快餐、面包甜点、正餐中餐等多个餐饮细分品类，蜜雪冰城、茶百道、肯德基、达美乐、麦当劳、华莱士、必胜客、锅圈食汇、八喜冰淇淋等连锁大牌均有参与。\n据了解，华",
+      "source": "36kr",
+      "sourceLabel": "36Kr 36氪",
+      "sourceUrl": "https://36kr.com/p/3709615333880197?f=rss",
+      "author": null,
+      "publishedAt": "2026-03-05T05:57:31.000Z",
+      "engagement": {
+        "upvotes": 0,
+        "comments": 0
+      },
+      "image": "https://img.36krcdn.com/hsossms/20260305/v2_5b6f55bdafa541a6afdc327b28018ae8@5654145_oswg366246oswg1284oswg2778_img_jpg?x-oss-process=image/quality,q_100/format,jpg/interlace,1",
+      "score": 44,
+      "mentionedFigures": [],
+      "rank": 94,
+      "tags": []
+    },
+    {
+      "id": "36kr-7-1772779850126",
+      "title": "一家想让外骨骼成为「人体器官」的公司，再获亿元级融资",
+      "url": "https://36kr.com/p/3706881778069893?f=rss",
+      "description": "3月5日，外骨骼机器人公司程天科技宣布又拿到一笔亿元级B+轮融资。这是一年间的第二笔钱，由农银资本领投，汇川产投、杭州资本跟投。\n过去一年，在具身智能热潮带动下，C端市场对外骨骼机器人有了更强的期待和热情。外骨骼可穿戴产品也走出医院和康复机构，零星出现在景点、田径场、以及家庭场景中。\n四年前，程天科技创始人、CEO王天曾告诉36氪，他认为外骨骼机器人未来会成为独立产业，能对标手机。手机像人的一个器官，解决了“千里眼、顺风耳”的需求。而外骨骼也会成为人的器官，解决人行动能力受限、衰退等问题。\n读高中时，王天就把“做机器人”当作未来方向，并以此规划了本硕博求学路。在人工智能专业还归属于自动化大类之",
+      "source": "36kr",
+      "sourceLabel": "36Kr 36氪",
+      "sourceUrl": "https://36kr.com/p/3706881778069893?f=rss",
+      "author": null,
+      "publishedAt": "2026-03-05T02:18:31.000Z",
+      "engagement": {
+        "upvotes": 0,
+        "comments": 0
+      },
+      "image": "https://img.36krcdn.com/hsossms/20260304/v2_dbec5489f58d4bd984034f4c7b16dd79@5452796_oswg658141oswg1080oswg720_img_jpg?x-oss-process=image/quality,q_90/format,jpg/interlace,1",
+      "score": 44,
+      "mentionedFigures": [],
+      "rank": 95,
+      "tags": [
+        "ai",
+        "startup"
+      ]
+    },
+    {
+      "id": "36kr-8-1772779850126",
+      "title": "头部制氢材料公司获蔚来资本领投A轮融资，中科大团队创立，预计订单额再翻倍｜硬氪首发",
+      "url": "https://36kr.com/p/3698479751769989?f=rss",
+      "description": "作者｜黄楠\n编辑｜袁斯来\n硬氪获悉，安徽枡水新能源科技有限公司（以下简称“枡水科技”）已完成超亿元A轮融资，云道资本担任长期独家财务顾问。以下为本轮融资及公司的主要信息：\n融资金额及投资机构\n融资轮次：A轮\n融资规模：超亿元\n投资方：蔚来资本领投，联想创投、中安资本跟投，合肥创新投追投\n资金用途：主要用于大订单交付，增加研发储备、新工厂建设及日常运营，以推动产业链的整合与升级\n公司基本信息\n成立时间：2019年\n注册地址：安徽省合肥市\n企业定位：枡水科技是一家聚焦氢能关键材料与核心部件的全链条解决方案提供商。公司以国产化替代与技术降本为核心，专注PEM/AEM电解水制氢所需的催化剂、质子交换膜",
+      "source": "36kr",
+      "sourceLabel": "36Kr 36氪",
+      "sourceUrl": "https://36kr.com/p/3698479751769989?f=rss",
+      "author": null,
+      "publishedAt": "2026-03-05T01:45:58.000Z",
+      "engagement": {
+        "upvotes": 0,
+        "comments": 0
+      },
+      "image": "https://img.36krcdn.com/hsossms/20260304/v2_6694a648786a4c9d8879617904926354@6022551_oswg4634902oswg2248oswg1430_img_png?x-oss-process=image/quality,q_80/format,jpg/interlace,1",
+      "score": 44,
+      "mentionedFigures": [],
+      "rank": 96,
+      "tags": [
+        "startup",
+        "ev"
+      ]
+    },
+    {
+      "id": "mastodon-116178635828161083",
+      "title": "The creepy system that serves you targeted ads has been used by the government to track peoples&#39; locations, new repo",
+      "url": "https://mastodon.social/@eff/116178635828161083",
+      "description": "The creepy system that serves you targeted ads has been used by the government to track peoples&#39; locations, new reporting confirms. https://eff.org/deeplinks/2026/03/targeted-advertising-gives-your-location-government-just-ask-cbp",
+      "source": "mastodon",
+      "sourceLabel": "Mastodon @eff",
+      "sourceUrl": "https://mastodon.social/@eff/116178635828161083",
+      "author": "Electronic Frontier Foundation",
+      "publishedAt": "2026-03-05T21:14:57.673Z",
+      "engagement": {
+        "upvotes": 308,
+        "comments": 1
+      },
+      "image": null,
+      "score": 42.4,
+      "mentionedFigures": [],
+      "rank": 97,
+      "tags": []
+    },
+    {
+      "id": "mastodon-116168877363032841",
+      "title": "I love this.https://www.youtube.com/watch?v=GYLBjScgb7o",
+      "url": "https://mastodon.social/@Gargron/116168877363032841",
+      "description": "I love this.https://www.youtube.com/watch?v=GYLBjScgb7o",
+      "source": "mastodon",
+      "sourceLabel": "Mastodon @Gargron",
+      "sourceUrl": "https://mastodon.social/@Gargron/116168877363032841",
+      "author": "Eugen Rochko",
+      "publishedAt": "2026-03-04T03:53:15.313Z",
+      "engagement": {
+        "upvotes": 262,
+        "comments": 13
+      },
+      "image": null,
+      "score": 40.8,
+      "mentionedFigures": [],
+      "rank": 98,
+      "tags": []
+    },
+    {
+      "id": "producthunt-14-1772779847765",
+      "title": "GitSync Lite for macOS",
+      "url": "https://www.producthunt.com/products/gitsync-lite-for-macos",
+      "description": "Discussion\n            |\n            Link",
+      "source": "producthunt",
+      "sourceLabel": "Product Hunt",
+      "sourceUrl": "https://www.producthunt.com/products/gitsync-lite-for-macos",
+      "author": "Sam A",
+      "publishedAt": "2026-03-05T07:01:18.000Z",
+      "engagement": {
+        "upvotes": 0,
+        "comments": 0
+      },
+      "image": null,
+      "score": 40.5,
+      "mentionedFigures": [],
+      "rank": 99,
+      "tags": [
+        "apple"
+      ]
+    },
+    {
+      "id": "hn-47265045",
+      "title": "GPT-5.4",
+      "url": "https://openai.com/index/introducing-gpt-5-4/",
+      "description": "GPT-5.4",
+      "source": "hackernews",
+      "sourceLabel": "Hacker News",
+      "sourceUrl": "https://news.ycombinator.com/item?id=47265045",
+      "author": "mudkipdev",
+      "publishedAt": "2026-03-05T18:08:10.000Z",
+      "engagement": {
+        "upvotes": 763,
+        "comments": 634
+      },
+      "image": null,
+      "score": 40.1,
+      "mentionedFigures": [],
+      "rank": 100,
+      "tags": [
+        "ai"
+      ]
+    }
+  ]
+}
